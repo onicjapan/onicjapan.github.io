@@ -1,12 +1,17 @@
 - tier_name: プラチナスポンサー
   size: large
   sponsors:
-    - name: ノキアソリューションズ&ネットワークス株式会社
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
-    - name: シスコシステムズ合同会社
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
+    - name: アリスタネットワークスジャパン合同会社
+      profile: http://www.aristanetworks.com/
+      logo: arista.jpg
+    - name: 伊藤忠テクノソリューションズ株式会社
+      profile: http://www.ctc-g.co.jp/
+      logo: ctc.jpg
+    - name: ミドクラジャパン株式会社
+      profile: http://www.midokura.jp/
+      logo: midokura.jpg
+
+
     - name: NTTコミュニケーションズ株式会社
       profile: https://www.nokia.com/
       logo: nokia.jpg
