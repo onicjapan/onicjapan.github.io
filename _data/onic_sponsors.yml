@@ -1,31 +1,58 @@
-- tier_name: 協賛企業
+- tier_name: プラチナスポンサー
   size: large
   sponsors:
     - name: ノキアソリューションズ&ネットワークス株式会社
-      profile: Khttps://www.nokia.com/
+      profile: https://www.nokia.com/
       logo: nokia.jpg
     - name: シスコシステムズ合同会社
-      profile: https://www.cisco.com/
-      logo: cisco.jpg
+      profile: https://www.nokia.com/
+      logo: nokia.jpg
     - name: NTTコミュニケーションズ株式会社
-      profile: https://www.ntt.com/
-      logo: nttcom.jpg
-    - name: 富士通株式会社
-      profile: https://global.fujitsu/ja-jp/
-      logo: fujitsu.jpg
-
-    - name: 日本電気株式会社
-      profile: https://jpn.nec.com/
-      logo: NEC.jpg
-
-    - name: デル株式会社
-      profile: https://www.dell.com/ja-jp
-      logo: dell.jpg
-
-    - name: 華為技術日本株式会社
-      profile: https://www.huawei.com/jp/
-      logo: HW.jpg
-
+      profile: https://www.nokia.com/
+      logo: nokia.jpg
     - name: ジュニパーネットワークス株式会社
-      profile: https://www.juniper.net/jp/ja.html
-      logo: juniper.jpg
+      profile: https://www.nokia.com/
+      logo: nokia.jpg
+    - name: ミドクラジャパン株式会社
+      profile: https://www.nokia.com/
+      logo: nokia.jpg
+    - name: 株式会社ストラトスフィア
+      profile: https://www.nokia.com/
+      logo: nokia.jpg
+    - name: 株式会社日立製作所
+      profile: https://www.nokia.com/
+      logo: nokia.jpg
+    - name: 株式会社エヌ・ティ・ティ・データ
+      profile: https://www.nokia.com/
+      logo: nokia.jpg
+    - name: 日商エレクトロニクス株式会社
+      profile: https://www.nokia.com/
+      logo: nokia.jpg
+    - name: アリスタネットワークスジャパン合同会社
+      profile: https://www.nokia.com/
+      logo: nokia.jpg
+    - name: ブロケード コミュニケーションズ システムズ株式会社
+      profile: https://www.nokia.com/
+      logo: nokia.jpg
+    - name: A10ネットワークス株式会社
+      profile: https://www.nokia.com/
+      logo: nokia.jpg
+    - name: エヌ・ティ・ティ・コムウェア株式会社
+      profile: https://www.nokia.com/
+      logo: nokia.jpg
+    - name: 日本アイ・ビー・エム株式会社
+      profile: https://www.nokia.com/
+      logo: nokia.jpg
+    - name: 日本電気株式会社
+      profile: https://www.nokia.com/
+      logo: nokia.jpg
+
+- tier_name: ゴールドスポンサー
+  size: small
+  sponsors:
+    - name: 伊藤忠テクノソリューションズ株式会社
+      profile: https://www.nokia.com/
+      logo: nokia.jpg
+    - name: イクシアコミュニケーションズ株式会社
+      profile: https://www.nokia.com/
+      logo: nokia.jpg

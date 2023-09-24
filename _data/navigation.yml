@@ -5,19 +5,8 @@
   dropdown:
     - name: Program Details
       link: /program-detail/
-- name: Sponsors
-  link: /sponsors/
 - name: Access
   link: /access/
 - name: Facebook
   link: https://www.facebook.com/ONICJapan/
-- name: Archives
-  dropdown:
-    - name: ONIC 2015
-      link: /archives/2015/
-    - name: ONIC 2014
-      link: /archives/2014/
-    - name: ONIC 2013
-      link: /archives/2013/
-    - name: ONIC 2012
-      link: /archives/2012/      
+   
