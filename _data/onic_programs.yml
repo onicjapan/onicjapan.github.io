@@ -7,249 +7,306 @@
       presenters:
         - name_and_title: |-
             ONIC実行委員会委員長
-    - title: フューチャープルーニング：ネットワークの進化とAIの役割
+    - title: Open networking とセキュリティ
       time: 10:30-11:00
       type: 講演
       tag: s_01
       presenters:
         - name_and_title: |-
-            デジタルウェイ・テクノロジーズ<br />
-            デジタルイノベーション部<br />
-            田中　麻衣子
-          photo: placeholder-120x140.png
+            日本電気株式会社<br />
+            サイバーセキュリティ戦略統括部<br />
+            淵上　真一
+          photo: Shinichi_Fuchigami.png
       abstract: |-
-        このセッションでは、未来のネットワークトレンドと、人工知
-        能（AI）がネットワーク管理、セキュリティ、および最適化に
-        果たす役割に焦点を当てます。AIによる自己適応型ネットワー
-        クの展望について議論し、ネットワークインフラストラクチャ
-        の新たな展開に関する洞察を提供します。
+        Open Networkingの多様性や相互接続性がセキュリティと
+        いう視点で見たときに、 どのような親和性があるのか、
+        セキュリティにとってのOpen Networking、 またOpen 
+        Networkingにとってのセキュリティについてお話しします。
       slides:
-        - file: placeholder.pdf
-    - title: 5G時代のネットワークセキュリティ戦略
+        - file: 2022_OpenNetworking.pdf
+    - title: Routing Platformのオープン化への取り組み
       time: 11:00-11:30
       type: スポンサーセッション
       tag: s_02
       presenters:
         - name_and_title: |-
-            インテリジェントネットワーク合同会社<br />
-            山本　健太郎
-          photo: placeholder-120x140.png
+            シスコシステムズ合同会社<br />
+            鎌田　徹平
+          photo: Teppei_Kamata.png
       abstract: |-
-        このセッションでは、5Gネットワーク環境におけるセキュリ
-        ティの課題と戦略に焦点を当てます。新たなセキュリティリ
-        スクと5Gテクノロジーの特性に対処するためのアプローチや
-        ベストプラクティスについて討議し、ネットワークセキュリ
-        ティの強化に向けた戦略を検討します。
+        近年Disaggregationを始めとしたNetworkのOpen化への取り
+        組みが進んでいます。このセッションでは、近年のRouting
+        Platformの動向やAPIを用いたRouting制御に関するCiscoの
+        取り組みについて紹介したいと思います。
       slides:
         - file: 2022_Routing-Platform.pdf
-    - title: エッジコンピューティングとIoTの融合：ネットワークの未来
+    - title: 政府の DX を支える IT 基盤のあり方(みたいな)
       time: 11:30-12:00
       type: 講演
       tag: s_03
       presenters:
         - name_and_title: |-
-            クラウドソリューションズ株式会社<br />
-            鈴木　みずき 
-          photo: placeholder-120x140.png
+            東京大学<br />
+            関谷　勇司
+          photo: Yuji_Sekiya.png
       abstract: |-
-        このセッションでは、エッジコンピューティングとインター
-        ネット・オブ・シングス（IoT）がネットワークアーキテク
-        チャとビジネスモデルに与える影響に焦点を当てます。エッ
-        ジデバイスからのデータ処理とネットワーク要件への対応に
-        ついて議論し、これらの技術がネットワークの未来をどのよ
-        うに変えるかについて考察します。
-    - title: クラウドネイティブネットワークの実装と運用
+        政府によって「クラウド・バイ・デフォルト原則」が打ち
+        出されてはや4年が経過します。しかし、本当にクラウド・
+        バイ・デフォルトは実現できているのでしょうか。政府み
+        たいな公共的なシステムとサービスを支える IT 基盤につ
+        いて、どうクラウドを利用していくべきなのか、またそれ
+        がユーザビリティの向上に貢献するのか、セキュリティは
+        確保されているのか、はたまた DX なんて言葉が何を意味
+        するのか、そんなモヤモヤした課題について、IT 基盤のあ
+        り方を議論するみたいな講演です。
+    - title: データ解析によって、ロボットとセンサーを繋ぐ 〜立命館大学様との実証と国際展開〜
       time: 12:00-12:15
       type: スポンサーセッション
       tag: s_04
       presenters:
         - name_and_title: |-
-            データマスター株式会社<br />
-            クラウドサービス開発部<br />
-            小林　悠子
-          photo: placeholder-120x140.png
+            富士通株式会社<br />
+            未来社会＆テクノロジー本部<br />
+            深野　晴久
+          photo: Haruhisa_Fukano.png
         - name_and_title: |-
-            データマスター株式会社<br />
-            クラウドサービス開発部<br />
-            佐藤　大輔
-          photo: placeholder-120x140.png
+            富士通株式会社<br />
+            未来社会＆テクノロジー本部<br />
+            井上　玲於
+          photo: Leo_Inoue.png
       slides:
-        - file: placeholder.pdf
+        - file: 2022_fujitsu.pdf
     - title: お昼休憩
-    - title: 量子ネットワーキングの未来：安全性とスケーラビリティ
+    - title: Trusted Webとデータセキュリティ関連動向
       time: 13:30-14:00
       type: 講演
       tag: s_05
       presenters:
         - name_and_title: |-
-            サイバーコアテック合同会社<br />
-            サイバーセキュリティチーム<br />
-            高橋　美咲
-          photo: placeholder-120x140.png
+            慶應義塾大学大学院<br />
+            政策・メディア研究科<br />
+            鈴木　茂哉
+          photo: Sigeya_Suzuki.png
       abstract: |-
-        このセッションでは、量子ネットワーキングの最新動向と
-        その未来に焦点を当てます。量子暗号技術と量子ネットワ
-        ークの可能性について議論し、これらの革新的なアプロー
-        チがネットワーク通信の安全性とスケーラビリティにどの
-        ような影響を及ぼすかについて考察します。
-    - title: サイバーセキュリティと人工知能：未知の脅威への対応
+        「デジタル社会」の基盤として発展してきたインター
+        ネットとウェブでは、データの受け渡しのプロトコル
+        は決められているものの、 アイデンティティ管理も含
+        め、プラットフォーム事業者などの各サービスに依存。
+
+        サイロ化され、 外部からの検証可能性が低く「信じる
+        ほかない」状況である。この状況の打開に取り組むべく、
+        2020年10月に「Trusted Web推進協議会」を発足,継続
+        的似活動が行われ、2022年8月には「ホワイトペーパ 
+        ver.2.0」が公開されている。本講演ではTrusted Webに
+        深く関わる講演者によりTrusted Webの取り組みを紹介
+        するとともに、データセキュリティ関連の動向につい
+        て紹介する。
+    - title: 5G の取組について
       time: 14:00-14:30
       type: スポンサーセッション
       tag: s_06
       presenters:
         - name_and_title: |-
-            テクノロジーフロンティア株式会社<br />
-            中村　一郎 
-          photo: placeholder-120x140.png
+            株式会社インターネットイニシアティブ<br />
+            早坂　忍
+          photo: Shinobu_Hayasaka.png
       abstract: |-
-        このセッションでは、人工知能と機械学習がサイバーセキュ
-        リティ分野で果たす役割に焦点を当てます。未知の脅威や高
-        度な攻撃への対策としてAI技術の活用について議論し、セキ
-        ュリティの向上とインシデント対応の最新アプローチを探り
+        MNOによる5G SAサービスが今夏より、順次開始され5G通信
+        サービスが主流になっていきます。MVNOが提供する5G SA
+        の提供モデルや接続構成についての取組についてご紹介し
         ます。
-    - title: グローバルなデジタルインフラ：ネットワークの普及と課題
+    - title: サービスメッシュ - これからのクラウドネイティヴアーキテクチャのあり方を探る
       time: 14:30-15:00
       type: 講演
       tag: s_07
       presenters:
         - name_and_title: |-
-            ビジョンテックジャパン有限会社</br />
-            町田　真理子
-          photo: placeholder-120x140.png
+            シスコシステムズ合同会社</br />
+            河野　美也
+          photo: Miya_Kohno.png
         - name_and_title: |-
-            ビジョンテックジャパン有限会社</br />
-            渡辺　雅彦
-          photo: placeholder-120x140.png
+            シスコシステムズ合同会社</br />
+            堤　一記
+          photo: Kazuki_Tutumi.png
       abstract: |-
-        このセッションでは、世界中のデジタルインフラストラクチャ
-        の普及と課題に焦点を当てます。新興市場と発展途中国におけ
-        るデジタルインクルージョンの促進、インフラストラクチャの
-        持続可能性、そして地域ごとのネットワーク課題について討議
-        し、国際的な協力の必要性について考えます。
+        サービスメッシュは、マイクロサービスの接続、制御、監視を可能
+        にし、マイクロサービスアーキテクチャの一貫した開発、展開、セ
+        キュリティ、およびスケーラビリティを提供します。
+
+        しかし、マイクロサービスベースのアーキテクチャは、攻撃対象領
+        域を拡大し、アプリケーションを新たな脆弱性や脅威にさらすため、
+        アプリケーション・セキュリティに対するまったく新しいアプローチ
+        が必要になります。
+
+        本講演では、サービスメッシュの実装における課題、CNIとの関係を
+        概観し、クラウドネイティヴアーキテクチャのあり方に迫ります。
       slides:
         - file: 2022_Service-Mesh.pdf
         - file: 2022_Service-Mesh2.pdf
     - title: 休憩
       time: 15:00-15:10
-    - title: 量子コンピューティングとネットワーク：新たな可能性への突破口
+    - title: 〜IOWNの最新？技術トレンド〜
       time: 15:10-15:40
       type: 講演
       tag: s_08
       presenters:
         - name_and_title: |-
-            デジタルファクトリー合同会社<br />
-            加藤　麗子
-          photo: placeholder-120x140.png
+            日本電信電話株式会社<br />
+            長谷部　克幸
+          photo: Katsuyuki_Hasebe.png
       abstract: |-
-        このセッションでは、量子コンピューティングがネットワーク
-        分野にもたらす可能性に焦点を当てます。量子アルゴリズムと
-        ネットワーク最適化の関連性について議論し、量子コンピュー
-        ティングがネットワーク設計とセキュリティに与える影響につ
-        いて検証します。
-    - title: スマートシティの未来：ネットワーク技術と都市インフラ
+        IOWN構想実現に向けた取り組みについて、産業競争力強化の観点
+        も加味しつつご紹介する
+    - title: クラウドネイティブな新しいネットワークコントローラをつくる
       time: 15:40-16:10
       type: スポンサーセッション
       tag: s_09
       presenters:
         - name_and_title: |-
-            プログレッシブシステムズ株式会社<br />
-            伊藤　剛太
-          photo: placeholder-120x140.png
+            NTTコミュニケーションズ株式会社<br />
+            奥井　寛樹
+          photo: Hiroki_Okui.png
       abstract: |-
-        このセッションでは、スマートシティ概念とネットワーク技
-        術の相互作用に焦点を当てます。都市インフラストラクチャ
-        のデジタル化、IoTセンサーの展開、および市民サービスの改
-        善におけるネットワークの役割について討議し、持続可能な
-        都市の実現に向けた戦略を考察します。
+        近年のソフトウェア開発はクラウドネイティブが主流となり、
+        Infrastructure asCodeでインフラを定義しGitOpsでデリバリ
+        するために様々なOSS・プラクティスが生み出されている一方
+        で、ネットワーク装置のプロビジョニングは旧来の手続き的な
+        方式から変わっていません。CNCF界隈で生み出された技術や
+        プラクティスはネットワーク装置のプロビジョニングにも適用
+        可能であり、それらを活用したオペレーションの高度化を模索
+        しています。本セッションでは、キャリアでのネットワーク
+        サービス開発における課題、CNCFのIaC・GitOpsの最新トレン
+        ド、CNCF技術を用いて開発した新しいネットワークコントロー
+        ラについて紹介します。
       slides:
-        - file: placeholder.pdf
-    - title: ハイパフォーマンスネットワーク設計の最新トレンド
+        - file: 2022_Cloud_Native.pdf
+    - title: The Network as a Programmable Platform
       time: 16:10-16:40
       type: 講演
       tag: s_10
       presenters:
         - name_and_title: |-
-            インフィニティインフォテック株式会社<br />
-            林　梨香
-          photo: placeholder-120x140.png
+            Princeton University<br />
+            Larry Peterson
+          photo: Larry_Peterson.png
       abstract: |-
-        このセッションでは、ハイパフォーマンスネットワーク設計の
-        最新トレンドに焦点を当てます。高速データ伝送、低遅延通信、
-        および高信頼性ネットワークの設計戦略について議論し、次世
-        代のネットワークインフラストラクチャに向けた革新的なアイ
-        デアを探ります。
+        Networks have historically been treated as plumbing, used 
+        to interconnect computing systems to build larger distributed 
+        computing systems, but advances in Software-Defined Networks 
+        (SDN) make it possible to treat the network, itself, as a
+        programmable platform. Networks can now be programmed 
+        end-to-end and top-to-bottom, as well as take advantage of 
+        best practices in operating scalable cloud services. This 
+        talk discusses how this programmability can be used to 
+        support verifiable closed-loop control, including throughout 
+        5G mobile networks. The talk also describes our experiences 
+        building Aether, an open source 5G-enabled edge cloud that 
+        demonstrates the value of treating the network as a 
+        programmable platform. A pilot deployment of Aether is being 
+        deployed in campuses and enterprises around the world.
+
+        英語でのご講演となります。通訳は入りません。
       slides:
         - file: 2022_AETHER-Open-5G-Connected-Edge-Cloud.pdf
     - title: 休憩（コーヒータイム）
       time: 16:40-17:10
-    - title: サイバーレジリエンス：攻撃からの復旧とネットワーク保護
+    - title: AWS/AzureのHybridCloud製品によるエッジコンピューティング
       time: 17:10-17:40
       type: 講演
       tag: s_11
       presenters:
         - name_and_title: |-
-            クラウドウェイブテクノロジー合同会社<br />
-            大野　宏治
-          photo: placeholder-120x140.png
+            NTTコミュニケーションズ株式会社<br />
+            鈴ヶ嶺　聡哲
+          photo: Sotetsu_Suzugamine.png
       abstract: |-
-        このセッションでは、サイバー攻撃からの迅速な復旧とネット
-        ワークの保護に焦点を当てます。サイバーレジリエンスの実装
-        戦略やインシデント対応プランについて討議し、ビジネス継続
-        性の確保とネットワークセキュリティの向上に関する最新の情
-        報を提供します。
+        クラウドコンピューティングの普及により、近年は多くのシステ
+        ムがクラウド上で運用されています。
+
+        しかし機密情報のセキュリティや応答遅延の問題で自社のオン
+        プレミス環境などのエッジにシステムを構築する状況は多々あ
+        ります。
+
+        このような状況に適応するために、オンプレミス環境で
+        PublicCloudのサブセットの機能を提供するHybrid Cloudソリュー
+        ションが提案されています。
+
+        例えばAWSであればAWSOutpostsファミリーを、Azureであれば
+        AzureStackファミリーを提供しています。本発表ではこの2つの
+        ソリューションを取り上げてHybrid Cloudを用いたエッジコン
+        ピューティングのユースケースや各社の機能面を比較した結果
+        を紹介します。 
       slides:
         - file: 2022_-AWS_Azure.pdf
-    - title: ネットワークデータの分析とビッグデータ戦略
+    - title: Network as Code 自動化のこれから
       time: 17:40-18:10
       type: 講演
       tag: s_12
       presenters:
         - name_and_title: |-
-            イノベーションドライブ株式会社<br />
-            松田　真理
-          photo: placeholder-120x140.png
+            HashiCorp<br />
+            桂田　祥吾
+          photo: Shogo_Katsurada.png
       abstract: |-
-        このセッションでは、ネットワークデータの収集と分析に焦点
-        を当てます。ビッグデータテクノロジーの導入によるネットワー
-        クの最適化、トラブルシューティング、およびビジネスインテ
-        リジェンスへの応用について議論し、データ駆動型のネットワー
-        ク管理戦略を探求します。
+        ネットワークを含む多くのインフラが Software Definedなの
+        時代となり、これまでとはインフラとの向き合い方が変わっ
+        てきている現在、クラウドにおいては、Infrastructure as 
+        Code という形で、クラウド内の技術コンポーネント を自動
+        化する仕組みが当たり前になってきています。 そういった、
+        IaC の仕組みは、Network の世界においても適用できるケー
+        スが増えてきています。 Network as Code ということで、
+        Network 分野における IaC の話をさせていただければと思
+        います。
       slides:
         - file: 2022_Network-as-Code.pdf
-    - title: ネットワークのエネルギー効率化と持続可能性
+    - title: Introduction to Cilium from Telco and On-premise Perspective
       time: 18:10-18:40
       type: 講演
       tag: s_13
       presenters:
         - name_and_title: |-
-            テックトランスフォームジャパン有限会社<br />
-            佐々木　俊一
-          photo: placeholder-120x140.png
+            Isovalent, Inc<br />
+            早川　侑太朗
+          photo: Yutaro_Hayakawa.png
       abstract: |-
-        このセッションでは、ネットワークインフラストラクチャのエ
-        ネルギー消費と持続可能性に焦点を当てます。省エネルギーネッ
-        トワーク設計、再生可能エネルギーの活用、および環境に配慮
-        したネットワーク運用について討議し、エネルギー効率の向上
-        と環境への配慮に関する戦略を検討します。
+        CiliumはCNIの実装なども含むKubernetes向けのネットワーク
+        ソリューションです。近年国内外のコミュニティ、特にCNCF
+        周辺のWebアプリケーション開発者中心のコミュニティで注目
+        を集めつつあります。一方で、テルコやオンプレミス環境など
+        でのユースケースに関しては注力はしているものの情報が多く
+        ないのが現状です。そこで、このセッションではテルコ・オン
+        プレの切り口でCiliumを解説するとともに、今後のロードマッ
+        プ、CiliumとSDNの意外な関わりなどに関してお話しします。
       slides:
         - file: 2022_Introduction-to-Cilium-from-Telco-and-On-premise-Perspective.pdf
-    - title: デジタルツインズとネットワークの未来
+    - title: SRv6@ShowNet 2022とプログラマビリティ
       time: 18:40-19:10
       type: 講演
       tag: s_14
       presenters:
         - name_and_title: |-
-            デジタルビジョンテクノロジーズ合同会社<br />
-            高田　幸子
-          photo: placeholder-120x140.png
+            東京大学/Interop Tokyo 2022 ShowNet NOCチームメンバー<br />
+            中村　遼
+          photo: Ryo_Nakamura.png
       abstract: |-
-        このセッションでは、デジタルツインズ技術とネットワーク
-        の相互関係に焦点を当てます。デジタルツインズがネットワー
-        クデザイン、監視、および最適化にどのように活用できるか
-        について議論し、デジタルツインズがネットワーク管理にも
-        たらす可能性について検証します。
+        ShowNetは、ネットワークテクノロジーに関する展示会”Interop 
+        Tokyo”で構築される世界最大のイベントネットワークです。
+
+        ShowNetはその年々の最新の機器や技術、そしてプロトコルの検
+        証やデモンストレーションを実施しながら、Interop出展社や来
+        場者へインターネット接続性を提供する実ネットワークでもあり
+        ます。
+
+        2022年のShowNetバックボーンはマルチベンダーによるSegment 
+        Routing over IPv6 (SRv6)のIPv6シングルスタックネットワー
+        クとして構築されました。
+
+        本講演では、このSRv6バックボーンやそれを用いた長距離映像伝
+        送実験について解説すると同時に、2012年のOpenFlowから今年の
+        SRv6と、ネットワークにおけるプログラマビリティについて
+        ShowNetでの10年間にわたる奮闘を交えて議論します。
       slides:
-        - file: placeholder.pdf
+        - file: 2022_shownet.pdf
     - title: 閉会宣言
       time: 19:10-
       presenters:

@@ -13,8 +13,6 @@
   link: https://www.facebook.com/ONICJapan/
 - name: Archives
   dropdown:
-    - name: ONIC 2022
-      link: /archives/2022/
     - name: ONIC 2021
       link: /archives/2021/
     - name: ONIC 2020
