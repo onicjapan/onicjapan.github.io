@@ -1,7 +1,7 @@
 - name: Home
   link: /
-- name: News
-  link: /news/
+#- name: News
+#  link: /news/
 - name: Program
   link: /program/
 - name: Sponsors

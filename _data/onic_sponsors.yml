@@ -10,54 +10,116 @@
     - name: ミドクラジャパン株式会社
       profile: http://www.midokura.jp/
       logo: midokura.jpg
-
-
-    - name: NTTコミュニケーションズ株式会社
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
-    - name: ジュニパーネットワークス株式会社
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
-    - name: ミドクラジャパン株式会社
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
     - name: 株式会社ストラトスフィア
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
-    - name: 株式会社日立製作所
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
-    - name: 株式会社エヌ・ティ・ティ・データ
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
-    - name: 日商エレクトロニクス株式会社
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
-    - name: アリスタネットワークスジャパン合同会社
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
-    - name: ブロケード コミュニケーションズ システムズ株式会社
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
+      profile: http://www.stratosphere.co.jp/%22
+      logo: Stratosphere.jpg
+    - name: シスコシステムズ合同会社
+      profile: http://www.cisco.com/web/JP/index.html
+      logo: ciscosystems.jpg
     - name: A10ネットワークス株式会社
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
-    - name: エヌ・ティ・ティ・コムウェア株式会社
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
-    - name: 日本アイ・ビー・エム株式会社
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
+      profile: http://www.a10networks.co.jp/
+      logo: A10.jpg
+    - name: Nuage Networks（日本アルカテル・ルーセント株式会社）
+      profile: http://www.alcatel-lucent.co.jp/
+      logo: alca.jpg
+    - name: 株式会社日立製作所
+      profile: http://www.hitachi.co.jp/
+      logo: hitachi.jpg
+    - name: サイアン・ジャパン合同会社
+      profile: http://www.cyanoptics.com/
+      logo: cyan.jpg
+    - name: 華為技術日本株式会社（ファーウェイ・ジャパン）
+      profile: http://www.huawei.com/jp/
+      logo: HW-2013.jpg
     - name: 日本電気株式会社
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
+      profile: http://jpn.nec.com/
+      logo: nec-2013.jpg
+    - name: シトリックス・システムズ・ジャパン株式会社
+      profile: https://www.citrix.com/
+      logo: citrix.jpg
+    - name: ヴイエムウェア株式会社
+      profile: http://www.vmware.com/jp/
+      logo: VMW.jpg
+    - name: FlowFowarding.org
+      profile: http://www.flowforwarding.org/
+      logo: FlowForwarding.jpg
+    - name: 日商エレクトロニクス株式会社
+      profile: http://www.nissho-ele.co.jp/
+      logo: Nissho.jpg
+    - name: Ciena Communications Japan Co., Ltd
+      profile: http://www.ciena.com/
+      logo: Ciena.jpg
+    - name: 日本アイ・ビー・エム株式会社
+      profile: http://www.ibm.com/jp/ja/
+      logo: ibm.jpg
+    - name: ブロケード コミュニケーションズ システムズ株式会社
+      profile: http://www.brocadejapan.com/
+      logo: brocade.jpg
+    - name: 三井情報株式会社
+      profile: http://www.mki.co.jp/
+      logo: mki.jpg
+    - name: ネットワンシステムズ株式会社
+      profile: http://www.netone.co.jp/
+      logo: no.jpg
+    - name: NTTコミュニケーションズ株式会社
+      profile: http://www.ntt.com/
+      logo: NTT_Com.jpg
+    - name: NTTコムウェア株式会社
+      profile: http://www.nttcom.co.jp/
+      logo: NTT_cw.jpg
 
 - tier_name: ゴールドスポンサー
   size: small
   sponsors:
-    - name: 伊藤忠テクノソリューションズ株式会社
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
     - name: イクシアコミュニケーションズ株式会社
-      profile: https://www.nokia.com/
-      logo: nokia.jpg
+      profile: http://www.ixiacom.jp/
+      logo: ixia.jpg
+    - name: BBIX株式会社
+      profile: http://www.bbix.net/
+      logo: bbix.jpg
+    - name: アライドテレシス株式会社
+      profile: http://www.allied-telesis.co.jp/
+      logo: allied.jpg
+
+- tier_name: メディアスポンサー
+  size: small
+  sponsors:
+    - name: アイティメディア
+      profile: http://www.atmarkit.co.jp/
+      logo: atm.jpg
+    - name: インプレスビジネスメディア
+      profile: https://it.impressbm.co.jp/
+      logo: it_leaders.jpg
+    - name: インターネットコム
+      profile: http://japan.internet.com/
+      logo: ja.jpg
+    - name: Impress Watch
+      profile: http://cloud.watch.impress.co.jp/
+      logo: cw.jpg
+    - name: ExpoTODAY
+      profile: http://expotoday.com/
+      logo: it_leaders.jpg
+    - name: インターネットコム
+      profile: http://japan.internet.com/
+      logo: expo.jpg
+
+    - name: 技術評論社
+      profile: http://gihyo.jp/
+      logo: gihyo.jpg
+    - name: 技術評論社
+      profile: http://gihyo.jp/magazine/SD
+      logo: sd.jpg
+    - name: ソースフォージ・ジェーピー
+      profile: http://sourceforge.jp/
+      logo: sj.jpg
+
+    - name: スラッシュドット・ジャパン
+      profile: http://slashdot.jp/
+      logo: sl.jpg
+    - name: Publicky
+      profile: http://www.publickey1.jp/
+      logo: pb.jpg
+    - name: 日経コミュニケーション
+      profile: http://itpro.nikkeibp.co.jp/NCC/
+      logo: nc.jpg
+
