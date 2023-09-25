@@ -6,7 +6,7 @@ show_sidebar: true
 ---
 ## 開催概要
 
-| 名称     | Open Networking Conference Japan 2012 |
+| 名称     | Open Networking Conference Japan 2013 |
 | URL      | [https://onic.jp/]( {{ site.baseurl }}/) |
 | 会期     | 2012年12月6日-7日 |
 | 主催     | Open Networking Conference Japan2012 実行委員会 |
