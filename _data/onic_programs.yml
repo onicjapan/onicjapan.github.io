@@ -2,18 +2,24 @@
   sessions:
     - title: 受付開始
       time: "17:30"
+      type: BoF
     - title: 開会
       time: "17:55"
+      type: BoF
     - title: BoF1
       time: "18:00"
+      type: BoF      
     - title: BoF2
       time: "18:30"
+      type: BoF      
     - title: 休憩
       time: "19:00"
     - title: BoF3
       time: "19:30"
+      type: BoF      
     - title: BoF4
       time: "20:00"
+      type: BoF      
     - title: 閉会
       time: "20:30"
 - date: November 10, 2023 (@メインホール)
@@ -44,9 +50,9 @@
         れているのでしょうか。 そして、そのパラダイムで本当に
         問題は解決されるのでしょうか。この講演では、Web3 を支
         えるとされる技術の現実を露わにします。
-    - title: スポンサーセッション1
+    - title: 調整中
       time: "10:50-11:20"
-      tag: s_02
+      type: スポンサーセッション
     - title: コネクティッドカーとエッジコンピューティングによるグリーンモビリティへの挑戦
       time: "11:20-11:50"
       type: 講演
@@ -92,12 +98,12 @@
         ターネットが社会基盤になったが故に顕在化している問題も
         多い。講演ではこうした問題点について展望し、今後の在り
         方について考える。
-    - title: スポンサーセッション2
+    - title: 調整中
       time: "13:30-14:00"
-      tag: s_05
-    - title: スポンサーセッション3
+      type: スポンサーセッション
+    - title: 調整中
       time: "14:00-14:30"
-      tag: s_06        
+      type: スポンサーセッション
     - title: データ分析観点からみるインシデント対応
       time: "14:30-15:00"
       type: 講演
@@ -116,18 +122,17 @@
       time: "15:00-15:15"        
     - title: A 12-year journey developing breakthrough AI products for Networking
       time: "15:15-15:45"
-      type:
-      tag: s_08
+      type: 講演
       presenters:
         - name_and_title: |-
             Cisco Systems<br />
             JP Vasseur
-    - title: スポンサーセッション4
+    - title: 調整中
       time: "15:45-16:15"
-      tag: s_09     
-    - title: スポンサーセッション5
+      type: スポンサーセッション
+    - title: 調整中
       time: "16:15-16:45"
-      tag: s_02   
+      type: スポンサーセッション      
     - title: Interop Tokyo 2023 ShowNetのVPNベースバックボーン
       time: "16:45-17:15"
       type: 講演
@@ -150,7 +155,8 @@
     - title: 休憩
       time: "17:15-17:30"
     - title: AIとネットワークエンジニアのパネル
-      time: "17:30-18:30"             
+      time: "17:30-18:30"
+      type: パネル
     - title: 閉会の挨拶
       time: "18:30-"
       presenters:
