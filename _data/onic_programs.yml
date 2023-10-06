@@ -105,6 +105,9 @@
     - title: 調整中
       time: "10:50-11:20"
       type: スポンサーセッション
+      presenters:
+        - name_and_title: |-
+            Cisco Systems
     - title: コネクティッドカーとエッジコンピューティングによるグリーンモビリティへの挑戦
       time: "11:20-11:50"
       type: 講演
@@ -192,7 +195,8 @@
       presenters:
         - name_and_title: |-
             Cisco Systems<br />
-            JP Vasseur
+            JP Vasseur<br />
+            ※このプログラムはビデオ講演（英語）となります。
     - title: コンテナ基盤を活用したIoTサービスとeSIMアプレット連携の取り組みについて
       time: "15:45-16:15"
       type: スポンサーセッション
