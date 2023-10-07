@@ -2,10 +2,8 @@
   sessions:
     - title: 受付開始
       time: "17:30"
-      type: BoF
     - title: 開会
       time: "17:55"
-      type: BoF
     - title: エッジからはじめる新しいユーザーフレンドリーなサービスデザイン手法
       time: "18:00"
       type: BoF
