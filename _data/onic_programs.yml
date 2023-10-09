@@ -15,7 +15,7 @@
         - name_and_title: |-
             日本電気株式会社<br />
             サイバーセキュリティ戦略統括部<br />
-            淵上　真一
+            淵上 真一
           photo: Shinichi_Fuchigami.png
       abstract: |-
         Open Networkingの多様性や相互接続性がセキュリティと
@@ -31,7 +31,7 @@
       presenters:
         - name_and_title: |-
             シスコシステムズ合同会社<br />
-            鎌田　徹平
+            鎌田 徹平
           photo: Teppei_Kamata.png
       abstract: |-
         近年Disaggregationを始めとしたNetworkのOpen化への取り
@@ -47,7 +47,7 @@
       presenters:
         - name_and_title: |-
             東京大学<br />
-            関谷　勇司
+            関谷 勇司
           photo: Yuji_Sekiya.png
       abstract: |-
         政府によって「クラウド・バイ・デフォルト原則」が打ち
@@ -67,12 +67,12 @@
         - name_and_title: |-
             富士通株式会社<br />
             未来社会＆テクノロジー本部<br />
-            深野　晴久
+            深野 晴久
           photo: Haruhisa_Fukano.png
         - name_and_title: |-
             富士通株式会社<br />
             未来社会＆テクノロジー本部<br />
-            井上　玲於
+            井上 玲於
           photo: Leo_Inoue.png
       slides:
         - file: 2022_fujitsu.pdf
@@ -85,7 +85,7 @@
         - name_and_title: |-
             慶應義塾大学大学院<br />
             政策・メディア研究科<br />
-            鈴木　茂哉
+            鈴木 茂哉
           photo: Sigeya_Suzuki.png
       abstract: |-
         「デジタル社会」の基盤として発展してきたインター
@@ -108,7 +108,7 @@
       presenters:
         - name_and_title: |-
             株式会社インターネットイニシアティブ<br />
-            早坂　忍
+            早坂 忍
           photo: Shinobu_Hayasaka.png
       abstract: |-
         MNOによる5G SAサービスが今夏より、順次開始され5G通信
@@ -126,7 +126,7 @@
           photo: Miya_Kohno.png
         - name_and_title: |-
             シスコシステムズ合同会社</br />
-            堤　一記
+            堤 一記
           photo: Kazuki_Tutumi.png
       abstract: |-
         サービスメッシュは、マイクロサービスの接続、制御、監視を可能
@@ -152,7 +152,7 @@
       presenters:
         - name_and_title: |-
             日本電信電話株式会社<br />
-            長谷部　克幸
+            長谷部 克幸
           photo: Katsuyuki_Hasebe.png
       abstract: |-
         IOWN構想実現に向けた取り組みについて、産業競争力強化の観点
@@ -164,7 +164,7 @@
       presenters:
         - name_and_title: |-
             NTTコミュニケーションズ株式会社<br />
-            奥井　寛樹
+            奥井 寛樹
           photo: Hiroki_Okui.png
       abstract: |-
         近年のソフトウェア開発はクラウドネイティブが主流となり、
@@ -217,7 +217,7 @@
       presenters:
         - name_and_title: |-
             NTTコミュニケーションズ株式会社<br />
-            鈴ヶ嶺　聡哲
+            鈴ヶ嶺 聡哲
           photo: Sotetsu_Suzugamine.png
       abstract: |-
         クラウドコンピューティングの普及により、近年は多くのシステ
@@ -245,7 +245,7 @@
       presenters:
         - name_and_title: |-
             HashiCorp<br />
-            桂田　祥吾
+            桂田 祥吾
           photo: Shogo_Katsurada.png
       abstract: |-
         ネットワークを含む多くのインフラが Software Definedなの
@@ -266,7 +266,7 @@
       presenters:
         - name_and_title: |-
             Isovalent, Inc<br />
-            早川　侑太朗
+            早川 侑太朗
           photo: Yutaro_Hayakawa.png
       abstract: |-
         CiliumはCNIの実装なども含むKubernetes向けのネットワーク
@@ -286,7 +286,7 @@
       presenters:
         - name_and_title: |-
             東京大学/Interop Tokyo 2022 ShowNet NOCチームメンバー<br />
-            中村　遼
+            中村 遼
           photo: Ryo_Nakamura.png
       abstract: |-
         ShowNetは、ネットワークテクノロジーに関する展示会”Interop 
