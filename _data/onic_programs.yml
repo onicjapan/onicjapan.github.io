@@ -239,8 +239,13 @@
         - name_and_title: |-
             NTTコミュニケーションズ株式会社<br />
             プラットフォームサービス本部　5G&IoT部<br />
-            角田 佳史<br />
+            角田 佳史
+          photo: tsunoda.jpg
+        - name_and_title: |-
+            NTTコミュニケーションズ株式会社<br />
+            プラットフォームサービス本部　5G&IoT部<br />
             村田 一成
+          photo: murata.jpg        
       abstract: |-
         IoT Connect Gatewayはプロトコル変換機能を軸に
         したクラウドアダプタ機能、リモートアクセス機能、
