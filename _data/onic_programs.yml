@@ -227,12 +227,34 @@
     - title: A 12-year journey developing breakthrough AI products for Networking
       time: "15:15-15:45"
       type: 講演
+      tag: s_08
       presenters:
         - name_and_title: |-
             Cisco Systems<br />
-            JP Vasseur<br />
-            河野 美也<br />
-            ※このプログラムはビデオ講演（英語）となります。
+            JP Vasseur, PhD, Cisco Fellow ML/AI jpv@cisco.com<br />
+            Miya Kohno (Introduction and Translation), Distinguished Systems 
+            Engineer, mkohno@cisco.com<br />
+          photo: jvasseur.jpg
+      abstract: |-
+        As a brief introduction, we will quickly review the AI evolution 
+        over the past few decades along with few key technologies before 
+        digging up and show how AI has paved the way of many innovations 
+        at Cisco leading to a number of innovative products related to AI 
+        for Networking: security, Wireless (detecting anomalies, root 
+        causing), LAN, Predictive Networks and Cognitive Networks. Then 
+        we will introduce Generative-AI and how Large Language Models (LLM) 
+        can be used for a plethora of Network use cases. <br />
+        For more information about ML/AI for Networking: 
+        [www.jpvasseur.me](https://www.jpvasseur.me)<br /><br />
+        はじめに、過去数十年にわたるAIの進化を、いくつかの主要なテク
+        ノロジーとともに素早く振り返ります。そして、AIがいかにシスコにおける
+        多くのイノベーションの道を開き、セキュリティ、ワイヤレス（異常の検出、
+        根本原因解析）、LAN、予測ネットワーク、コグニティブネットワークなど、
+        ネットワーク向けのAIに関連する数多くの革新的な製品を生み出してきたか
+        を紹介します。最後に、生成AIと大規模言語モデル（LLM）がどのようにネッ
+        トワークの多くのユースケースに使用できるかを紹介します。 ネットワー
+        キングのためのML/AI詳細に関しては、こちらをご参照ください
+        [www.jpvasseur.me](https://www.jpvasseur.me)
     - title: コンテナ基盤を活用したIoTサービスとeSIMアプレット連携の取り組みについて
       time: "15:45-16:15"
       type: スポンサーセッション
