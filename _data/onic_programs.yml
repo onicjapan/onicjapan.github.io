@@ -74,6 +74,12 @@
             未来社会＆テクノロジー本部<br />
             井上 玲於
           photo: Leo_Inoue.png
+      abstract: |-
+        RoboticsのDigitalization/ICTへの融合は、SDGs達成の鍵。
+        センシングによるデータ収集、加工/解析、仮想空間との連
+        携はもちろん、アクチュエーションも意識した立命館大学
+        様と富士通の取り組み～技術紹介、ソフトウエア開発や実
+        証～そしてLF EdgeでのOSS化についてお話しします。 
       slides:
         - file: 2022_fujitsu.pdf
     - title: お昼休憩
