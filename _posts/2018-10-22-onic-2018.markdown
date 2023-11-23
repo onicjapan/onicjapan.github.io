@@ -1,0 +1,15 @@
+---
+layout: post
+title:  Open NetworkIng Conference Japan 2018 閉幕しました。
+description: 閉幕しました。
+date:   2018-10-22 15:00:00 +0900
+hero_image:  /img/20181022-1.jpeg
+image:  /img/20181022-2.jpeg
+hero_height:  is-middle
+hero_darken:  true
+---
+閉幕しました。
+
+前回までとは違う軽井沢での開催でしたが、皆様のおかげで無事閉幕できました。
+寒い中、朝早くから来場いただきありがとうございます。
+資料は後日、公開予定です。もうしばらくお待ちください。

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  Open NetworkIng Conference Japan 2018 会場
+description: 会場
+date:   2018-10-04 13:00:00 +0900
+hero_image:  /img/ohga-hall.jpeg
+image:  /img/ohga-hall-2.jpeg
+image:  /img/ohga-hall-2.jpeg
+hero_height:  is-middle
+hero_darken:  true
+---
+
+会場です。
+19日は、紅葉がさらに綺麗です。お昼に散歩もいかがですか？
+会場内に喫茶スペースもございます。

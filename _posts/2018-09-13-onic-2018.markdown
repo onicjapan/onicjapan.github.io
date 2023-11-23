@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Open NetworkIng Conference Japan 2018 参加登録開始
+description: 参加登録開始しました！
+date:   2018-09-13 13:00:00 +0900
+#hero_image:  /img/scott-graham-OQMZwNd3ThU-unsplash.jpg
+#image:  /img/scott-graham-OQMZwNd3ThU-unsplash.jpg
+#hero_height:  is-middle
+#hero_darken:  true
+---
+
+参加登録開始しました！
+懇親会も10月4日から参加登録受付します。
+懇親会は40名様限定となりますので是非お早めにご登録ください。
+秋の軽井沢で参加お待ちしています。
+https://eventregist.com/e/8KREpNhdQmTP

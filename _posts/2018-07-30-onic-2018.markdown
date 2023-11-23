@@ -1,0 +1,15 @@
+---
+layout: post
+title:  Open NetworkIng Conference Japan 2018 Webページ公開
+description: 今年のwebページ公開しました！
+date:   2023-07-30 13:00:00 +0900
+#hero_image:  /img/scott-graham-OQMZwNd3ThU-unsplash.jpg
+#image:  /img/scott-graham-OQMZwNd3ThU-unsplash.jpg
+#hero_height:  is-middle
+#hero_darken:  true
+---
+
+今年のwebページ公開しました！
+参加登録は9月初旬の予定です。
+紅葉の季節に軽井沢でお待ちしております！
+プログラムは詳細が決まり次第随時upいたします。

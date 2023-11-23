@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Open NetworkIng Conference Japan 2018 軽井沢から現地情報です.
+description: 軽井沢から現地情報です.
+date:   2018-10-18 13:00:00 +0900
+hero_image:  /img/mall.jpeg
+#image:  /img/ohga-hall-2.jpeg
+#image:  /img/ohga-hall-2.jpeg
+hero_height:  is-middle
+hero_darken:  true
+---
+軽井沢から現地情報です.
+
+残念ながら曇っていて紅葉は綺麗に撮れなかったのですが、会場の駅の反対側アウトレットはハロウィン一色カボチャ色。イルミネーションも綺麗です。
+都内とは違い秋深いので暖かい格好でお越しくださいね。
+寒い時は会場でワインで暖まれますよー。
+当日でもご参加いただけますので直接会場へ。
+お待ちしております。
