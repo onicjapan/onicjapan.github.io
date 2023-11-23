@@ -1,8 +1,8 @@
 ---
 title: Open NetworkIng Conference Japan
 subtitle: OCTOBER 31 - November 1, 2019
-            October 31 : BoF
-            November 1 : Conference
+        - October 31 : BoF
+        - November 1 : Conference
 layout: page
 show_sidebar: true
 ---
