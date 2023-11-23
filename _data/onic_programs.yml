@@ -224,7 +224,7 @@
         やDNSフルリゾルバの研究開発実装について紹介します。
       slides:
         - file: 2023_DNS.pdf
-    - title: データ分析観点からみるインシデント対応
+    - title: データドリブン経営を⽬指すNTT Comの社内DXの取り組み
       time: "14:30-15:00"
       type: 講演
       tag: s_07
@@ -238,6 +238,8 @@
         正アクセスが発覚し、侵入分析、影響度分析、対処確認をデー
         タ分析チームが協力して行った。データ分析のプロセスに添い、
         データ基盤を駆使して分析を行った当時の模様を振り返る。
+      slides:
+        - file: 2023_Data-Driven-Management-by-NTTCom.pdf
     - title: 休憩
       time: "15:00-15:15"        
     - title: A 12-year journey developing breakthrough AI products for Networking
