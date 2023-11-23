@@ -1,68 +1,50 @@
-- date: October 29, 2022
+- title: BoF
+- date: October 31, 2019
+- place: 軽井沢大賀ホール ホワイエ
   sessions:
-    - title: 受付開始
-      time: 10:00-
-    - title: 開会宣言
-      time: 10:20-10:30
+    - title: 開会
+      time: 17:55-18:00
       presenters:
         - name_and_title: |-
-            ONIC実行委員会委員長
-    - title: フューチャープルーニング：ネットワークの進化とAIの役割
-      time: 10:30-11:00
-      type: 講演
-      tag: s_01
+            ONIC Japan 実行委員会委員長
+    - title: RISE4.0の紹介
+      time: 18:00-18:30
+      type: BoF 1
+      tag: b_01
       presenters:
         - name_and_title: |-
-            デジタルウェイ・テクノロジーズ<br />
-            デジタルイノベーション部<br />
-            田中　麻衣子
-          photo: placeholder-120x140.png
-      abstract: |-
-        このセッションでは、未来のネットワークトレンドと、人工知
-        能（AI）がネットワーク管理、セキュリティ、および最適化に
-        果たす役割に焦点を当てます。AIによる自己適応型ネットワー
-        クの展望について議論し、ネットワークインフラストラクチャ
-        の新たな展開に関する洞察を提供します。
-        [https://google.com](https://google.com)
+            国立研究開発法人情報通信研究機構　
+            原 拓也
+          #photo: placeholder-120x140.png
       slides:
-        - file: placeholder.pdf
-    - title: 5G時代のネットワークセキュリティ戦略
-      time: 11:00-11:30
-      type: スポンサーセッション
-      tag: s_02
+        - file: onic2019_hara.pdf
+    - title: Lagopus Router
+      time: 18:30-19:00
+      type: BoF 2
+      tag: b_02
       presenters:
         - name_and_title: |-
-            インテリジェントネットワーク合同会社<br />
-            山本　健太郎
-          photo: placeholder-120x140.png
-      abstract: |-
-        このセッションでは、5Gネットワーク環境におけるセキュリ
-        ティの課題と戦略に焦点を当てます。新たなセキュリティリ
-        スクと5Gテクノロジーの特性に対処するためのアプローチや
-        ベストプラクティスについて討議し、ネットワークセキュリ
-        ティの強化に向けた戦略を検討します。
+            NTT未来ねっと研究所　
+            日比 智也
+          #photo: placeholder-120x140.png
       slides:
-        - file: 2022_Routing-Platform.pdf
-    - title: エッジコンピューティングとIoTの融合：ネットワークの未来
-      time: 11:30-12:00
-      type: 講演
-      tag: s_03
+        - file: onic2019_hibi.pdf
+    - title: オープンソース(SDN/NFV/P4)を活用したマルチアクセス・エッジ・プラットフォーム実現への取り組み
+      time: 19:00-19:30
+      type: BoF 3
+      tag: b_03
       presenters:
         - name_and_title: |-
-            クラウドソリューションズ株式会社<br />
-            鈴木　みずき 
-          photo: placeholder-120x140.png
-      abstract: |-
-        このセッションでは、エッジコンピューティングとインター
-        ネット・オブ・シングス（IoT）がネットワークアーキテク
-        チャとビジネスモデルに与える影響に焦点を当てます。エッ
-        ジデバイスからのデータ処理とネットワーク要件への対応に
-        ついて議論し、これらの技術がネットワークの未来をどのよ
-        うに変えるかについて考察します。
-    - title: クラウドネイティブネットワークの実装と運用
-      time: 12:00-12:15
-      type: スポンサーセッション
-      tag: s_04
+            富士通株式会社
+            藤井 宏行
+          #photo: placeholder-120x140.png
+      slides: onic2019_fuji.pdf
+    - title: 休憩
+      time: 19:30-19:40
+    - title: P4 で設計できる インテルR FPGA カードと、vBNG にマッピングした最新応用事例とSRv6 実装に向けた取り組み紹介
+      time: 19:40-20:10
+      type: BoF 4
+      tag: b_04
       presenters:
         - name_and_title: |-
             データマスター株式会社<br />
@@ -70,189 +52,243 @@
             小林　悠子
           photo: placeholder-120x140.png
         - name_and_title: |-
-            データマスター株式会社<br />
-            クラウドサービス開発部<br />
-            佐藤　大輔
-          photo: placeholder-120x140.png
+            株式会社マクニカ
+            清水 裕晶
+          #photo: placeholder-120x140.png
       slides:
-        - file: placeholder.pdf
-    - title: お昼休憩
-    - title: 量子ネットワーキングの未来：安全性とスケーラビリティ
+        - file: onic2019_Shimizu.pdf
+    - title: あなた好みの中継ルータ
+      time: 20:10-20:40
+      type: BoF 5
+      tag: b_05
+      presenters:
+        - name_and_title: |-
+            古河ネットワークソリューション株式会社
+            羽田野 文也
+          #photo: placeholder-120x140.png
+      slides: onic2019_hatano.pdf
+    - title: 閉会
+      time: 20:40
+
+- title: 本会議 午前
+- date: November 1, 2019
+- place: 軽井沢大賀ホール メインホール
+    - title: 開会の挨拶
+      time: 10:25-10:30
+      presenters:
+        - name_and_title: |-
+            ONIC Japan 実行委員会委員長
+    - title: Software Defined Networkへの道のり
+      time: 10:30-11:00
+      type: 特別公演
+      tag: c_01
+      presenters:
+        - name_and_title: |-
+            ソフトバンク株式会社
+            松嶋 聡 
+          #photo: placeholder-120x140.png
+      abstract: |-
+        1オペレータが、TDMからATM/FR、そしてMPLSネットワークの構築・運用を経てIPv6/SRv6に至る過程で、
+        どんなことを考えながらそこに至ったかを共有することで、”Software Defined Network”を理解できた
+        （と思われる）ときに、1ネットワークエンジニアが考える方向性とネットワークの将来像を（なるべく）
+        具体的にお話しします。
+      slides: onic2019_matsushima.pdf
+    - title: 大規模NFV基盤の事例紹介
+      time: 11:00-11:30
+      type: 講演
+      #tag: s_07
+      presenters:
+        - name_and_title: |-
+            楽天モバイル株式会社
+            壬生 亮太
+          #photo: placeholder-120x140.png
+      slides:
+        - file: onic2019_mibu.pdf
+    - title: ユーザによるセルフマネージ可能なネットワークサービス運用システムの事例
+      time: 11:30-12:00
+      type: 公演
+      tag: c_02
+      presenters:
+        - name_and_title: |-
+            NTTコミュニケーションズ株式会社
+            田島 照久
+          #photo: placeholder-120x140.png
+      abstract: |-
+        1スライス提供型のネットワークサービスを提供するにあたり、オンデマンド提供などの利点を活かしつつ
+        実装を抽象化できる運用システムの開発が重要です。 
+        運用システムでは、技術を理解しているNWエンジニアだけでなく、ユーザーのセルフポータル利用や
+        他システムからの連携を考慮に入れる必要があるためです。 
+        本セッションでは我々が開発したWeb UIを例にシステム開発の事例を紹介します。
+      slides: onic2019_tajima.pdf
+    - title: 休憩
+      time: 12:00-13:30
+
+- title: 本会議 午後
+- place: 軽井沢大賀ホール メインホール
+    - title: NFV meets Container
       time: 13:30-14:00
       type: 講演
-      tag: s_05
+      tag: c3
       presenters:
         - name_and_title: |-
-            サイバーコアテック合同会社<br />
-            サイバーセキュリティチーム<br />
-            高橋　美咲
-          photo: placeholder-120x140.png
+            NTTドコモ/ETSI NFV副議長
+            中島 佳宏
+          photo: nakajima.png
       abstract: |-
-        このセッションでは、量子ネットワーキングの最新動向と
-        その未来に焦点を当てます。量子暗号技術と量子ネットワ
-        ークの可能性について議論し、これらの革新的なアプロー
-        チがネットワーク通信の安全性とスケーラビリティにどの
-        ような影響を及ぼすかについて考察します。
-    - title: サイバーセキュリティと人工知能：未知の脅威への対応
+        2012年よりETSI NFVを中心にNFVを実現するための標準化が進められ、2015年にはその標準を用いた
+        大規模オペレータでの商用導入が始まり、NFVの拡大が進んでいます。
+        2019年からモバイルオペレータでは無線ネットワークにおいて5Gの導入が進んでおりますが、
+        コアネットワークでも本格的な5Gの対応が求められており、そのときに実行環境としてのコンテナ環境の
+        サポートが求められております。 
+        本発表にてETSI NFVの標準化状況と近年の通信アプリケーションのトレンドとそれへの対応を紹介します。
+      slides: onic2019_-nakajima.pdf
+    - title: 「データ中心アプローチ」 がシステムを救う
       time: 14:00-14:30
-      type: スポンサーセッション
-      tag: s_06
+      type: 講演
+      tag: c4
       presenters:
         - name_and_title: |-
-            テクノロジーフロンティア株式会社<br />
-            中村　一郎 
-          photo: placeholder-120x140.png
+            シスコシステムズ合同会社
+            河野 美也
+          #photo: nakajima.png
       abstract: |-
-        このセッションでは、人工知能と機械学習がサイバーセキュ
-        リティ分野で果たす役割に焦点を当てます。未知の脅威や高
-        度な攻撃への対策としてAI技術の活用について議論し、セキ
-        ュリティの向上とインシデント対応の最新アプローチを探り
-        ます。
-    - title: グローバルなデジタルインフラ：ネットワークの普及と課題
+        「データ中心性」について明確な定義がある訳ではないが，ここでは，エンドポイントを規定し，エンドポイント間に
+        通信パスを確立してデータ送受信を行う，という，従来のコネクション中心から脱却し，データの収集・配信，
+        およびその処理・活用とフィードバックの観点から検討するアーキテクチャを「データ中心アーキテクチャ」と呼ぶ．
+        従来の方式から一足飛びにデータ中心アーキテクチャに移行するのは現実的で無いため，
+        本セッションでは，データ中心アーキテクチャにシフトするアプローチ，技術条件や方式を検討する。
+      slides: ONIC2019_kono.pdf
+    - title: ソフトバンクの5Gへの取り組み
       time: 14:30-15:00
       type: 講演
-      tag: s_07
+      tag: c5
       presenters:
         - name_and_title: |-
-            ビジョンテックジャパン有限会社</br />
-            町田　真理子
-          photo: placeholder-120x140.png
-        - name_and_title: |-
-            ビジョンテックジャパン有限会社</br />
-            渡辺　雅彦
-          photo: placeholder-120x140.png
+            ソフトバンク株式会社
+            堀場 勝広
+          #photo: nakajima.png
       abstract: |-
-        このセッションでは、世界中のデジタルインフラストラクチャ
-        の普及と課題に焦点を当てます。新興市場と発展途中国におけ
-        るデジタルインクルージョンの促進、インフラストラクチャの
-        持続可能性、そして地域ごとのネットワーク課題について討議
-        し、国際的な協力の必要性について考えます。
-      slides:
-        - file: 2022_Service-Mesh.pdf
-        - file: 2022_Service-Mesh2.pdf
+        5G時代に向けたソフトバンクの様々な実証実験や検証、取り組みについて、 
+        5Gにおけるネットワーク構想を交えながらご紹介させて頂きます。
+      #slides: ONIC2019_kono.pdf
     - title: 休憩
-      time: 15:00-15:10
-    - title: 量子コンピューティングとネットワーク：新たな可能性への突破口
-      time: 15:10-15:40
+      time: 15:00-15:15
+    - title: データプレーンプログラミング（P4）の次の一歩：コントロールプレーンとコミュニティと
+      time: 15:15-15:45
       type: 講演
-      tag: s_08
+      tag: c6
       presenters:
         - name_and_title: |-
-            デジタルファクトリー合同会社<br />
-            加藤　麗子
-          photo: placeholder-120x140.png
+            トヨタ自動車株式会社
+            海老澤 健太郎
+          #photo: nakajima.png
       abstract: |-
-        このセッションでは、量子コンピューティングがネットワーク
-        分野にもたらす可能性に焦点を当てます。量子アルゴリズムと
-        ネットワーク最適化の関連性について議論し、量子コンピュー
-        ティングがネットワーク設計とセキュリティに与える影響につ
-        いて検証します。
-    - title: スマートシティの未来：ネットワーク技術と都市インフラ
-      time: 15:40-16:10
+        10月11日に日本初のP4をテーマとした公開イベントの開催が決まる等、P4を用いたデータプレーン
+        プログラミングが広まりつつあります。 しかし、データプレーンプログラミングを真に活用するには、
+        データプレーンのみではなくコントロールプレーンとの連携が必要となります。 
+        本講演ではデータプレーンとコントロールプレーンを繋ぐAPIであるP4Runtime,gNMI,gNOI等の解説と
+        コントロールプレーンの実装例をご紹介します。 
+        また、皆様の活動の参考になるよう、国内外におけるP4コミュニティの状況をご紹介します。
+      slides: onic2019_-ebisawa.pdf
+    - title: サービスメッシュが注目される背景、課題と展望
+      time: 15:45-16:15
+      type: 講演
+      tag: c7
+      presenters:
+        - name_and_title: |-
+            ヴイエムウェア株式会社
+            中奥 洋志彦
+          #photo: nakajima.png
+      abstract: |-
+        サービスメッシュとは、マイクロサービス化された環境におけるアプリケーションレベルのネットワーク機能を
+        提供する概念です。マイクロサービス化された環境では日常的なアプリケーション更新の発生が想定されるため、
+        細やかなトラフィック制御が不可欠となります。また複数の環境やクラウドをまたいだマイクロサービスの実装を
+        想定して、ネットワークセキュリティや視覚化の機能も必要とされています。
+        本セッションでは、このようなサービスメッシュが必要とされる背景と今後の展望を概観し、
+        VMwareが取り組むサービスメッシュソリューションの仕組みについてもご紹介します。
+      slides: ONIC2019-vm.pdf
+    - title: XDPの最新動向とLINEにおける取り組み事例
+      time: 16:15-16:45
+      type: 講演
+      tag: c8
+      presenters:
+        - name_and_title: |-
+            LINE株式会社
+            金丸 洋平
+          #photo: nakajima.png
+      abstract: |-
+        Linuxカーネルの高速パケット処理基盤 eXpress Data Path (XDP) が最初にリリースされてから約3年が経過しました。
+        その間、XDPには様々な機能追加や改善がなされてきたほか、XDPを採用したミドルウェアのリリースや実環境での採用事例も
+        多く見られるようになりました。LINEにおいてもXDPを使用してロードバランサの開発を行っており、2017年12月から
+        現在まで運用を行っています。 
+        本セッションでは、XDPの最近の機能追加や改善といった動向を振り返りつつ、LINEにおけるこれまでの運用で得られた
+        経験や知見についてご紹介します。
+      #slides: onic2019_-ebisawa.pdf
+    - title: 休憩
+      time: 16:45-17:00
+    - title: OVN使ってますか？
+      time: 17:00-17:30
+      type: 講演
+      tag: c9
+      presenters:
+        - name_and_title: |-
+            レッドハット株式会社
+            織 学
+          photo: oriori.jpeg
+      abstract: |-
+        OVN（Open Virtual Network）は、Open vSwitchのサブプロジェクトとして始まった、仮想ネットワーキング機能を
+        提供するオープンソースソフトウェアです。
+        論理スイッチ、分散ルータ、L2/L3/L4のACL、NATやロードバランサー、DHCP等の機能をソフトウェアで実現でき、
+        商用製品でもサポートされるようになってきました。
+        本セッションでは、OVNの基本的な動きと、OpenStackやKubernetesとどのように連携するかについてご紹介します。
+      slides: ONIC2019_Manabu-Ori.pdf
+    - title: Community Engagement and Contribution
+              ~ Leadership for ONAP Frankfurt Release ~
+      time: 17:30-18:00
       type: スポンサーセッション
-      tag: s_09
+      tag: c10
       presenters:
         - name_and_title: |-
-            プログレッシブシステムズ株式会社<br />
-            伊藤　剛太
-          photo: placeholder-120x140.png
+            富士通株式会社
+            福田 利道（登壇者）
+          photo: fujitssu-fukuda.jpeg
+        - name_and_title: |-
+            宮下 卓也
+          photo: fujitsu-miyashita.jpeg
+        - name_and_title: |-
+            Raghavan Subramanian
+          photo: fujitsu-Raghavan.jpeg
+        - name_and_title: |-
+            Xin Miao
+          photo: fujitsu-Xin.jpeg
       abstract: |-
-        このセッションでは、スマートシティ概念とネットワーク技
-        術の相互作用に焦点を当てます。都市インフラストラクチャ
-        のデジタル化、IoTセンサーの展開、および市民サービスの改
-        善におけるネットワークの役割について討議し、持続可能な
-        都市の実現に向けた戦略を考察します。
-      slides:
-        - file: placeholder.pdf
-    - title: ハイパフォーマンスネットワーク設計の最新トレンド
-      time: 16:10-16:40
+        昨今はIT業界だけでなく、ネットワーク業界においてもオープンソースへ期待・関心が高まっています。
+        Linux FoundationがLF Networkingコミュニティを立上げたことにより、このネットワークのオープン化の動きは
+        さらに加速し、世界の主要なネットワークオペレータ、ネットワークベンダがオープンコミュニティで次世代の
+        ネットワークを議論し、そのアーキテクチャや機能実装に取組んでいます。
+        富士通もLF Networkingに参加しており、本セッションではLF NetworkingのプロジェクトであるONAPに
+        関するコミュニティ活動についてご紹介します。
+      slides: ONIC2019-Community-engagement-and-contribution.pdf
+    - title:  Interop Tokyo 2019 ShowNetにおけるサービスチェイニング構築を通して見る、SRv6の実践的知見
+      time: 18:00-18:30
       type: 講演
-      tag: s_10
+      tag: c11
       presenters:
         - name_and_title: |-
-            インフィニティインフォテック株式会社<br />
-            林　梨香
-          photo: placeholder-120x140.png
+            Interop Tokyo 2019 ShowNet NOCチームメンバー / NTTコミュニケーションズ
+            上野 幸杜
+          photo: eden.jpeg
       abstract: |-
-        このセッションでは、ハイパフォーマンスネットワーク設計の
-        最新トレンドに焦点を当てます。高速データ伝送、低遅延通信、
-        および高信頼性ネットワークの設計戦略について議論し、次世
-        代のネットワークインフラストラクチャに向けた革新的なアイ
-        デアを探ります。
-      slides:
-        - file: 2022_AETHER-Open-5G-Connected-Edge-Cloud.pdf
-    - title: 休憩（コーヒータイム）
-      time: 16:40-17:10
-    - title: サイバーレジリエンス：攻撃からの復旧とネットワーク保護
-      time: 17:10-17:40
-      type: 講演
-      tag: s_11
-      presenters:
-        - name_and_title: |-
-            クラウドウェイブテクノロジー合同会社<br />
-            大野　宏治
-          photo: placeholder-120x140.png
-      abstract: |-
-        このセッションでは、サイバー攻撃からの迅速な復旧とネット
-        ワークの保護に焦点を当てます。サイバーレジリエンスの実装
-        戦略やインシデント対応プランについて討議し、ビジネス継続
-        性の確保とネットワークセキュリティの向上に関する最新の情
-        報を提供します。
-      slides:
-        - file: 2022_-AWS_Azure.pdf
-    - title: ネットワークデータの分析とビッグデータ戦略
-      time: 17:40-18:10
-      type: 講演
-      tag: s_12
-      presenters:
-        - name_and_title: |-
-            イノベーションドライブ株式会社<br />
-            松田　真理
-          photo: placeholder-120x140.png
-      abstract: |-
-        このセッションでは、ネットワークデータの収集と分析に焦点
-        を当てます。ビッグデータテクノロジーの導入によるネットワー
-        クの最適化、トラブルシューティング、およびビジネスインテ
-        リジェンスへの応用について議論し、データ駆動型のネットワー
-        ク管理戦略を探求します。
-      slides:
-        - file: 2022_Network-as-Code.pdf
-    - title: ネットワークのエネルギー効率化と持続可能性
-      time: 18:10-18:40
-      type: 講演
-      tag: s_13
-      presenters:
-        - name_and_title: |-
-            テックトランスフォームジャパン有限会社<br />
-            佐々木　俊一
-          photo: placeholder-120x140.png
-      abstract: |-
-        このセッションでは、ネットワークインフラストラクチャのエ
-        ネルギー消費と持続可能性に焦点を当てます。省エネルギーネッ
-        トワーク設計、再生可能エネルギーの活用、および環境に配慮
-        したネットワーク運用について討議し、エネルギー効率の向上
-        と環境への配慮に関する戦略を検討します。
-      slides:
-        - file: 2022_Introduction-to-Cilium-from-Telco-and-On-premise-Perspective.pdf
-    - title: デジタルツインズとネットワークの未来
-      time: 18:40-19:10
-      type: 講演
-      tag: s_14
-      presenters:
-        - name_and_title: |-
-            デジタルビジョンテクノロジーズ合同会社<br />
-            高田　幸子
-          photo: placeholder-120x140.png
-      abstract: |-
-        このセッションでは、デジタルツインズ技術とネットワーク
-        の相互関係に焦点を当てます。デジタルツインズがネットワー
-        クデザイン、監視、および最適化にどのように活用できるか
-        について議論し、デジタルツインズがネットワーク管理にも
-        たらす可能性について検証します。
-      slides:
-        - file: placeholder.pdf
-    - title: 閉会宣言
-      time: 19:10-
-      presenters:
-        - name_and_title: |-
-            ONIC実行委員会<br />
+        ShowNetとは、インターネットテクノロジーイベント”Interop Tokyo”において構築される、世界最大の
+        デモンストレーションネットワークです。
+        今年6月に開催されたInterop Tokyo 2019において、ShowNetでは利用者の要望に応じてネットワークの
+        機能を自由に組み合わせることが可能な「サービスチェイニング」を構築しました。
+        このサービスチェイニングは最新の経路制御技術である「Segment Routing IPv6 (SRv6) 」をベースとし、
+        既存装置をSRv6網に組み入れるための新たな技術の考案・実装を含む、世界最先端の内容となりました。
+        本セッションでは、このサービスチェイニングの実現に至る過程で得た知見、新たに考案された技術、
+        そしてSRv6に関する最新動向を解説します。
+      slides: ShowNet2019_ONIC.pdf
+    - title: 閉会の挨拶
+      time: 18:30-18:35
+    - title: 懇親会 「関所茶屋」
+      time: 19:30-

@@ -1,0 +1,12 @@
+---
+layout: post
+title: ONIC カンファレンス開催中!
+description: いい天気です♬。
+date: 2019-11-01 10:35:55 +0900
+hero_image: /img/onic2019-1101-1.jpeg
+image: /img/onic2019-1101-2.jpeg
+hero_height: is-middle
+hero_darken: true
+---
+秋晴れの軽井沢でカンファレンス開催中です。
+会場前の池で鴨がのんびり。都内から1時間弱でこんなに景色が変わるんですね。

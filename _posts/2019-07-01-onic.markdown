@@ -1,0 +1,21 @@
+---
+layout: post
+title: Open NetworkIng Conference Japan 2019 BoF 開催のご案内
+description: ONIC 2019 BoF 開催のご案内
+date: 2019-07-01 18:05:55 +0900
+#hero_image: /img/onic2019.jpeg
+#image: /img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg
+hero_height: is-middle
+hero_darken: true
+---
+Open Networking Conference Japan 2019 実行委員の境です。
+今年は本会議の前日（2019年10月31日）にBoFの開催を予定しております。
+今回のトピックは”Openな技術を使ったネットワーク構築”とさせていただき、例えば「OSSだけで大規模なコンテナネットワークを構築してみた」や、「P4で遊んでみた」といったテーマでの30分程度(20分発表、10分質疑応答)のセッションを募集いたします。
+また30分ほどのネタでもないけれど、みんなに共有したいといったテーマがある方にはLT（1枠５分程度）も合わせて実施する予定ですので、ご応募ください。
+BoF開催日程：
+10月31日（木）18:30〜20:40（木）
+BoF会場：
+軽井沢大賀ホールホワイエ（ホール手前のスペースです）
+申し込みForm：
+https://forms.gle/ehqxHtHC3yus4P5Q7
+お申し込みをお待ちしております！

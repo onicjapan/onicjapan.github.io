@@ -1,0 +1,15 @@
+---
+layout: post
+title: Open NetworkIng Conference Japan 2019 Web公開
+description: ONIC 2019 Web公開のお知らせ
+date: 2019-06-07 18:05:55 +0900
+hero_image: /img/onic2019.jpeg
+#image: /img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg
+hero_height: is-middle
+hero_darken: true
+---
+webを公開しました。
+プログラムは決まり次第発表します！
+今年の秋も軽井沢へGo!
+前日は会場で秋の夜長のBoF開催します。登録開始は9月中旬の予定です。
+皆様の参加、お待ちしています。

@@ -1,0 +1,21 @@
+---
+layout: post
+title: Open NetworkIng Conference Japan 2019開催決定
+description: ONIC 2019開催のお知らせ
+date: 2019-05-27 18:05:55 +0900
+#hero_image: /img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg
+#image: /img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg
+hero_height: is-middle
+hero_darken: true
+---
+Open NetworkIng Conference Japan 2019を開催いたします。
+よろしくお願いいたします〜
+先の話ですが、11月1日に軽井沢 大賀ホールにてOpen Networking Conference Japan 2019 を開催します！
+現在、実行委員内でプログラムを議論中です、決まり次第お知らせします〜
+併せてスポンサーも募集中です！
+
+* 日程：2019年11月1日
+* 場所：軽井沢大賀ホール
+
+詳細が決まりましたらこちらとFacebookで告知いたしますので、よろしくお願いします。
+
