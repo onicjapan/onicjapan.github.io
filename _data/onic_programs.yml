@@ -72,6 +72,7 @@
 - title: 本会議 午前
 - date: November 1, 2019
 - place: 軽井沢大賀ホール メインホール
+  sessions:
     - title: 開会の挨拶
       time: 10:25-10:30
       presenters:
