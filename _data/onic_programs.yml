@@ -124,6 +124,7 @@
       time: 12:00-13:30
 - title: 本会議 午後
 - place: 軽井沢大賀ホール メインホール
+  sessions:
     - title: NFV meets Container
       time: 13:30-14:00
       type: 講演
