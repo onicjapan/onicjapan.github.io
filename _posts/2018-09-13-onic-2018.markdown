@@ -3,8 +3,8 @@ layout: post
 title:  Open NetworkIng Conference Japan 2018 参加登録開始
 description: 参加登録開始しました！
 date:   2018-09-13 13:00:00 +0900
-hero_image: /img/onic2018.jpeg
-image: /img/onic2018.jpeg
+hero_image: /archives/2018/img/onic2018.jpeg
+image: /archives/2018/img/onic2018.jpeg
 #hero_height:  is-middle
 #hero_darken:  true
 ---
