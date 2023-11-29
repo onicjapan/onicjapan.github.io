@@ -3,8 +3,8 @@ layout: post
 title:  Open NetworkIng Conference Japan 2018 プログラム公開
 description: プログラムを公開します！
 date:   2018-09-10 13:00:00 +0900
-hero_image: /archives/2018/img/onic2018.jpeg
-image: /archives/2018/img/onic2018.jpeg
+hero_image: /archives/2018/img/onic2018.jpg
+image: /archives/2018/img/onic2018.jpg
 #hero_image:  /archives/2018/img/scott-graham-OQMZwNd3ThU-unsplash.jpg
 #image:  /archives/2018/img/scott-graham-OQMZwNd3ThU-unsplash.jpg
 #hero_height:  is-middle
