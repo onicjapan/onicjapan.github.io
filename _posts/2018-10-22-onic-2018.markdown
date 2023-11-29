@@ -3,8 +3,8 @@ layout: post
 title:  Open NetworkIng Conference Japan 2018 閉幕しました。
 description: 閉幕しました。
 date:   2018-10-22 15:00:00 +0900
-hero_image:  /img/20181022-1.jpeg
-image:  /img/20181022-2.jpeg
+hero_image:  /archives/2018/img/20181022-1.jpeg
+image:  /archives/2018/img/20181022-2.jpeg
 hero_height:  is-middle
 hero_darken:  true
 ---

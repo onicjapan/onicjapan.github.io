@@ -3,8 +3,8 @@ layout: post
 title:  Open NetworkIng Conference Japan 2018 始まりました。
 description: 始まりました。
 date:   2018-10-19 10:00:00 +0900
-hero_image:  /img/20181019-4.jpeg
-image:  /img/20181019-5.jpeg
+hero_image:  /archives/2018/img/20181019-4.jpeg
+image:  /archives/2018/img/20181019-5.jpeg
 hero_height:  is-middle
 hero_darken:  true
 ---

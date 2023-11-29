@@ -3,8 +3,8 @@ layout: post
 title: Open NetworkIng Conference Japan 2018開催
 description: ONIC 2018開催のお知らせ
 date: 2018-05-14 18:05:55 +0900
-#hero_image: /img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg
-#image: /img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg
+hero_image: /img/onic2018.jpeg
+image: /img/onic2018.jpeg
 #hero_height: is-middle
 #hero_darken: true
 ---
