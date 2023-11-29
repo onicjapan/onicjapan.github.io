@@ -4,7 +4,7 @@ title: ONIC 無事閉幕〜
 description: 盛り上がりまくり
 date: 2019-11-01 19:35:55 +0900
 hero_image: /img/onic2019-2.jpeg
-image: /img/onic2019-2.jpeg
+image: /archives/2019/img/onic2019-2.jpeg
 hero_height: is-middle
 hero_darken: true
 ---
