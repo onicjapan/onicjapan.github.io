@@ -3,8 +3,8 @@ layout: post
 title: 【講演者変更のお知らせ】
 description: 【講演者変更のお知らせ】
 date: 2019-10-29 18:05:55 +0900
-hero_image: /img/onic2019-2.jpeg
-image: /img/onic2019-2.jpeg
+hero_image: /archives/2019/img/onic2019-2.jpeg
+image: /archives/2019/img/onic2019-2.jpeg
 #image: /img/onic2019-1004-2.jpeg
 #image: /img/onic2019-1004-3.jpeg
 hero_height: is-middle
