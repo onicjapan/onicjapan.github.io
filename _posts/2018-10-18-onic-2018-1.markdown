@@ -3,7 +3,7 @@ layout: post
 title:  Open NetworkIng Conference Japan 2018 軽井沢から現地情報です.
 description: 軽井沢から現地情報です.
 date:   2018-10-18 13:00:00 +0900
-hero_image:  /img/mall.jpeg
+hero_image:  img/mall.jpeg
 #image:  /img/ohga-hall-2.jpeg
 #image:  /img/ohga-hall-2.jpeg
 hero_height:  is-middle
