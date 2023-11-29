@@ -4,6 +4,7 @@ title: Open NetworkIng Conference Japan 2019 プログラムページ公開と�
 description: ONIC 2019 プログラムページ公開と参加登録開始
 date: 2019-08-21 18:05:55 +0900
 hero_image: /img/onic2019-2.jpeg
+image: /img/onic2019-2.jpeg
 #image: /img/onic2019-1004-2.jpeg
 image: /img/onic2019-1004-3.jpeg
 hero_height: is-middle

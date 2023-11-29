@@ -4,6 +4,7 @@ title: Open NetworkIng Conference Japan 2019 Web公開
 description: ONIC 2019 Web公開のお知らせ
 date: 2019-06-07 18:05:55 +0900
 hero_image: /img/onic2019-2.jpeg
+image: /img/onic2019-2.jpeg
 #image: /img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
