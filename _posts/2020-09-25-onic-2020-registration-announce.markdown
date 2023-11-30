@@ -3,8 +3,8 @@ layout: post
 title: 9月30日から参加登録受付します。
 description: 9月30日から参加登録受付します。
 date: 2020-09-25 18:05:55 +0900
-hero_image:  /img/scott-graham-OQMZwNd3ThU-unsplash.jpg
-image:  /img/scott-graham-OQMZwNd3ThU-unsplash.jpg
+hero_image:  /archives/2020/img/scott-graham-OQMZwNd3ThU-unsplash.jpg
+image:  /archives/2020/img/scott-graham-OQMZwNd3ThU-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
 ---

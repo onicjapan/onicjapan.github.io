@@ -3,8 +3,8 @@ layout: post
 title: プログラム公開開始しました。
 description: プログラム公開開始しました。
 date: 2020-09-23 18:05:55 +0900
-hero_image:  /img/scott-graham-OQMZwNd3ThU-unsplash.jpg
-image:  /img/scott-graham-OQMZwNd3ThU-unsplash.jpg
+hero_image:  /archives/2020/img/scott-graham-OQMZwNd3ThU-unsplash.jpg
+image:  /archives/2020/img/scott-graham-OQMZwNd3ThU-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
 ---
