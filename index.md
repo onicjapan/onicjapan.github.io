@@ -8,13 +8,13 @@ show_sidebar: true
 
 | 名称     | Open Networking Conference Japan |
 | 日程     | 2020年10月15日（木）－16日（金）|
-|         |  10月15日 BoF（予定）|
+|          |  10月15日 BoF（予定）|
 | 会場     | オンライン会議 |
 | 主催     | Open Networking Conference Japan 実行委員会 |
 | 構成     | 基調講演、講演、スポンサー講演 |
-| 開催趣旨  | 下記参照 |
+| 開催趣旨 | 下記参照 |
 | 参加費   | 無料（事前登録制） |
-| 運営    | [株式会社イーサイド](http://www.e-side.co.jp/) |
+| 運営     | [株式会社イーサイド](http://www.e-side.co.jp/) |
 
 ## 開催趣旨文
 Open Networking Conference Japanは、前身のSDN Japan も含めて、今回で９回目の開催となります。これまでの開催を支えていただきました協賛企業様、講演者様、ならびに、ご参加いただきました皆様に深く御礼を申し上げます。
