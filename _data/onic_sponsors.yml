@@ -1,15 +1,12 @@
-- tier_name: 協賛企業
+- tier_name: PLATINUM
   size: large
   sponsors:
-    - name: サイバーファーストコネクト株式会社
-      profile: https://www.example.com/
-      logo: placeholder-500x130.png
-    - name: 株式会社デジタルウェイワイヤレス
-      profile: https://www.example.com/
-      logo: placeholder-500x130.png
-    - name: ネクストジェネレーションネットワークス合同会社
-      profile: https://www.example.com/
-      logo: placeholder-500x130.png
-    - name: クラウドソリッドコネクト株式会社
-      profile: https://www.example.com/
-      logo: placeholder-500x130.png
+    - name: NTTコミュニケーションズ株式会社
+      profile: http://www.ntt.com/index.html
+      logo: ntt_distance.jpg
+    - name: シスコシステムズ合同会社
+      profile: https://www.cisco.com/c/ja_jp/index.html
+      logo: Cisco.jpg
+    - name: ヴイエムウェア株式会社
+      profile: https://www.vmware.com/jp.html
+      logo: vmw.png

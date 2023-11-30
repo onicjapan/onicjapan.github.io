@@ -1,0 +1,15 @@
+---
+layout: post
+title: プログラム公開開始しました。
+description: プログラム公開開始しました。
+date: 2020-09-23 18:05:55 +0900
+hero_image:  /img/scott-graham-OQMZwNd3ThU-unsplash.jpg
+image:  /img/scott-graham-OQMZwNd3ThU-unsplash.jpg
+hero_height: is-middle
+hero_darken: true
+---
+確定したプログラムを公開しました。
+
+
+参加登録も今月末までには受付開始しますので参加登録開始しましたら是非登録してください。<br />
+お待ちしています！
