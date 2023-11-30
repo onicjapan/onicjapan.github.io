@@ -3,8 +3,8 @@ layout: post
 title: 無事閉幕いたしました。
 description: 無事閉幕いたしました。
 date: 2020-10-19 18:05:55 +0900
-hero_image: /img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg
-image: /img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg
+hero_image: /archives/2020/img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg
+image: /archives/2020/img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
 ---

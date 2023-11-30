@@ -3,8 +3,8 @@ layout: post
 title: 事前参加登録は締め切りました。
 description: 事前参加登録は締め切りました。
 date: 2020-10-13 18:05:55 +0900
-hero_image:  /img/scott-graham-OQMZwNd3ThU-unsplash.jpg
-image:  /img/scott-graham-OQMZwNd3ThU-unsplash.jpg
+hero_image:  /archives/2020/img/scott-graham-OQMZwNd3ThU-unsplash.jpg
+image:  /archives/2020/img/scott-graham-OQMZwNd3ThU-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
 ---
