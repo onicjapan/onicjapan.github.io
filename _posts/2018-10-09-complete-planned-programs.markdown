@@ -12,4 +12,4 @@ image: /archives/2018/img/onic2018.jpg
 
 プログラムが出そろいました！
 今年が最後の開催になるかもですよ～
-http://onic.jp/program/
+　→プログラムのページをご覧ください。

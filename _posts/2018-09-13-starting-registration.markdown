@@ -13,4 +13,4 @@ image: /archives/2018/img/onic2018.jpg
 懇親会も10月4日から参加登録受付します。
 懇親会は40名様限定となりますので是非お早めにご登録ください。
 秋の軽井沢で参加お待ちしています。
-https://eventregist.com/e/8KREpNhdQmTP
+<受付終了しました>
