@@ -3,11 +3,11 @@ layout: post
 title: 初めてのBoF開催。
 description: 皆さん熱心にディスカッションされています。
 date: 2019-10-31 18:05:55 +0900
-hero_image: /img/onic2019-1031-1.jpeg
-image: /img/onic2019-1031-2.jpeg
-image: /img/onic2019-1031-3.jpeg
-image: /img/onic2019-1031-4.jpeg
-image: /img/onic2019-1031-5.jpeg
+hero_image: /archives/2019/img/onic2019-1031-1.jpeg
+image: /archives/2019/img/onic2019-1031-2.jpeg
+image: /archives/2019/img/onic2019-1031-3.jpeg
+image: /archives/2019/img/onic2019-1031-4.jpeg
+image: /archives/2019/img/onic2019-1031-5.jpeg
 hero_height: is-middle
 hero_darken: true
 ---

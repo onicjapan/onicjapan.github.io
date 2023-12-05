@@ -3,8 +3,8 @@ layout: post
 title: ONIC カンファレンス開催中!
 description: いい天気です♬。
 date: 2019-11-01 10:35:55 +0900
-hero_image: /img/onic2019-1101-1.jpeg
-image: /img/onic2019-1101-2.jpeg
+hero_image: /archives/2019/img/onic2019-1101-1.jpeg
+image: /archives/2019/img/onic2019-1101-2.jpeg
 hero_height: is-middle
 hero_darken: true
 ---

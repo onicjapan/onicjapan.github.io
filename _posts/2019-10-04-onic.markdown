@@ -4,8 +4,8 @@ title: Open NetworkIng Conference Japan 2019 BoF プログラム公開と茜屋
 description: ONIC 2019 プログラム公開と茜屋
 date: 2019-10-04 18:05:55 +0900
 hero_image: /img/onic2019-1004-1.jpeg
-image: /img/onic2019-1004-2.jpeg
-image: /img/onic2019-1004-3.jpeg
+image: /archives/2019/img/onic2019-1004-2.jpeg
+image: /archives/2019/img/onic2019-1004-3.jpeg
 hero_height: is-middle
 hero_darken: true
 ---
