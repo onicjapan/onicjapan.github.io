@@ -6,7 +6,7 @@ date: 2019-08-21 18:05:55 +0900
 hero_image: /archives/2019/img/onic2019-2.jpeg
 image: /archives/2019/img/onic2019-2.jpeg
 #image: /img/onic2019-1004-2.jpeg
-image: /img/onic2019-1004-3.jpeg
+image: /archives/2019/img/onic2019-1004-3.jpeg
 hero_height: is-middle
 hero_darken: true
 ---
