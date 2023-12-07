@@ -27,7 +27,7 @@ Open Networking Conference Japanでは、SDN Japanより対象範囲を広げた
 
 例年は東京近郊で開催しておりましたが、本年は初の試みとしまして、議論に集中できるよう長野県軽井沢の大賀ホールで開催いたします。お忙しいところご足労いただきますが、是非ご参加いただきますようお願いいたします。
 
-Open Networking Conference Japan 2023 実行委員会
+Open Networking Conference Japan 2018 実行委員会
 
 # COMMITTEE
 
