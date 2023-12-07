@@ -3,7 +3,7 @@ layout: post
 title:  Open NetworkIng Conference Japan 2018 プログラムが出そろいました！
 description: プログラムが出そろいました！
 date:   2018-10-09 13:00:00 +0900
-hero_image: /archives/2018/img/onic2018.jpeg
+hero_image: /archives/2018/img/onic2018.jpg
 image: /archives/2018/img/onic2018.jpg
 #image:  /img/ohga-hall-2.jpeg
 #hero_height:  is-middle
