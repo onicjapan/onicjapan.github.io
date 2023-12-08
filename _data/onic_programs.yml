@@ -11,7 +11,7 @@
       presenters:
         - name_and_title: |-
             富士通株式会社<br />
-            鶴 恵美
+            靏 恵美
       abstract: |-
         エッジサービスはセンサーをはじめとするデバイ
         スとエッジクラウドやクラウドサービスといった
@@ -22,6 +22,8 @@
         ジサービス導入を支援するオープンプラットフォー
         ム開発に挑戦しています。開発関連技術の紹介と
         今後の展望を議論します。
+      slides:
+        - file: 2023_User-Friendly-Service-Design-with-Edge.pdf
     - title: 沖縄におけるエッジコンピューティング活用の可能性
       time: "18:30"
       type: BoF
