@@ -1,6 +1,4 @@
-- title: BoF
-- date: October 31, 2019
-- place: 軽井沢大賀ホール ホワイエ
+- date: October 31, 2019 (BoF)
   sessions:
     - title: 開会
       time: 17:55-18:00
@@ -9,64 +7,59 @@
             ONIC Japan 実行委員会委員長
     - title: RISE4.0の紹介
       time: 18:00-18:30
-      type: BoF 1
+      type: BoF
       tag: b_01
       presenters:
         - name_and_title: |-
             国立研究開発法人情報通信研究機構　
             原 拓也
-          #photo: placeholder-120x140.png
       slides:
         - file: onic2019_hara.pdf
     - title: Lagopus Router
       time: 18:30-19:00
-      type: BoF 2
+      type: BoF
       tag: b_02
       presenters:
         - name_and_title: |-
             NTT未来ねっと研究所　
             日比 智也
-          #photo: placeholder-120x140.png
       slides:
         - file: onic2019_hibi.pdf
     - title: オープンソース(SDN/NFV/P4)を活用したマルチアクセス・エッジ・プラットフォーム実現への取り組み
       time: 19:00-19:30
-      type: BoF 3
+      type: BoF
       tag: b_03
       presenters:
         - name_and_title: |-
             富士通株式会社
             藤井 宏行
-          #photo: placeholder-120x140.png
-      slides: onic2019_fuji.pdf
+      slides: 
+        - file: onic2019_fuji.pdf
     - title: 休憩
       time: 19:30-19:40
     - title: P4 で設計できる インテルR FPGA カードと、vBNG にマッピングした最新応用事例とSRv6 実装に向けた取り組み紹介
       time: 19:40-20:10
-      type: BoF 4
+      type: BoF
       tag: b_04
       presenters:
         - name_and_title: |-
             株式会社マクニカ
             清水 裕晶
-          #photo: placeholder-120x140.png
       slides:
         - file: onic2019_Shimizu.pdf
     - title: あなた好みの中継ルータ
       time: 20:10-20:40
-      type: BoF 5
+      type: BoF
       tag: b_05
       presenters:
         - name_and_title: |-
             古河ネットワークソリューション株式会社
             羽田野 文也
-          #photo: placeholder-120x140.png
-      slides: onic2019_hatano.pdf
+      slides: 
+        - file: onic2019_hatano.pdf
     - title: 閉会
-      time: 20:40
-- title: 本会議 午前
-- date: November 1, 2019
-- place: 軽井沢大賀ホール メインホール
+      time: "20:40"
+- date: November 1, 2019（本会議）
   sessions:
     - title: 開会の挨拶
       time: 10:25-10:30
@@ -81,13 +74,13 @@
         - name_and_title: |-
             ソフトバンク株式会社
             松嶋 聡 
-          #photo: placeholder-120x140.png
       abstract: |-
         1オペレータが、TDMからATM/FR、そしてMPLSネットワークの構築・運用を経てIPv6/SRv6に至る過程で、
         どんなことを考えながらそこに至ったかを共有することで、”Software Defined Network”を理解できた
         （と思われる）ときに、1ネットワークエンジニアが考える方向性とネットワークの将来像を（なるべく）
         具体的にお話しします。
-      slides: onic2019_matsushima.pdf
+      slides: 
+        - file: onic2019_matsushima.pdf
     - title: 大規模NFV基盤の事例紹介
       time: 11:00-11:30
       type: 講演
@@ -96,7 +89,6 @@
         - name_and_title: |-
             楽天モバイル株式会社
             壬生 亮太
-          #photo: placeholder-120x140.png
       slides:
         - file: onic2019_mibu.pdf
     - title: ユーザによるセルフマネージ可能なネットワークサービス運用システムの事例
@@ -107,19 +99,16 @@
         - name_and_title: |-
             NTTコミュニケーションズ株式会社
             田島 照久
-          #photo: placeholder-120x140.png
       abstract: |-
         1スライス提供型のネットワークサービスを提供するにあたり、オンデマンド提供などの利点を活かしつつ
         実装を抽象化できる運用システムの開発が重要です。 
         運用システムでは、技術を理解しているNWエンジニアだけでなく、ユーザーのセルフポータル利用や
         他システムからの連携を考慮に入れる必要があるためです。 
         本セッションでは我々が開発したWeb UIを例にシステム開発の事例を紹介します。
-      slides: onic2019_tajima.pdf
+      slides: 
+        - file: onic2019_tajima.pdf
     - title: 休憩
       time: 12:00-13:30
-- title: 本会議 午後
-- place: 軽井沢大賀ホール メインホール
-  sessions:
     - title: NFV meets Container
       time: 13:30-14:00
       type: 講演
@@ -128,7 +117,7 @@
         - name_and_title: |-
             NTTドコモ/ETSI NFV副議長
             中島 佳宏
-          photo: nakajima.png
+          photo: nakajima.jpg
       abstract: |-
         2012年よりETSI NFVを中心にNFVを実現するための標準化が進められ、2015年にはその標準を用いた
         大規模オペレータでの商用導入が始まり、NFVの拡大が進んでいます。
@@ -136,7 +125,8 @@
         コアネットワークでも本格的な5Gの対応が求められており、そのときに実行環境としてのコンテナ環境の
         サポートが求められております。 
         本発表にてETSI NFVの標準化状況と近年の通信アプリケーションのトレンドとそれへの対応を紹介します。
-      slides: onic2019_-nakajima.pdf
+      slides: 
+        - file: onic2019_-nakajima.pdf
     - title: 「データ中心アプローチ」 がシステムを救う
       time: 14:00-14:30
       type: 講演
@@ -145,14 +135,14 @@
         - name_and_title: |-
             シスコシステムズ合同会社
             河野 美也
-          #photo: nakajima.png
       abstract: |-
         「データ中心性」について明確な定義がある訳ではないが，ここでは，エンドポイントを規定し，エンドポイント間に
         通信パスを確立してデータ送受信を行う，という，従来のコネクション中心から脱却し，データの収集・配信，
         およびその処理・活用とフィードバックの観点から検討するアーキテクチャを「データ中心アーキテクチャ」と呼ぶ．
         従来の方式から一足飛びにデータ中心アーキテクチャに移行するのは現実的で無いため，
         本セッションでは，データ中心アーキテクチャにシフトするアプローチ，技術条件や方式を検討する。
-      slides: ONIC2019_kono.pdf
+      slides: 
+        - file: ONIC2019_kono.pdf
     - title: ソフトバンクの5Gへの取り組み
       time: 14:30-15:00
       type: 講演
@@ -161,11 +151,9 @@
         - name_and_title: |-
             ソフトバンク株式会社
             堀場 勝広
-          #photo: nakajima.png
       abstract: |-
         5G時代に向けたソフトバンクの様々な実証実験や検証、取り組みについて、 
         5Gにおけるネットワーク構想を交えながらご紹介させて頂きます。
-      #slides: ONIC2019_kono.pdf
     - title: 休憩
       time: 15:00-15:15
     - title: データプレーンプログラミング（P4）の次の一歩：コントロールプレーンとコミュニティと
@@ -176,7 +164,6 @@
         - name_and_title: |-
             トヨタ自動車株式会社
             海老澤 健太郎
-          #photo: nakajima.png
       abstract: |-
         10月11日に日本初のP4をテーマとした公開イベントの開催が決まる等、P4を用いたデータプレーン
         プログラミングが広まりつつあります。 しかし、データプレーンプログラミングを真に活用するには、
@@ -184,7 +171,8 @@
         本講演ではデータプレーンとコントロールプレーンを繋ぐAPIであるP4Runtime,gNMI,gNOI等の解説と
         コントロールプレーンの実装例をご紹介します。 
         また、皆様の活動の参考になるよう、国内外におけるP4コミュニティの状況をご紹介します。
-      slides: onic2019_-ebisawa.pdf
+      slides: 
+        - file: onic2019_-ebisawa.pdf
     - title: サービスメッシュが注目される背景、課題と展望
       time: 15:45-16:15
       type: 講演
@@ -193,7 +181,6 @@
         - name_and_title: |-
             ヴイエムウェア株式会社
             中奥 洋志彦
-          #photo: nakajima.png
       abstract: |-
         サービスメッシュとは、マイクロサービス化された環境におけるアプリケーションレベルのネットワーク機能を
         提供する概念です。マイクロサービス化された環境では日常的なアプリケーション更新の発生が想定されるため、
@@ -201,7 +188,8 @@
         想定して、ネットワークセキュリティや視覚化の機能も必要とされています。
         本セッションでは、このようなサービスメッシュが必要とされる背景と今後の展望を概観し、
         VMwareが取り組むサービスメッシュソリューションの仕組みについてもご紹介します。
-      slides: ONIC2019-vm.pdf
+      slides: 
+        - file: ONIC2019-vm.pdf
     - title: XDPの最新動向とLINEにおける取り組み事例
       time: 16:15-16:45
       type: 講演
@@ -210,7 +198,6 @@
         - name_and_title: |-
             LINE株式会社
             金丸 洋平
-          #photo: nakajima.png
       abstract: |-
         Linuxカーネルの高速パケット処理基盤 eXpress Data Path (XDP) が最初にリリースされてから約3年が経過しました。
         その間、XDPには様々な機能追加や改善がなされてきたほか、XDPを採用したミドルウェアのリリースや実環境での採用事例も
@@ -218,7 +205,6 @@
         現在まで運用を行っています。 
         本セッションでは、XDPの最近の機能追加や改善といった動向を振り返りつつ、LINEにおけるこれまでの運用で得られた
         経験や知見についてご紹介します。
-      #slides: onic2019_-ebisawa.pdf
     - title: 休憩
       time: 16:45-17:00
     - title: OVN使ってますか？
@@ -236,7 +222,8 @@
         論理スイッチ、分散ルータ、L2/L3/L4のACL、NATやロードバランサー、DHCP等の機能をソフトウェアで実現でき、
         商用製品でもサポートされるようになってきました。
         本セッションでは、OVNの基本的な動きと、OpenStackやKubernetesとどのように連携するかについてご紹介します。
-      slides: ONIC2019_Manabu-Ori.pdf
+      slides: 
+        - file: ONIC2019_Manabu-Ori.pdf
     - title: Community Engagement and Contribution
               ~ Leadership for ONAP Frankfurt Release ~
       time: 17:30-18:00
@@ -263,7 +250,8 @@
         ネットワークを議論し、そのアーキテクチャや機能実装に取組んでいます。
         富士通もLF Networkingに参加しており、本セッションではLF NetworkingのプロジェクトであるONAPに
         関するコミュニティ活動についてご紹介します。
-      slides: ONIC2019-Community-engagement-and-contribution.pdf
+      slides: 
+        - file: ONIC2019-Community-engagement-and-contribution.pdf
     - title:  Interop Tokyo 2019 ShowNetにおけるサービスチェイニング構築を通して見る、SRv6の実践的知見
       time: 18:00-18:30
       type: 講演
@@ -282,7 +270,8 @@
         既存装置をSRv6網に組み入れるための新たな技術の考案・実装を含む、世界最先端の内容となりました。
         本セッションでは、このサービスチェイニングの実現に至る過程で得た知見、新たに考案された技術、
         そしてSRv6に関する最新動向を解説します。
-      slides: ShowNet2019_ONIC.pdf
+      slides: 
+        - file: ShowNet2019_ONIC.pdf
     - title: 閉会の挨拶
       time: 18:30-18:35
     - title: 懇親会 「関所茶屋」
