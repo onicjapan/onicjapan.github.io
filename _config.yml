@@ -15,7 +15,7 @@ favicon: /img/favicon.ico
 #fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 
-paginate: 5
+paginate: 6
 paginate_path: "/news/page:num"
 
 # Disqus Comments
@@ -59,6 +59,7 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true
+      image: /img/og_img.jpg
   -
     scope:
       path: ""
@@ -80,3 +81,6 @@ collections:
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
+
+redirect_from:
+  json: false
