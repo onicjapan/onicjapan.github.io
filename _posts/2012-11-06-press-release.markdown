@@ -9,4 +9,4 @@ hero_height: is-middle
 hero_darken: true
 ---
 
-SDN Japan 2012 開催に関する [プレスリリース]({{ site.base_url }}/slide/SDN-Japan-Press.pdf)が出ました。
+SDN Japan 2012 開催に関する [プレスリリース]({{ site.baseurl }}/slide/SDN-Japan-Press.pdf)が出ました。
