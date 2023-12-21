@@ -2,9 +2,6 @@
   link: /news/
 - name: Program
   link: /program/
-  dropdown:
-    - name: Program Details
-      link: /program-detail/
 - name: Sponsors
   link: /sponsors/
 - name: Access
