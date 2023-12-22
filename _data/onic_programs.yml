@@ -1,4 +1,4 @@
-- date: プログラム(1日目)
+- date: プログラム（1日目）
   sessions:
     - title: 会場諸注意
       time: "9:55"
@@ -28,7 +28,7 @@
            課長補佐 村上貴将様<br />
     - title: "SDN, OpenFlow, & ONF: Looking Forward to 2013"
       time: 10:15-10:45
-      type: 基調講演1
+      type: 基調講演
       presenters:
         - name_and_title: |-
             Mr. Dan Pitt
@@ -37,29 +37,31 @@
         - file: Dan-Pitt.pdf
     - title: OpenFlow/SDNに対する通信事業者としての期待
       time: 10:45-11:15
-      type: 基調講演2
+      type: 基調講演
       presenters:
         - name_and_title: |-
-            伊藤 幸夫様
+            伊藤 幸夫様<br />
             NTTコミュニケーションズ株式会社　取締役
       slides:
         - file: yukio_ito.pdf
     - title: 休憩
+      time: 11:15-11:25
     - title: テーマ：SDNビジネスの可能性
       time: 11:25-13:00
       type: パネルディスカッション
       presenters:
         - name_and_title: |-
-            (モデレーター)</br />
-            加藤隆哉 ミドクラ</br />
+            (モデレーター)<br />
+            加藤隆哉 ミドクラ<br />
         - name_and_title: |-
-            浅羽登志也 ストラトスフィア</br />
+            (パネリスト)<br />
+            浅羽登志也 ストラトスフィア
         - name_and_title: |-
-            加納敏行 日本電気</br />
+            加納敏行 日本電気
         - name_and_title: |-
-            佐藤陽一 NTTコミュニケーションズ</br />
+            佐藤陽一 NTTコミュニケーションズ
         - name_and_title: |-
-            坂田義和 日商エレクトロニクス</br />
+            坂田義和 日商エレクトロニクス
       slides:
         - file: kato.pdf
         - file: asaba.pdf
@@ -69,20 +71,21 @@
     - title: 休憩
       time: 13:00-14:15
     - title: テーマ：買い手からみたSDNへの期待と課題
-      time: 14:00-14:30
+      time: 14:15-14:45
       type: パネルディスカッション
       presenters:
         - name_and_title: |-
-            (モデレーター)</br />
-            土屋太二 NECビッグローブ(パネリスト)</br />
+            (モデレーター)<br />
+            土屋太二 NECビッグローブ(パネリスト)<br />
         - name_and_title: |-
-            井上 一清 IDCフロンティア</br />
+            (パネリスト)<br />        
+            井上 一清 IDCフロンティア
         - name_and_title: |-
-            大久保修一 さくらインターネット</br />
+            大久保修一 さくらインターネット
         - name_and_title: |-      
-            伊勢 幸一 データホテル</br />
+            伊勢 幸一 データホテル
         - name_and_title: |-
-            岩崎 磨 楽天</br />
+            岩崎 磨 楽天
       slides:
         - file: tsuchiya2.pdf
         - file: inoue.pdf
@@ -101,21 +104,19 @@
       slides:
         - file: API_SDN_2012dec_okatsu.pdf
     - title: API型SDNの例とテクニカルサービスからみたユースケース
-      time: 6:45-17:15
+      time: 16:45-17:15
       type: 講演
       presenters:
         - name_and_title: |-
-            中村真也／藤本幸一郎</br />
+            中村真也／藤本幸一郎<br />
             日本電気
       slides:
         - file: fujimoto.pdf
-- date: プログラム(2日目)
+- date: プログラム（2日目）
   sessions:
-    - title: 会場諸注意
-      time: "9:25"
     - title: Managed SDNを目指して JGN-Xの挑戦
       time: 9:30-10:00
-      type: 基調講演1
+      type: 基調講演
       presenters:
         - name_and_title: |-
             下條真司様<br />
@@ -125,7 +126,7 @@
         - file: shimojo.pdf
     - title: サービス開発はソフトウェア開発の挫折と革新から何を学べるか
       time: 10:00-10:30
-      type: 基調講演2
+      type: 基調講演
       presenters:
         - name_and_title: |-
             林雄基様<br />
@@ -142,14 +143,21 @@
         - name_and_title: |-
             (モデレーター)<br />
             三木泉 アイティメディア<br />
-             (パネリスト)<br />
-            石黒邦宏 ストラトスフィア<br />
-            進藤資訓 ヴイエムウェア<br />
-            小宮崇博 ブロケード<br />
-            浅間正和 銀座堂<br />
-            河合栄治 NICT<br />
-            河野美也 Cisco<br />
-            ダン・ミハイ・ドミトリウ(通訳：田村芳明) ミドクラ<br />     
+        - name_and_title: |-
+            (パネリスト)<br />
+            石黒邦宏 ストラトスフィア
+        - name_and_title: |-
+            進藤資訓 ヴイエムウェア
+        - name_and_title: |-
+            小宮崇博 ブロケード
+        - name_and_title: |-
+            浅間正和 銀座堂
+        - name_and_title: |-
+            河合栄治 NICT
+        - name_and_title: |-
+            河野美也 Cisco
+        - name_and_title: |-
+            ダン・ミハイ・ドミトリウ(通訳：田村芳明) ミドクラ     
       slides:
         - file: MK_BGP_SDN-Japan2012.pdf
         - file: ishiguro.pdf
@@ -209,8 +217,17 @@
         - file: hayashi.pdf
     - title: 休憩
       time: 16:20-16:30
-    - title: OpenFlowを用いたファブリック製品の実装例とクラウドマネージャの連携について
+    - title: Openflow/SDNにおけるNTTデータの最近の取り組み
       time: 16:30-17:00
+      type: 講演
+      presenters:
+        - name_and_title: |-
+            磯部俊洋<br />
+            NTTデータ
+      slides:
+        - file: isobe.pdf
+    - title: OpenFlowを用いたファブリック製品の実装例とクラウドマネージャの連携について
+      time: 17:00-17:30
       type: 講演
       presenters:
         - name_and_title: |-
@@ -219,4 +236,4 @@
       slides:
         - file: miyanaga.pdf
     - title: クロージング
-      time: 17:00-
+      time: 17:30-
