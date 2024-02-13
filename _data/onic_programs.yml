@@ -271,7 +271,7 @@
     - title: ストラトスフィアのNaaS実現に向けた展望
       time: 13:00-13:30
       type: 講演
-      tag: s_14
+      tag: s_15
       presenters:
         - name_and_title: |-
             株式会社ストラトスフィア<br />
@@ -292,7 +292,7 @@
     - title: マルチレ イヤ、マルチネットワークの公衆キャリア網へ向けた SDN技術の研究開発
       time: 13:35-14:05
       type: 講演
-      tag: s_14
+      tag: s_16
       presenters:
         - name_and_title: |-
             日本電気株式会社<br />
@@ -324,7 +324,7 @@
     - title: SDN-IX
       time: 14:20-15:20
       type: パネルディスカッション
-      tag: s_14
+      tag: s_17
       presenters:
         - name_and_title: |-
             [コーディネーター]
@@ -375,7 +375,7 @@
     - title: 「SDNが提供すべきはConnectionか、Functionか」～ PLUMgridに見る新感覚SDNソルーション ～
       time: 15:30-16:00
       type: 講演
-      tag: s_14
+      tag: s_18
       presenters:
         - name_and_title: |-
             株式会社データホテル<br />
@@ -390,7 +390,7 @@
     - title: OpenStack、CloudStackの歴史・進化とSDN対応
       time: 16:00-16:30
       type: 講演
-      tag: s_14
+      tag: s_19
       presenters:
         - name_and_title: |-
             一般社団法人クラウド利用促進機構(CUPA)<br />
@@ -404,7 +404,7 @@
     - title: IaaS事業者が考える真のSDN
       time: 16:30-17:00
       type: 講演
-      tag: s_14
+      tag: s_20
       presenters:
         - name_and_title: |-
             株式会社IDCフロンティア<br />
@@ -426,7 +426,7 @@
     - title: キャリアNWの開発や運用の現場から見たSDN/OpenFlowへの期待と課題
       time: 17:25-17:55
       type: 講演
-      tag: s_14
+      tag: s_21
       presenters:
         - name_and_title: |-
             NTTコミュニケーションズ株式会社<br />
@@ -442,7 +442,7 @@
     - title: OpenFlow Switch (OFS)などのSDN装置開発の経験から見たSDN運用の課題と効用
       time: 17:55-18:25
       type: 講演
-      tag: s_14
+      tag: s_22
       presenters:
         - name_and_title: |-
             株式会社ボスコ・テクノロジーズ<br />
@@ -478,7 +478,7 @@
     - title: Accelerate SDN Adoption with Open Source SDN Control Plane 
       time: 9:40-10:10
       type: 基調講演
-      tag: s_11
+      tag: s_23
       presenters:
         - name_and_title: |-
             ON.Lab, ONRC and Stanford University<br />
@@ -491,7 +491,7 @@
               (ネットワークホワイトボックスと連携するSDNについて)
       time: 10:20-10:50
       type: 講演
-      tag: s_12
+      tag: s_24
       presenters:
         - name_and_title: |-
             Infoblox株式会社<br />
@@ -520,7 +520,7 @@
     - title: "SoftCOM: Ushering SDN and NFV into the Carrier Network"
       time: 10:55-11:25
       type: 講演
-      tag: s_13
+      tag: s_25
       presenters:
         - name_and_title: |-
             華為技術日本株式会社（ファーウェイ・ジャパン）<br />
@@ -550,7 +550,7 @@
     - title: SDNを作る側と使う側
       time: 12:50-14:10
       type: パネルディスカッション
-      tag: s_14
+      tag: s_26
       presenters:
         - name_and_title: |-
             [コーディネーター]
@@ -584,7 +584,7 @@
     - title: SDNとBare Metal Switchはピーナッツバターとジャムのように相性が良い
       time: 14:20-14:50
       type: 講演
-      tag: s_14
+      tag: s_27
       presenters:
         - name_and_title: |-
             Big Switch Networks, Inc.<br />
@@ -623,7 +623,7 @@
     - title: "MidoNet: The Perfect Network Virtualization Platform for IaaS Clouds"
       time: 15:30-16:00
       type: 講演
-      tag: s_14
+      tag: s_28
       presenters:
         - name_and_title: |-
             ミドクラジャパン株式会社<br />
@@ -641,7 +641,7 @@
     - title: NSX:マルチハイパーバイザに対応したネットワーク仮想化ソリューション
       time: 16:25-16:55
       type: 講演
-      tag: s_14
+      tag: s_29
       presenters:
         - name_and_title: |-
             VMware, Inc<br />
@@ -658,7 +658,7 @@
     - title: テスターベンダーからみたSDN/OpenFlowテストの必要性について
       time: 17:00-17:30
       type: 講演
-      tag: s_14
+      tag: s_30
       presenters:
         - name_and_title: |-
             イクシアコミュニケーションズ株式会社<br />
@@ -678,7 +678,7 @@
     - title: SDNが拓く未来のICT環境とは
       time: 17:40-19:00
       type: パネルディスカッション
-      tag: s_14
+      tag: s_31
       presenters:
         - name_and_title: |-
             [コーディネーター]
