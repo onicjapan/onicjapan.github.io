@@ -158,7 +158,8 @@
         本発表では、それぞれのデザインや設計から構築、運用にいたるまで、ShowNetで構築
         したSDNの詳細について発表いたします。
       slides:
-        - file: 0918_09noc.pdf
+        - file: 0918_09noc-1.pdf
+        - file: 0918_09noc-2.pdf
     - title: OpenDaylightはどこへ向かうのか
       time: 17:25-18:40
       type: パネルディスカッション
