@@ -18,13 +18,23 @@
         </div>
         {% for exhibitor in exhibition.exhibitors %}
         <div class="box has-text-left">
-            <a href="{{ exhibitor.profile }}">
-                <p class="title is-6" id="{{ exhibitor.booth }}">
-                    <img src="{{ site.baseurl }}/img/{{ exhibitor.logo }}">
-                    <span>{{ exhibitor.name }}</span>
-                </p>
-            </a>
-            <p style="padding: 10px">{{ exhibitor.abstract | markdownify }}</p>
+            <div class="columns is-multiline">
+                {% if exhibitor.logo %}
+                    <div class="column is-3">
+                        <p class="image is-200x52">
+                            <a href="{{ exhibitor.profile }}">
+                                <img src="{{ site.baseurl }}/img/{{ exhibitor.logo }}" />
+                            </a>
+                        </p>
+                    </div>
+                {% endif %}
+                <div class="column is-6" id="{{ exhibitor.booth }}">
+                    <div><strong>{{ exhibitor.name }}</strong></div>
+                </div>
+            </div>
+            <div class="content">
+                {{ exhibitor.abstract | markdownify }}
+            </div>
         </div>
         {% endfor %}
     </div>
