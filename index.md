@@ -7,7 +7,6 @@ show_sidebar: true
 ## 開催概要
 
 | 名称     | Open Networking Conference Japan 2023 |
-| URL      | [https://onic.jp/]( {{ site.baseurl }}/) |
 | 会期     | 2023年11月9日〜10日 |
 | 主催     | Open Networking Conference Japan2023 実行委員会 |
 | 会場     | 軽井沢大賀ホール |
