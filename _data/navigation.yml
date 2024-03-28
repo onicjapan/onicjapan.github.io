@@ -11,8 +11,12 @@
   link: /access/
 - name: Facebook
   link: https://www.facebook.com/ONICJapan/
+- name: X (Twitter)
+  link: https://twitter.com/Onic_japan
 - name: Archives
   dropdown:
+    - name: ONIC 2023
+      link: /archives/2023/
     - name: ONIC 2022
       link: /archives/2022/
     - name: ONIC 2021
