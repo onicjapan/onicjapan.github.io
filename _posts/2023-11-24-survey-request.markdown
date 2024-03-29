@@ -3,8 +3,8 @@ layout: post
 title:  事後アンケートのご協力お願い
 description: 来年のONICの参考とさせていただく為に、アンケートへのご協力をお願いします。
 date:   2023-11-24 11:12:00 +0900
-hero_image:  /img/campaign-creators-pypeCEaJeZY-unsplash.jpg
-image:  /img/campaign-creators-pypeCEaJeZY-unsplash.jpg
+hero_image:  /archives/2023/img/campaign-creators-pypeCEaJeZY-unsplash.jpg
+image:  /archives/2023/img/campaign-creators-pypeCEaJeZY-unsplash.jpg
 hero_height:  is-middle
 hero_darken:  true
 ---

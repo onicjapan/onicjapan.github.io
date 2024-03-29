@@ -3,8 +3,8 @@ layout: post
 title:  プログラム公開と参加登録サイトのお知らせ
 description: プログラムと参加登録サイトを公開しました
 date:   2023-09-27 11:00:00 +0900
-hero_image:  /img/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
-image:  /img/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
+hero_image:  /archives/2023/img/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
+image:  /archives/2023/img/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
 hero_height:  is-middle
 hero_darken:  true
 ---

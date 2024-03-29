@@ -3,8 +3,8 @@ layout: post
 title:  ネットワークエンジニア向けアンケート受付中！
 description: AIパネルセッションのための事前アンケート
 date:   2023-10-16 18:33:00 +0900
-hero_image:  /img/jon-tyson-vVSleEYPSGY-unsplash.jpg
-image:  /img/jon-tyson-vVSleEYPSGY-unsplash.jpg
+hero_image:  /archives/2023/img/jon-tyson-vVSleEYPSGY-unsplash.jpg
+image:  /archives/2023/img/jon-tyson-vVSleEYPSGY-unsplash.jpg
 hero_height:  is-middle
 hero_darken:  true
 ---

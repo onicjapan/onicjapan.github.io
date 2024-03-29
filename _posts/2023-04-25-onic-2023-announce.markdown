@@ -3,8 +3,8 @@ layout: post
 title: Open NetworkIng Conference Japan 2023開催
 description: ONIC 2023開催のお知らせ
 date: 2023-04-25 18:05:55 +0900
-hero_image: /img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg
-image: /img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg
+hero_image: /archives/2023/img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg
+image: /archives/2023/img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
 ---
