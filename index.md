@@ -7,7 +7,6 @@ show_sidebar: true
 ## 開催概要
 
 | 名称     | Open Networking Conference Japan 2022                      |
-| URL      | [https://onic.jp/]( {{ site.baseurl }}/)                   |
 | 会期     | 2022年10月28日（金）10:20〜（受付10時開始）                |
 | 主催     | Open Networking Conference Japan2022 実行委員会            |
 | 会場     | 軽井沢大賀ホール                                           |
