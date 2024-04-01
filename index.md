@@ -8,7 +8,7 @@ show_sidebar: true
 
 | 名称     | Open Networking Conference Japan |
 | 日程     | 2020年10月15日（木）－16日（金）|
-|          |  10月15日 BoF（予定）|
+|          | 10月15日 BoF（予定）|
 | 会場     | オンライン会議 |
 | 主催     | Open Networking Conference Japan 実行委員会 |
 | 構成     | 基調講演、講演、スポンサー講演 |
