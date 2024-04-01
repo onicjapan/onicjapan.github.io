@@ -7,7 +7,6 @@ show_sidebar: true
 ## 開催概要
 
 | 名称     | Open Networking Conference Japan 2013 |
-| URL      | [https://onic.jp/]( {{ site.baseurl }}/) |
 | 会期     | 2013年9月18日（水）-20日（金） |
 | 主催     | SDN JAPAN 2013 実行委員会 |
 | 会場     | 恵比寿　ザ・ガーデンホール |
