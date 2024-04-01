@@ -7,7 +7,7 @@ description: >
   本サイトはOpen NetworkIng Conference Japanのホームページです。
 baseurl: "/archives/2019"
 #baseurl: ""
-url: "https://onic.jp"
+url: "https://www.onic.jp"
 permalink: pretty
 favicon: /img/favicon.ico
 #gh_sponsor: onicjapan
