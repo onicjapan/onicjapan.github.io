@@ -4,7 +4,7 @@
 
 本コンテンツは [bulma-clean-theme](https://www.csrhymes.com/bulma-clean-theme/) をベースに作られています。
 
-ONIC については [こちら](https://onic.jp/)を参照してください。
+ONIC については [こちら](https://www.onic.jp/)を参照してください。
 
 ## License
 
