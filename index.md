@@ -7,7 +7,6 @@ show_sidebar: true
 ## 開催概要
 
 | 名称     | Open Networking Conference Japan 2024 |
-| URL      | [https://www.onic.jp/]( {{ site.baseurl }}/) |
 | 会期     | 2024年10月10日〜11日 |
 | 主催     | Open Networking Conference Japan2024 実行委員会 |
 | 会場     | 軽井沢大賀ホール |
