@@ -7,7 +7,6 @@ show_sidebar: true
 ## 開催概要
 
 | 名称     | Open Networking Conference Japan 2018 |
-| URL      | [https://onic.jp/]( {{ site.baseurl }}/) |
 | 会期     | 2018年10月19日 |
 | 主催     | Open Networking Conference Japan2018 実行委員会 |
 | 会場     | 軽井沢大賀ホール |
