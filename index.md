@@ -7,7 +7,6 @@ show_sidebar: true
 ## 開催概要
 
 | 名称     | Open Networking Conference Japan 2016 |
-| URL      | [https://onic.jp/]( {{ site.baseurl }}/) |
 | 会期     | 2016年10月21日 |
 | 主催     | ONIC Japan 2016 実行委員会 |
 | 会場     | 慶應義塾日吉　協生館　[藤原洋記念ホール](http://www.kcc.keio.ac.jp/hall/) |
