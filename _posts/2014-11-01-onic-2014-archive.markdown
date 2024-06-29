@@ -1,0 +1,13 @@
+---
+layout: post
+title: SDN Japan2014 archiveを公開しました。
+description: SDN Japan2014 archiveを公開しました。
+date: 2014-11-01 21:00:00 +0900
+hero_image: /archives/2014/img/andrei-stratu-kcJsQ3PJrYU-unsplash.jpg
+image: /archives/2014/img/andrei-stratu-kcJsQ3PJrYU-unsplash.jpg
+hero_height: is-middle
+hero_darken: true
+---
+SDN Japan2014 archiveを公開しました。
+
+[![SDN JAPAN](/archives/2014/img/youtube.jpg)](https://www.youtube.com/user/sdnjapan)

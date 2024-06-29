@@ -1,15 +1,81 @@
-- tier_name: 協賛企業
+- tier_name: プラチナスポンサー
   size: large
   sponsors:
-    - name: サイバーファーストコネクト株式会社
-      profile: https://www.example.com/
-      logo: placeholder-500x130.png
-    - name: 株式会社デジタルウェイワイヤレス
-      profile: https://www.example.com/
-      logo: placeholder-500x130.png
-    - name: ネクストジェネレーションネットワークス合同会社
-      profile: https://www.example.com/
-      logo: placeholder-500x130.png
-    - name: クラウドソリッドコネクト株式会社
-      profile: https://www.example.com/
-      logo: placeholder-500x130.png
+    - name: アライドテレシス株式会社
+      profile: http://www.allied-telesis.co.jp/
+      logo: allied.jpg
+    - name: PluribusNetworks, Inc/日商エレクトロニクス株式会社
+      profile: http://jp.pluribusnetworks.com/
+      logo: PluribusNetworks.jpg
+    - name: O3 project
+      profile: http://www.o3project.org/
+      logo: O3_r.jpg
+    - name: 株式会社ストラトスフィア
+      profile: http://www.stratosphere.co.jp/
+      logo: Stratosphere.jpg
+    - name: ミドクラジャパン株式会社
+      profile: http://www.midokura.jp/
+      logo: midokura.jpg
+    - name: 富士通株式会社
+      profile: http://www.fmworld.net/
+      logo: fujitsu.jpg
+    - name: ジュニパーネットワークス株式会社
+      profile: http://www.juniper.net/jp/jp/
+      logo: Juniper.jpg
+    - name: 6WIND
+      profile: http://www.6wind.com/
+      logo: 6wind.jpg
+    - name: NTTコミュニケーションズ株式会社
+      profile: http://www.ntt.com/
+      logo: NTT_com.jpg
+    - name: KDDI株式会社
+      profile: http://www.kddi.com/
+      logo: kddi.jpg
+    - name: ブロケード コミュニケーションズ システムズ株式会社
+      profile: http://www.brocadejapan.com/
+      logo: BROCADE.jpg
+    - name: シトリックス・システムズ・ジャパン株式会社
+      profile: http://www.citrix.co.jp/
+      logo: Citrix.jpg
+    - name: ニュアージュ・ネットワークス
+      profile: http://www.alcatel-lucent.co.jp/
+      logo: al_nuage.jpg
+    - name: 日本シエナコミュニケーションズ株式会社
+      profile: http://www.cienacorp.jp/
+      logo: Ciena.jpg
+    - name: シスコシステムズ合同会社
+      profile: http://www.cisco.com/web/JP/index.html
+      logo: ciscosystems.jpg
+
+- tier_name: ゴールドスポンサー
+  size: small
+  sponsors:
+    - name: 一般社団法人 沖縄オープンラボラトリ
+      profile: http://www.okinawaopenlab.org/
+      logo: okinawa.jpg
+    - name: 長瀬産業株式会社
+      profile: http://www.nagase.co.jp/
+      logo: nagse.jpg
+    - name: ヴイアーマーネットワークス合同会社
+      profile: https://www.varmour.com/index.php?lang=en
+      logo: vArmour.jpg
+    - name: 株式会社日立製作所
+      profile: http://www.hitachi.co.jp/
+      logo: Hitachi.jpg
+    - name: 日商エレクトロニクス株式会社
+      profile: http://www.nissho-ele.co.jp/
+      logo: Nissho.jpg
+    - name: A10 ネットワークス株式会社
+      profile: http://www.a10networks.co.jp/
+      logo: A10.jpg
+    - name: マクニカネットワークス株式会社
+      profile: http://www.macnica.net/
+      logo: macnica.jpg
+
+- tier_name: シルバースポンサー
+  size: small
+  sponsors:
+    - name: OpenDaylight
+      profile: https://www.opendaylight.org/
+      logo: opendaylight.png
+

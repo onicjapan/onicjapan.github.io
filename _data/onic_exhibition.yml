@@ -1,36 +1,287 @@
 venue:
   title: 展示概要
-  map: placeholder-500x500.png
+  map: layout_s.jpg
 exhibitors:
-  - name: サイバーファーストコネクト株式会社
-    profile: https://www.example.com/
-    logo: placeholder-200x100.png
+  - name: アライドテレシス株式会社
+    profile: http://www.allied-telesis.co.jp/
+    logo: allied.jpg
     booth: 1
     abstract: |-
-      最新のネットワーク機器やサーバーテクノロジーを展示。高性能な
-      ルーターやスイッチ、クラウドベースのサービスを含む製品ライン
-      ナップを紹介し、来場者にネットワークインフラの強化や拡張の可
-      能性を提示。
-  - name: 株式会社デジタルウェイワイヤレス
-    profile: https://www.example.com/
-    logo: placeholder-200x100.png
+      アライドテレシスでは多くの企業に幅広いネットワーク機器ラインナップを
+      ご提案、ご導入いただいております。今回のSDN Japanでは、企業ユーザの
+      要望を満たす、下記２つのソリューションをご紹介いたします。<br>
+      １. 企業で利用されるITデバイスのアクセス管理をシンプルかつ管理工数を
+      削減可能とするソリューション。<br>
+      ２．ノートPCやスマートフォン、タブレットのような持ち込みモバイルデバ
+      イスに対するセキュリティソリューション。
+
+  - name: PluribusNetworks, Inc/日商エレクトロニクス株式会社
+    profile: http://jp.pluribusnetworks.com/
+    logo: PluribusNetworks.jpg
     booth: 2
     abstract: |-
-      最新のセキュリティテクノロジやソフトウェアの実演を行う。脅威
-      のリアルタイムな分析や侵入検知システムのデモを通じて、来場者
-      にセキュリティ対策の必要性を認識させる。
-  - name: ネクストジェネレーションネットワークス合同会社
-    profile: https://www.example.com/
-    logo: placeholder-200x100.png
+      DCやポータルを運営する方々を中心に、急激に増大するインフラを、同じ
+      人数で、如何に「コストを安く」、「スピーディー」に運営するかが求めら
+      れる中、課題解決策として期待されているWhiteboxやSDNを用いた「コンピ
+      ュートとネットワークの融合」は、その期待とは裏腹に、実用上のギャップ
+      （利用者要件と実運用間の障壁）を抱えています。<br>
+      本課題を持つ方々に、Pluribus Freedomプラットフォームが持つプログラ
+      マブルなFlow制御、Analytics、Single Management等を通じ、課題解
+      決ができるソリューションをご提案いたします。 
+
+  - name: O3 project
+    profile: http://www.o3project.org/
+    logo: O3_r.jpg
     booth: 3
     abstract: |-
-      最新のサイバーセキュリティトピックに焦点を当て、来場者がセキュ
-      リティリスクを理解し、適切な対策を学べるようなプログラムを提供。
-  - name: クラウドソリッドコネクト株式会社
-    profile: https://www.example.com/
-    logo: placeholder-200x100.png
+      O3（オースリー）プロジェクトは、広域ネットワークのSDN化を実現する世
+      界初の研究開発です。<br>マルチレイヤ、マルチドメインのネットワークと
+      その制御を、オブジェクト指向モデルで抽象化・フレームワーク化し、ラピッ
+      ドなオーケーストレーション設計環境を提供します。<br>
+      今回の展示では、オープンソース公開を行ったソフトウェアスイッチ ”Lago
+      pus”を体感頂き、ホワイエセミナーでは、近日公開予定のSDNオブジェクト
+      指向フレームワーク ”O3 orchestrator suite”を紹介します。<br>
+      <br>
+      O3プロジェクトメンバー：日本電気株式会社、日本電信電話株式会社、
+      NTTコミュニケーションズ株式会社、<br>富士通株式会社、株式会社日立製作所
+
+  - name: 株式会社ストラトスフィア
+    profile: http://www.stratosphere.co.jp/
+    logo: Stratosphere.jpg
     booth: 4
     abstract: |-
-      トラフィックの可視化やパフォーマンス分析に特化したツールのデモ
-      を行う。来場者はリアルタイムでネットワークの健全性やトラフィッ
-      クの傾向を把握し、問題の早期発見に役立つツールを知ることができる。
+      ストラトスフィアでは、ユーザが抱える課題をSDN技術で解決するためのソフト
+      ウェア製品群を開発しています。現在は、特にエンタープライズ領域にフォーカ
+      スしております。例えば、オフィス拠点側およびデータセンタ側それぞれに我々
+      のSDN製品を導入し、それらを連携させることによって、ディザスタリカバリ対
+      応の構成を容易にとることができます。<br>
+      幾つかのネットワーク機器ベンダ様ともパートナー関係を構築し、共にこの領域
+      での展開を行っております。今回はそれら取り組みの幾つかの例をご紹介致します。
+
+  - name: ミドクラジャパン株式会社
+    profile: http://www.midokura.jp/
+    logo: midokura.jpg
+    booth: 5
+    abstract: |-
+      OpenStackのネットワーク仮想化に最適な「MidoNet」について、分散LBaaS
+      やRHEL7、Juno対応といった最新情報やユーザー事例を展示します。
+
+  - name: 富士通株式会社
+    profile: http://www.fmworld.net/
+    logo: fujitsu.jpg
+    booth: 6
+    abstract: |-
+      富士通の広域ネットワークに対するSDNの取り組みについて展示いたします。<br>
+      1.「Virtuora」シリーズ<br>
+      サービスごとに仮想ネットワークのオンデマンド提供を実現する事により、サービ
+      スの創造や普及拡大を推進し、広域ネットワークの事業コスト削減を可能とする、
+      広域ネットワーク向けの製品です。運用イメージ・製品の特長をご紹介します。<br>
+      2. SDN光トランスポートネットワーク(参考出展)<br>
+      通信キャリアのコアネットワークにおいて、動的に変化するパケットトラフィック
+      に対応し、サービス/アプリケーションごとに最適な通信経路をソフトウェア定義に
+      よりオンデマンドで提供する事を可能とする、SDNパケット光統合制御技術をご紹介
+      します。
+
+  - name: ジュニパーネットワークス株式会社
+    profile: http://www.juniper.net/jp/jp/
+    logo: Juniper.jpg
+    booth: 7
+    abstract: |-
+      業界初のWANを分析・最適化・設定する「NorthStarコントローラ」と、NFV向けの
+      サービスコントロールゲートウェイ（SCG）をデモンストレーションでご紹介いたし
+      ます。<br>
+      「NorthStarコントローラ」は、Junosのキャリア級ピアリング機能とWANDLの実
+      績あるマルチレイヤー最適化技術を組み合わせた業界初のWANコントローラです。SC
+      Gデモでは、仮想または物理ネットワークサービスの動的なサービスチェイニングを
+      実現する「Contrail」のデモをはじめ、より迅速なサービスの拡大と縮小、ネット
+      ワークでホストされるサービスをいかに実現できるかをわかりやすくご紹介いたしま
+      す。
+
+  - name: 6WIND
+    profile: http://www.6wind.com/
+    logo: 6wind.jpg
+    booth: 8
+    abstract: |-
+      6WINDは通信事業者、エンタープライズ及びクラウドインフラ市場において通信機
+      器ベンダーのパフォーマンスへの挑戦を解決します。<br>
+      6WINDGateは、様々な通信・セキュリティプロトコルや機能を提供する為にリナッ
+      クスや各種マルチコアプロセッサ向けに最適化されており、マルチコアアーキテクチャ
+      におけるデータプレーンのパフォーマス課題を解決する事により、通信機器ベンダー
+      や通信事業者に対してコスト効率の良いバリュープロポジションの提供や、NFVの様
+      な将来の仮想化されたインフラ環境への移行を可能に致します。
+
+  - name: NTTコミュニケーションズ株式会社
+    profile: http://www.ntt.com/
+    logo: NTT_com.jpg
+    booth: 9
+    abstract: |-
+      これまでNTTコミュニケーションズでは、SDNを商用サービスに導入するなど、積極的
+      にSDNを導入してきました。現在はSDNの取り組みの一つとして、基盤網における伝送
+      レイヤのSDN化をTransport SDNとして検討しています。<br>
+      展示ブースでは、通信事業者としての視点で検討してきたTransport SDNのユースケ
+      ースに対して、実機を用いたプロトタイプを実装し、ユースケースの実現性を評価して
+      きた取り組みをデモでご紹介します。
+
+  - name: 一般社団法人 沖縄オープンラボラトリ
+    profile: http://www.okinawaopenlab.org/
+    logo: okinawa.jpg
+    booth: 10
+    abstract: |-
+      沖縄オープンラボではSDNとクラウド（OpenStack）の融合した領域にフォーカスを
+      当て、先行技術の開発検証、ユースケースのPOCなどを行っています。本ブースでは
+      これらの活動のベースとなるテストベッドと、そのうえで動くユースケースとしてサ
+      ービスチェイニングのデモを展示します。テストベッドはOpenFlowスイッチをパッ
+      チとして用いてベアメタルでサーバとスイッチを自由に構成できます。サービスチェ
+      イニングでは、複数のオーケストレータとVNFから選択をしてチェインを構成するシ
+      ナリオを、沖縄とつないでお見せします。
+
+  - name: 長瀬産業株式会社
+    profile: http://www.nagase.co.jp/
+    logo: nagse.jpg
+    booth: 11
+    abstract: |-
+      ”AXONERVE” Algorithmic Search Engine技術のご紹介<br>
+      長瀬産業ブースでは、開発中であるAxonerve/Algorithmic Search Engine[半
+      導体・FPGA用設計IP]のTCAMネットワーク適用例として、【SDN/OpenFlow Pack
+      et Filtering System】の動展示を行う予定です。<br>
+      デモ：SDN/OpenFlowネットワーク環境下におけるAxonerveシステム評価デモ<br>
+      構成：Packet Generator ⇔ AXONERVE IP搭載NIC<br>
+      ・Packet Generator：SDN/OpenFlow Packet 送信、モニタリング<br>
+      ・NIC：AXONERVE IPによるPacket Filtering
+
+  - name: ヴイアーマーネットワークス合同会社
+    profile: https://www.varmour.com/index.php?lang=en
+    logo: vArmour.jpg
+    booth: 12
+    abstract: |-
+      vArmourブースでは、物理環境・仮想化環境・クラウド環境を問わず、脅威の侵入
+      や脅威の水平方向への拡散から企業やサービスプロバイダを保護し、データセンター
+      のセキュリティに関する課題を解決するためのソリューションをご紹介いたします。
+
+  - name: 株式会社日立製作所
+    profile: http://www.hitachi.co.jp/
+    logo: Hitachi.jpg
+    booth: 13
+    abstract: |-
+      日立ブースでは、SDN/クラウド関連の最新のソリューションをデモンストレーショ
+      ンを交えて紹介します。<br>
+      １．統合システム運用管理JP1とVMware vCenter Operations Managementに
+      よる仮想ネットワークに対する隙のない運用管理のご提案 <br>
+      ２．vArmour Networksの仮想分散ファイヤウォールを用いて、点在するデータ
+      に対する新しいセキュリティドメイン定義方法のご提案<br>
+
+  - name: KDDI株式会社
+    profile: http://www.kddi.com/
+    logo: kddi.jpg
+    booth: 14
+    abstract: |-
+      KDDIブースでは、SDN技術を活用した新しい広域ネットワークサービスである
+      「KDDI Wide Area Virtual Switch 2」（WVS2）を展示します。<br>
+      WVS2は、クラウドを安心・安全かつ便利にご利用いただけるよう、セキュリティ
+      機能やインターネット接続帯域をお客さまが自由に設定できる機能を備えた次世代
+      の広域ネットワークサービスです。今回の展示では、カスタマーコントローラを用
+      いたオンデマンド契約変更や各セキュリティの設定のデモンストレーションを実施
+      します。
+
+  - name: 日商エレクトロニクス株式会社
+    profile: http://www.nissho-ele.co.jp/
+    logo: Nissho.jpg
+    booth: 15
+    abstract: |-
+      データセンター事業者の皆様は、事業拡大の絶好の機会をむかえております。<br>
+      企業にとってクラウドサービス利用が当たり前になった今、イニシャルのコストや
+      手軽さからパブリッククラウドサービスが多く使用されています。しかし、増加す
+      る使用量によるコスト増やデータ内容により、改めて自社でのオンプレ化やハイブ
+      リッド化の検討がはじまっております。企業インフラに柔軟性が求められる将来、
+      データセンター事業者の皆様がいかにして自社競争力を高め、これらの企業を獲得
+      し事業拡大を行うことができるかをOpen Stackと連携しJuniper、Brocade、P
+      luribusなどを活用したインフラ整備による運用効率化、新規サービス提供によ
+      る収益化の観点にてご紹介します。変更する仕組みと融合させ、最適な通信経路を
+      選択するデモンストレーションを行います。
+
+  - name: ブロケード コミュニケーションズ システムズ株式会社
+    profile: http://www.brocadejapan.com/
+    logo: BROCADE.jpg
+    booth: 16
+    abstract: |-
+      今すぐの課題から、10年後の未来まで―。データセンターのネットワークなら、業
+      界No.2のブロケードでしょ？<br>
+      ーサーバ仮想化に連動したネットワークで運用効率化。その極意とは？<br>
+      ーえ、そうなんですか？性能に差がつくストレージと仮想化とネットワークの意外
+      な関係<br>
+      ーSDDC時代へ。”超オープン”ネットワークのススメ<br>
+      ※関連キーワード： NSX、ストレージ、OpenStack、自動化、SDN
+
+  - name: A10 ネットワークス株式会社
+    profile: http://www.a10networks.co.jp/
+    logo: A10.jpg
+    booth: 17
+    abstract: |-
+      クラウドへの移行が加速する一方、従来のデータセンターは静的で柔軟性に欠け、
+      ネットワークのプロビジョニングは手作業で行われているのが現状です。A10ブー
+      スでは、プロビジョニングの自動化によりIaaS事業者のビジネスの俊敏性向上と
+      運用コスト削減を実現することのできる「aCloudサービスアーキテクチャー」を
+      ご紹介します。<br>
+      ・SDN／クラウドプラットフォームとの連携によるADC（アプリケーションデリ
+      バリーコントローラー）の運用・管理統合<br>
+      ・仮想ADCの従量課金モデルによるサブスクリプションサービス提供
+
+  - name: シトリックス・システムズ・ジャパン株式会社
+    profile: http://www.citrix.co.jp/
+    logo: Citrix.jpg
+    booth: 18
+    abstract: |-
+      SDNにおいて最も重要なことは、単にネットワークを仮想・自動化することでは
+      なく、SDN技術により柔軟なインフラを実現したネットワーク上で、ユーザからの
+      アプリケーションアクセスを確実に提供することです。<br>
+      その一つの解として、Citrixブースでは、Citrix CloudPlatformを含む代表
+      的なクラウドオーケストレータとNetScaler製品との連携により実現されるソリ
+      ューションや、Citrix Xenハイパーバイザーを搭載したNetScaler SDXシリー
+      ズについて、御紹介をいたします。
+
+  - name: 日本シエナコミュニケーションズ株式会社
+    profile: http://www.cienacorp.jp/
+    logo: Ciena.jpg
+    booth: 20
+    abstract: |-
+      Cienaは通信事業者向けに光・パケットレイヤを統合したオープンなSDNソリュ
+      ーションを提供します。<br>
+      OpenDayLightベースのオープンなマルチレイヤSDNコントローラーと、その上
+      で動くSDNアプリケーションを提供し、光伝送、回線交換、パケットスイッチを含
+      むマルチベンダー統合ネットワークインフラを構築可能にします。さらに、SDNコ
+      ントローラー及びSDNアプリケーションからオープンなAPIを提供することで、Bo
+      D、クラウドオートメーションなどの上位アプリケーションとの連携を実現します。
+
+  - name: シスコシステムズ合同会社
+    profile: http://www.cisco.com/web/JP/index.html
+    logo: ciscosystems.jpg
+    booth: 21
+    abstract: |-
+      シスコシステムズは、データセンターから企業ネットワークまで、様々な要件に対応
+      するべく幅広いラインナップでSDNに対応していきます。<br>
+      今回のSDN-Japanでは、それらの中から以下の内容を中心にデモおよびご説明致し
+      ます。<br>
+      <br>
+      1.) データセンターをアプリケーションの視点から再定義するACI (Application 
+      Centric Infrastructure)モデルに基づいたAPIC（Application Policy 
+      Infrastructure Controller）および関連ソリューション<br>
+      2.) 企業向けSDNポリシーコントローラとして2015年提供予定のAPICエンタープライ
+      ズモジュール（APIC-EM）<br>
+      3.) シスコネットワーク機器でサポートされたオープンな開発環境であるonePKとカ
+      スタムアプリケーション例
+
+  - name: マクニカネットワークス株式会社
+    profile: http://www.macnica.net/
+    logo: macnica.jpg
+    booth: 22
+    abstract: |-
+      本ブースでは、PLUMgrid、Splunk、Nutanixの3製品をご紹介します。<br>
+      PLUMgridは、ユーザが拡張性、パフォーマンス、セキュリティを懸念することな
+      く、OpenStack対応のクラウドを簡単に構築できるSDNソフトウェアで、今回は新
+      たに追加されたセキュリティ機能をご紹介します。<br>
+      Splunkはマシンデータ分析プラットフォームで、OpenStackの障害対応に必要な
+      情報を相関調査・監視する運用監視ソリューションをデモを交えてご紹介します。<br>
+      また、最新仮想化基盤アプライアンスNutanixにおいては、複雑なSANの設計を必要
+      とせず、短期間に環境構築が可能な、拡張性と高パフォーマンスを実現するSDIをご
+      紹介します。
+
