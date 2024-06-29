@@ -1,0 +1,16 @@
+---
+layout: post
+title: 無事閉幕いたしました
+description: 無事閉幕いたしました
+date: 2016-01-15 21:00:00 +0900
+hero_image: /archives/2015/img/joshua-hoehne-Nsaqv7v2V7Q-unsplash.jpg
+image: /archives/2015/img/joshua-hoehne-Nsaqv7v2V7Q-unsplash.jpg
+hero_height: is-middle
+hero_darken: true
+---
+
+SDN Japan 2015 は無事閉幕いたしました。
+
+参加してくださった皆様ありがとうございました。
+
+講演資料はプログラムページに随時アップしていきます。

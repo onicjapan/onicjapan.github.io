@@ -1,15 +1,64 @@
-- tier_name: 協賛企業
+- tier_name: プラチナスポンサー
   size: large
   sponsors:
-    - name: サイバーファーストコネクト株式会社
-      profile: https://www.example.com/
-      logo: placeholder-500x130.png
-    - name: 株式会社デジタルウェイワイヤレス
-      profile: https://www.example.com/
-      logo: placeholder-500x130.png
-    - name: ネクストジェネレーションネットワークス合同会社
-      profile: https://www.example.com/
-      logo: placeholder-500x130.png
-    - name: クラウドソリッドコネクト株式会社
-      profile: https://www.example.com/
-      logo: placeholder-500x130.png
+    - name: ヴイエムウェア株式会社
+      profile: http://www.vmware.com/jp/
+      logo: VMW.jpg
+    - name: 華為技術日本株式会社
+      profile: http://e.huawei.com/jp/
+      logo: HW-2013.jpg
+
+- tier_name: ゴールドスポンサー
+  size: small
+  sponsors:
+    - name: アライドテレシス株式会社
+      profile: http://www.allied-telesis.co.jp/
+      logo: allied.jpg
+    - name: 株式会社インターネットイニシアティブ
+      profile: https://www.iij.ad.jp/
+      logo: IIJ.jpg
+    - name: NTTコミュニケーションズ株式会社
+      profile: http://www.ntt.com/
+      logo: NTT_com.jpg
+    - name: O3 project
+      profile: http://www.o3project.org/
+      logo: O3_r.jpg
+    - name: KDDI株式会社
+      profile: http://www.kddi.com/
+      logo: kddi.jpg
+    - name: シスコシステムズ合同会社
+      profile: http://www.cisco.com/web/JP/index.html
+      logo: ciscosystems.jpg
+    - name: ジュニパーネットワークス株式会社
+      profile: http://www.juniper.net/jp/jp/
+      logo: Juniper.jpg
+    - name: 富士通株式会社
+      profile: http://www.fmworld.net/
+      logo: fujitsu.jpg
+    - name: ブロケード コミュニケーションズ システムズ株式会社
+      profile: https://jp.broadcom.com/
+      logo: BROCADE.jpg
+
+- tier_name: シルバースポンサー
+  size: small
+  sponsors:
+    - name: 一般社団法人 沖縄オープンラボラトリ
+      profile: http://www.okinawaopenlab.org/
+      logo: okinawa.jpg
+    - name: Cavium, Inc.
+      profile: http://www.cavium.com
+      logo: Cavium.jpg
+    - name: メラノックス テクノロジーズ ジャパン株式会社
+      profile: http://www.mellanox.co.jp/
+      logo: Mellanox.jpg
+    - name: 株式会社アルティマ
+      profile: http://www.altima.co.jp/
+      logo: ALTIMA.jpg
+
+- tier_name: ブロンズスポンサー
+  size: small
+  sponsors:
+    - name: 伊藤忠テクノソリューションズ株式会社
+      profile: http://www.ctc-g.co.jp/
+      logo: ctc_r.jpg
+

@@ -1,258 +1,645 @@
-- date: October 29, 2022
+- date: January 14, 2016<br>sola city Hall
   sessions:
     - title: 受付開始
-      time: 10:00-
+      time: "9:30"
     - title: 開会宣言
-      time: 10:20-10:30
+      time: "9:50"
+    - title: 来賓挨拶
+      time: "10:00"
       presenters:
         - name_and_title: |-
-            ONIC実行委員会委員長
-    - title: フューチャープルーニング：ネットワークの進化とAIの役割
-      time: 10:30-11:00
-      type: 講演
-      tag: s_01
+             総務省<br>
+             情報通信国際戦略局<br>
+             技術政策課 研究推進室長<br>
+             荻原 直彦
+
+    - title: SDNと日本のインターネット基盤の未来
+      time: "10:10"
+      type: 基調講演
+      tag: s14_01
       presenters:
         - name_and_title: |-
-            デジタルウェイ・テクノロジーズ<br />
-            デジタルイノベーション部<br />
-            田中　麻衣子
-          photo: placeholder-120x140.png
+            インターネットマルチフィード株式会社<br>
+            外山 勝保
       abstract: |-
-        このセッションでは、未来のネットワークトレンドと、人工知
-        能（AI）がネットワーク管理、セキュリティ、および最適化に
-        果たす役割に焦点を当てます。AIによる自己適応型ネットワー
-        クの展望について議論し、ネットワークインフラストラクチャ
-        の新たな展開に関する洞察を提供します。
-        [https://google.com](https://google.com)
+        日本のインターネットは早くからのブロードバンド化により利用者数
+        が飽和に近づいていると考えられるほど普及しています。 一方でユー
+        ザあたりのトラフィック量の伸びは留まるところを知らず、インター
+        ネット基盤を構築・運用する事業者は収入増が見込めない中、対応に
+        苦慮しています。 SDNを広義で捉え、日本のインターネット基盤の
+        未来に向けてどんな課題を解決していけばよいのか、SDNを含めたア
+        ーキテクチャはどうあるべきかについて述べさせていただきます。
       slides:
-        - file: placeholder.pdf
-    - title: 5G時代のネットワークセキュリティ戦略
-      time: 11:00-11:30
-      type: スポンサーセッション
-      tag: s_02
-      presenters:
-        - name_and_title: |-
-            インテリジェントネットワーク合同会社<br />
-            山本　健太郎
-          photo: placeholder-120x140.png
-      abstract: |-
-        このセッションでは、5Gネットワーク環境におけるセキュリ
-        ティの課題と戦略に焦点を当てます。新たなセキュリティリ
-        スクと5Gテクノロジーの特性に対処するためのアプローチや
-        ベストプラクティスについて討議し、ネットワークセキュリ
-        ティの強化に向けた戦略を検討します。
-      slides:
-        - file: 2022_Routing-Platform.pdf
-    - title: エッジコンピューティングとIoTの融合：ネットワークの未来
-      time: 11:30-12:00
+        - file: 1401_toyama.pdf
+
+    - title: Carrier SDN Lessons Learned
+      time: "10:40"
       type: 講演
-      tag: s_03
+      tag: s14_02
       presenters:
         - name_and_title: |-
-            クラウドソリューションズ株式会社<br />
-            鈴木　みずき 
-          photo: placeholder-120x140.png
+            KDDI株式会社<br>
+            大垣 健一
       abstract: |-
-        このセッションでは、エッジコンピューティングとインター
-        ネット・オブ・シングス（IoT）がネットワークアーキテク
-        チャとビジネスモデルに与える影響に焦点を当てます。エッ
-        ジデバイスからのデータ処理とネットワーク要件への対応に
-        ついて議論し、これらの技術がネットワークの未来をどのよ
-        うに変えるかについて考察します。
-    - title: クラウドネイティブネットワークの実装と運用
-      time: 12:00-12:15
-      type: スポンサーセッション
-      tag: s_04
-      presenters:
-        - name_and_title: |-
-            データマスター株式会社<br />
-            クラウドサービス開発部<br />
-            小林　悠子
-          photo: placeholder-120x140.png
-        - name_and_title: |-
-            データマスター株式会社<br />
-            クラウドサービス開発部<br />
-            佐藤　大輔
-          photo: placeholder-120x140.png
+        SDNを活用した法人向けVPNサービスWVS2の商用導入から1年以上が
+        過ぎた今、あらためてSDN導入のモチベーションや技術的課題、そこか
+        ら得られた教訓について振り返る。
       slides:
-        - file: placeholder.pdf
-    - title: お昼休憩
-    - title: 量子ネットワーキングの未来：安全性とスケーラビリティ
-      time: 13:30-14:00
+        - file: 1402_ogaki.pdf
+
+    - title: IIJが目指す Enterprise as a Service
+      time: "11:10"
       type: 講演
-      tag: s_05
+      tag: s14_03
       presenters:
         - name_and_title: |-
-            サイバーコアテック合同会社<br />
-            サイバーセキュリティチーム<br />
-            高橋　美咲
-          photo: placeholder-120x140.png
+            株式会社インターネットイニシアティブ<br>
+            石田 潔
       abstract: |-
-        このセッションでは、量子ネットワーキングの最新動向と
-        その未来に焦点を当てます。量子暗号技術と量子ネットワ
-        ークの可能性について議論し、これらの革新的なアプロー
-        チがネットワーク通信の安全性とスケーラビリティにどの
-        ような影響を及ぼすかについて考察します。
-    - title: サイバーセキュリティと人工知能：未知の脅威への対応
-      time: 14:00-14:30
-      type: スポンサーセッション
-      tag: s_06
-      presenters:
-        - name_and_title: |-
-            テクノロジーフロンティア株式会社<br />
-            中村　一郎 
-          photo: placeholder-120x140.png
-      abstract: |-
-        このセッションでは、人工知能と機械学習がサイバーセキュ
-        リティ分野で果たす役割に焦点を当てます。未知の脅威や高
-        度な攻撃への対策としてAI技術の活用について議論し、セキ
-        ュリティの向上とインシデント対応の最新アプローチを探り
+        キャリア網やデータセンタから始まり、エンタープライズWAN、LAN の
+        領域へと 染み出しているSDN。動的プロビジョニングの実現や管理機能
+        の集約化など、 ネットワークの仮想化サービスに向けた取り組みにその
+        成果が出ています。では、仮想化されたネットワーク上で何を行うので
+        しょうか。IIJが目指すサービ ス像を、Omnibusを通してご紹介いたし
         ます。
-    - title: グローバルなデジタルインフラ：ネットワークの普及と課題
-      time: 14:30-15:00
+      slides:
+        - file: 1403_ishida.pdf
+
+    - title: ONOS(Open Network Operating System)とは
+      time: "11:40"
       type: 講演
-      tag: s_07
+      tag:  s14_04
       presenters:
         - name_and_title: |-
-            ビジョンテックジャパン有限会社</br />
-            町田　真理子
-          photo: placeholder-120x140.png
-        - name_and_title: |-
-            ビジョンテックジャパン有限会社</br />
-            渡辺　雅彦
-          photo: placeholder-120x140.png
+            日本電気株式会社<br>
+            金海 好彦
       abstract: |-
-        このセッションでは、世界中のデジタルインフラストラクチャ
-        の普及と課題に焦点を当てます。新興市場と発展途中国におけ
-        るデジタルインクルージョンの促進、インフラストラクチャの
-        持続可能性、そして地域ごとのネットワーク課題について討議
-        し、国際的な協力の必要性について考えます。
+        キャリア・サービスプロバイダ向けのSDNコントローラフレームワークの
+        1つであ るONOSについて説明いたします。ONOSは2012年に設立されたON
+        .Labにより 開発が進められており、2014年12月にオープンソースとし
+        て公開されました。 このONOSはHAとスケーラビリティを分散アーキテク
+        チャで実現しており、ネットワー ク機器を抽象化する多様なSBIと、SB
+        Iとは独立したNBIを提供します。またONOSの ユースケースについても
+        ご紹介いたします。
       slides:
-        - file: 2022_Service-Mesh.pdf
-        - file: 2022_Service-Mesh2.pdf
+        - file: 1404_kanaumi.pdf
+
+    - title: 昼食
+      time: "12:10"
+
+    - title: The State of SDN & NFV： 5 Years In 
+      time: "13:10"
+      type: 講演
+      tag: s14_05
+      presenters:
+        - name_and_title: |-
+            OpenDaylight<br>
+            Neela Jacques
+      abstract: |-
+        Open Source and Open Standards are inspiring 
+        and enabling new technological breakthroughs, 
+        with groups such as OpenDaylight, OPNFV, ONF, 
+        ETSI and others pioneering the way forward. C
+        arriers and enterprises are increasingly aski
+        ng for their vendors to deliver solutions bas
+        ed on open source and open standards with var
+        ying results. The industry is clearly going t
+        hrough a major transition, with critical ques
+        tions having been answered (such as the need 
+        for multiple protocols) but a number of import
+        ant new ones being raised (such as the role po
+        licy and intent, how to scale out logically ce
+        ntralized control, and the evolving role of Op
+        enFlow). OpenDaylight Executive Director Neela 
+        Jacques will give an overview of the current s
+        tate of SDN and NFV, discuss specific emerging 
+        use cases, case studies, and highlight lessons 
+        learned along the way.
+      slides:
+        - file: 1415_neela.pdf
+
     - title: 休憩
-      time: 15:00-15:10
-    - title: 量子コンピューティングとネットワーク：新たな可能性への突破口
-      time: 15:10-15:40
-      type: 講演
-      tag: s_08
+      time: "13:40"
+
+    - title: スイッチチップパネル
+      time: "13:50"
+      type: パネルディスカッション
+      tag: s14_06
       presenters:
         - name_and_title: |-
-            デジタルファクトリー合同会社<br />
-            加藤　麗子
-          photo: placeholder-120x140.png
+            ［モデレータ］<br>
+            NTT Network Inovation Laboratories<br>
+            Yoshihiro Nakajima<br>
+            ［パネリスト］<br>
+            Broadcom<br>Eli Karpilovski<br>
+            (Director , Product Marketing, SDN/Cloud Eco-System, Infrastructure and Networking/XGS)<br>
+            Barefoot<br>Prem Jonnalagadda<br>
+            (Product line manager)<br>
+            Cavium<br>Sachin Gandhi<br>
+            (Director of Marketing)<br>
+            Mellanox<br>Benny Koren<br>
+            (VP of Architecture)<br>
       abstract: |-
-        このセッションでは、量子コンピューティングがネットワーク
-        分野にもたらす可能性に焦点を当てます。量子アルゴリズムと
-        ネットワーク最適化の関連性について議論し、量子コンピュー
-        ティングがネットワーク設計とセキュリティに与える影響につ
-        いて検証します。
-    - title: スマートシティの未来：ネットワーク技術と都市インフラ
-      time: 15:40-16:10
+        SDNやNFVではポリシーマネージメントやユースケースなど上
+        位の話がおおいで すが，実際にパケットを転送したり、ルーテ
+        ィングをするためには，スイッチ チップがないと話が始まりま
+        せん。 今回のパネルディスカッションでは，ネットワーキング
+        を実現する重要部品で あるスイッチチップを開発している専門
+        家を集め、今後のスイッチチップの設 計の思想や将来の方向性
+         (性能や機能)、whitebox switchの動き、スイッチOS への
+        SDKやAPIの提供などについて議論します。<br>
+        本パネルは英語（日本語同時通訳あり) で行います。
+      slides:
+        - file: 1405_nakajima.pdf
+
+    - title: 休憩
+      time: "15:20"
+
+    - title: VMware NSXと仮想ネットワークの未来
+      time: "15:40"
+      type: 講演
+      tag: s14_07
+      presenters:
+        - name_and_title: |-
+            ヴイエムウェア株式会社<br>
+            進藤 資訓
+      abstract: |-
+        VMware NSXは、2014年のリリース以来さまざまな機能拡張が
+        加えられながら進化を遂 げ、今日最も多くのお客様で利用される
+        仮想ネットワークソリューションに成長しま した。NSXによるマ
+        イクロセグメンテーションに始まり、最近ではネットワークの自
+        動化やアプリケーション継続性など、使い方が広がっています。
+        本セッションでは、 これらの新しいユースケースと今後VMware
+        が考えるSDNやネットワーク仮想化の方向 性についてお話しをし
+        たいと思います。
+
+    - title: Huawei SDN/NFV Vision & Practice
+      time: "16:10"
+      type: 講演
+      tag: s14_08
+      presenters:
+        - name_and_title: |-
+            華為技術日本株式会社<br>
+            槙島 和紀
+      abstract: |-
+        SDN/NFV is not only technology innovations but 
+        also re-positioning operators in value chain, 
+        Huawei Y2020 Oriented Softcom strategy leverage 
+        SDN/NFV technologies and help to Transform Telco 
+        Network to Cloud. In this topic we will share 
+        Huawei Softcom portfolio and practice.
+
+    - title: 休憩
+      time: "16:40"
+
+    - title: SDNの市場動向～ユーザの考え・ユースケースはどう変わったか～
+      time: "17:00"
       type: スポンサーセッション
-      tag: s_09
+      tag: s14_09
       presenters:
         - name_and_title: |-
-            プログレッシブシステムズ株式会社<br />
-            伊藤　剛太
-          photo: placeholder-120x140.png
+            株式会社野村総合研究所<br>
+            木下 貴史
       abstract: |-
-        このセッションでは、スマートシティ概念とネットワーク技
-        術の相互作用に焦点を当てます。都市インフラストラクチャ
-        のデジタル化、IoTセンサーの展開、および市民サービスの改
-        善におけるネットワークの役割について討議し、持続可能な
-        都市の実現に向けた戦略を考察します。
+        SDNはネットワークの先端領域であると同時に、常に仮想化動向
+        と影響 を及ぼし合う関係にある。SDNの定番ユースケースに一定の
+        道筋がつく中、再びSDNを より大きな仮想化環境の中でとらえなお
+        す必要性も高まっている。そのような環境の中 におけるSDN市場に
+        ついて考える。
       slides:
-        - file: placeholder.pdf
-    - title: ハイパフォーマンスネットワーク設計の最新トレンド
-      time: 16:10-16:40
+        - file: 1409_kinoshita.pdf
+
+    - title: Interop Tokyo ShowNet 2015におけるSDN/NFV
+      time: "17:30"
       type: 講演
-      tag: s_10
+      tag: s14_10
       presenters:
         - name_and_title: |-
-            インフィニティインフォテック株式会社<br />
-            林　梨香
-          photo: placeholder-120x140.png
+            Interop Tokyo 2015 ShowNet NOCチーム<br>
+            中村 遼
       abstract: |-
-        このセッションでは、ハイパフォーマンスネットワーク設計の
-        最新トレンドに焦点を当てます。高速データ伝送、低遅延通信、
-        および高信頼性ネットワークの設計戦略について議論し、次世
-        代のネットワークインフラストラクチャに向けた革新的なアイ
-        デアを探ります。
+        毎年6月に開催されるInterop Tokyoでは、世界最大のデモンスト
+        レーションネットワークであるShowNetの構築を行っています。
+        ShowNetでは、2012年にOpenFlowを本格的に利用し始め、2013
+        年にはOpenFlowによるモニタリングネットワークや仮想ルータに
+        よるユーザ収容、2014年は複数の仮想ルータによるNFVなど、SDNに
+        関する様々なチャレンジを行ってきました。こうした取り組みの中
+        で、コントロール用のAPIや運用手法、そしてソフトウェアによる
+        パケット転送性能など、多くの課題と知見を蓄積してきました。そ
+        して2015年のShowNetでは、これらの課題の解決を目指し、サーバ
+        を追加すればするほど性能をスケールアウトできるNFVの構築を行い
+        ました。本発表では、このShowNetにおいて構築されたNFVの設計か
+        ら実装、性能に関する実験や、運用にいたるまでの全てについて発表
+        いたします。
       slides:
-        - file: 2022_AETHER-Open-5G-Connected-Edge-Cloud.pdf
-    - title: 休憩（コーヒータイム）
-      time: 16:40-17:10
-    - title: サイバーレジリエンス：攻撃からの復旧とネットワーク保護
-      time: 17:10-17:40
+        - file: 1410_nakamura.pdf
+
+    - title: SDNとOpenStackによるオープンイノベーションの具体例と可能性とは？<br>～沖縄オープンラボの活動紹介～
+      time: "18:00"
       type: 講演
-      tag: s_11
+      tag: s14_11
       presenters:
         - name_and_title: |-
-            クラウドウェイブテクノロジー合同会社<br />
-            大野　宏治
-          photo: placeholder-120x140.png
+            一般社団法人 沖縄オープンラボラトリ/日本電気株式会社<br>
+            鳥居 隆史
       abstract: |-
-        このセッションでは、サイバー攻撃からの迅速な復旧とネット
-        ワークの保護に焦点を当てます。サイバーレジリエンスの実装
-        戦略やインシデント対応プランについて討議し、ビジネス継続
-        性の確保とネットワークセキュリティの向上に関する最新の情
-        報を提供します。
+        沖縄オープンラボでは、SDNとOpenStackの融合をかかげて、国内
+        外のベンダー・ユーザ・SIerが集ってオープンイノベーションを目
+        指した活動を行っています。活動開始から約2年半が経過し、いくつ
+        かのプロジェクトで会社をまたがった連携による成果が出始めていま
+        す。これらの紹介と、12月にオープンラボが主催した国際イベントO
+        kinawa Open Days 2015での様子、さらに今後の方向性・可能
+        性についてお話しします。
       slides:
-        - file: 2022_-AWS_Azure.pdf
-    - title: ネットワークデータの分析とビッグデータ戦略
-      time: 17:40-18:10
+        - file: 1411_torii.pdf
+
+    - title: 本会議終了
+      time: "18:30"
+
+    - title: zebraの10年目のゆめ
+      time: "18:45"
+      type: BoF
+      tag: s14_12
+      presenters:
+        - name_and_title: |-
+            Hash-set<br>
+            石黒 邦宏<br>
+            株式会社インターネットイニシアティブ<br>
+            沖 勝<br>
+            NTT未来ねっと研究所<br>
+            中島佳宏
+      abstract: |-
+        Zebra 1.0の開発者の石黒さんが最後にソースコードをコミット
+        してから、はや10年が経ちました。オープンソースのメリットによ
+        り、ZebraはWhitebox switchやPCルータなど様々なところで拡
+        張されて使われています。<br>
+        これまでのZebraの10年を振り返り、zebraの10年めの夢を語りたい
+        と思います。
+
+    - title: SDN/NFV時代におけるネットワーク検証の自動化
+      time: "18:45"
+      type: BoF
+      tag: s14_13
+      presenters:
+        - name_and_title: |-
+            NTTコミュニケーションズ株式会社/一般社団法人 沖縄オープンラボラトリ<br>
+            田部 英樹
+      abstract: |-
+        ソフトウェア検証では試験自動化が積極的に導入されていますが、 
+        ネットワーク機器検証では設定方法がベンダによって異なる事や、 
+        自動化フレームワークが少ない事から、多くの試験が手動で行われ
+        ています。 さらにVNF試験では、仮想化環境の種類やVM構成パラメ
+        ータのような 新たな試験構成要素が増え、その組み合わせ数が爆発
+        的に増加する事から、 すべての試験を手動で実施する事が困難にな
+        ってきています。 そこで沖縄オープンラボラトリでは、任意の試験
+        構成要素をユーザが自由に選択し、 試験を自動的に実行するフレー
+        ムワークの研究開発を行い、 SDN/NFV時代におけるネットワーク検
+        証自動化について優位性の考察を実施しました。 本BoFでは、開発
+        した試験自動化フレームワークの紹介を行い、 今後の展開の仕方や
+        機能拡張の方向性について皆様からご意見を頂ければ幸いです。
+
+    - title: 終了
+      time: "20:15"
+
+- date: January 14, 2016<br>Terrace Room
+  sessions:
+    - title: SDNコントローラ"OpenContrail"のNFV/物理スイッチ連携ソリューション
+      time: "11:20"
       type: 講演
-      tag: s_12
+      tag: t14_01
       presenters:
         - name_and_title: |-
-            イノベーションドライブ株式会社<br />
-            松田　真理
-          photo: placeholder-120x140.png
+            ジュニパーネットワークス株式会社<br>
+            中嶋 大輔
       abstract: |-
-        このセッションでは、ネットワークデータの収集と分析に焦点
-        を当てます。ビッグデータテクノロジーの導入によるネットワー
-        クの最適化、トラブルシューティング、およびビジネスインテ
-        リジェンスへの応用について議論し、データ駆動型のネットワー
-        ク管理戦略を探求します。
-      slides:
-        - file: 2022_Network-as-Code.pdf
-    - title: ネットワークのエネルギー効率化と持続可能性
-      time: 18:10-18:40
+        SDNという言葉は広く浸透し、ネットワーク機能の仮想化”NFV”も
+        ホットなキーワードです。それでは実際の製品ではSDNで既存の問題
+        の何が解決できるのでしょうか？ 本セッションでは、オープンソース
+        SDNコントローラーOpenContrailによって解決できるデータセン
+        ター仮想化及びリモート拠点接続をご紹介します。また、XaaSサービ
+        ス向けAPIサーバGohanを紹介します。
+
+    - title: 休憩
+      time: "11:50"
+
+    - title: ＜ランチョンセミナー＞IoT時代を迎え、益々注目を集めるSouthSIDE SDN
+      time: "12:10"
       type: 講演
-      tag: s_13
+      tag: t14_02
       presenters:
         - name_and_title: |-
-            テックトランスフォームジャパン有限会社<br />
-            佐々木　俊一
-          photo: placeholder-120x140.png
+            アライドテレシス株式会社<br>
+            川北 潤
       abstract: |-
-        このセッションでは、ネットワークインフラストラクチャのエ
-        ネルギー消費と持続可能性に焦点を当てます。省エネルギーネッ
-        トワーク設計、再生可能エネルギーの活用、および環境に配慮
-        したネットワーク運用について討議し、エネルギー効率の向上
-        と環境への配慮に関する戦略を検討します。
-      slides:
-        - file: 2022_Introduction-to-Cilium-from-Telco-and-On-premise-Perspective.pdf
-    - title: デジタルツインズとネットワークの未来
-      time: 18:40-19:10
+        SDN技術はNorthSIDE（データセンター）発祥だが、アライドテレ
+        シスはこれをSouthSIDE（エンタープライズ）の価値観で生まれ変わ
+        らせた。NorthとSouthの主な違いは、ユーザー端末の有無と、主体が
+        インフラかAPPかにある。そこで、アライドテレシスの「2つのSDN」で
+        この違いを解決したところ、市場の反響はとても大きく、更にはSouth
+        SIDEに無尽の端末が広がるIoT時代を迎え、その存在感は益々高まり
+        をみせている。<br>
+        ※本セミナーはランチョンセミナー形式となります。<br>
+        （数に限りがございますのでご了承ください。）
+
+    - title: 休憩
+      time: "12:40"
+
+    - title: SDN時代の実用ネットワーク～KDDI Wide Area Virtual Switch 2～
+      time: "13:00"
       type: 講演
-      tag: s_14
+      tag: t14_03
       presenters:
         - name_and_title: |-
-            デジタルビジョンテクノロジーズ合同会社<br />
-            高田　幸子
-          photo: placeholder-120x140.png
+            KDDI株式会社<br>
+            兼井 也寸志
       abstract: |-
-        このセッションでは、デジタルツインズ技術とネットワーク
-        の相互関係に焦点を当てます。デジタルツインズがネットワー
-        クデザイン、監視、および最適化にどのように活用できるか
-        について議論し、デジタルツインズがネットワーク管理にも
-        たらす可能性について検証します。
-      slides:
-        - file: placeholder.pdf
-    - title: 閉会宣言
-      time: 19:10-
+        クラウドやスマートデバイスの普及やIoTの登場によりICT環境が大きく
+        変わりつつあります。そのような中でネットワークにも柔軟性と拡張性の
+        メリットをもたらすSDN技術が注目を浴びています。 このセッションでは
+        、SDN技術を活用した新しい広域ネットワークサービス 「KDDI Wide 
+        Area Virtual Switch 2」のサービス紹介と事例について紹介します
+        。
+
+    - title: 休憩
+      time: "13:30"
+
+    - title: 光コアネットワークのSDN化への取り組み
+      time: "13:50"
+      type: 講演
+      tag: t14_04
       presenters:
         - name_and_title: |-
-            ONIC実行委員会<br />
+            03 プロジェクト<br>
+            山田 亜紀子
+      abstract: |-
+        広域ネットワークにおいてSDNを実現するにあたっては、パケット網だけで
+        はなく長距離伝送を担う光コア網も対象として考慮することが必要となる。
+        我々は、ネットワークに流入するトラフィック量が増大し続ける状況におい
+        て、光コア網を現状よりもフレキシブルに制御することがより効率的な転送
+        を可能とし大量データ転送ニーズに対する新たな価値を創出できると考えOT
+        N/WDMを対象とした研究開発を推進している。<br>
+        総務省O3プロジェクトとしてこれまで行ってきた光コアネットワークSDN化
+        への取り組みと今後の展望について紹介する。
+      slides:
+        - file: 1424_yamada.pdf
+
+    - title: 休憩
+      time: "14:20"
+
+    - title: Cisco ACI を活用したデータセンターの進化
+      time: "14:40"
+      type: 講演
+      tag: t14_05
+      presenters:
+        - name_and_title: |-
+            シスコシステムズ合同会社<br>
+            大平 伸一
+      abstract: |-
+        Ciscoが推進するPolicy Based Infrastructureによる運用面のメリ
+        ットや 最新APIC OSによる　運用効率の向上とセキュリティ機能の強化に
+        ついてご紹介致します。
+
+    - title: 休憩
+      time: "15:10"
+
+    - title: VMware NSX 6.2 新機能のご紹介
+      time: "16:40"
+      type: 講演
+      tag: t14_06
+      presenters:
+        - name_and_title: |-
+            ヴイエムウェア株式会社<br>
+            進藤 資訓
+      abstract: |-
+        VMware NSX の最新バージョン6.2で追加された各種新機能（Cross v
+        Center NSX、オ ペレーション、ルーティング、ロードバランサ、セキ
+        ュリティ関連機能強化、など） について紹介をします。
+
+- date: January 15, 2016<br>sola city Hall
+  sessions:
+    - title: 開場
+      time: "9:30"
+
+    - title: レジリエンスをSDNで定量化できたら世の中どうなる
+      time: "10:00"
+      type: 講演
+      tag: s15_01
+      presenters:
+        - name_and_title: |-
+            大阪大学<br>
+            柏崎 礼生
+      abstract: |-
+        「石橋を叩いて渡る」という諺があるが、石橋に与えるエネルギーを増大さ
+        せ続ければいつか必ず石橋は破壊される。壊れない石橋は存在しない。しか
+        しどれだけのエネルギーを与えればその石橋が破壊されるかを施工主も利用
+        者も知らないことは、不幸なことなのかもしれない。大阪大学を中心とする
+        研究グループはSDN を用いて石橋を叩いて壊す「DESTCloud」 プロジェク
+        トを立ち上げた。この取り組みが通信インフラストラクチャ、あるいはその
+        上で動作するシステムのレジリエンスを定量的に評価する指標となることを
+        目標としている。
+
+    - title: 休憩
+      time: "10:40"
+
+    - title: ホワイトボックススイッチOS 十人十色パネル
+      time: "10:50"
+      type: パネルディスカッション
+      tag: s15_02
+      presenters:
+        - name_and_title: |-
+            モデレータ：<br>
+            NTTソフトウエアイノベーションセンタ<br>石田 渉<br>
+            パネリスト：<br>
+            伊藤忠テクノソリューションズ株式会社 山﨑 庸平<br>
+            クロス・ヘッド株式会社 大芝 大<br>
+            ネットワンシステムズ株式会社 塚本広海<br>
+            株式会社 日本HP 森山 京平<br>
+            IP Infusion Inc 木暮 博文<br>
+      abstract: |-
+        従来スイッチのOSとハードウェアは密結合され切り離せないものでしたが、
+        ホワイトボックススイッチとONIEの登場によってスイッチもサーバと同じ
+        ように、 ハードウェアはそのままに様々なOSをインストールできるように
+        なっています。<br>
+        本パネルセッションでは、ONIEに対応した各社ネットワークOSの専門家を
+        一堂に会し、それぞれのOSの想定するターゲットや思想の違いについて徹
+        底議論します！
+
+    - title: 昼食
+      time: "12:20"
+
+    - title: アドテクサービスに必要なSDN/NFV
+      time: "13:30"
+      type: 講演
+      tag: s15_03
+      presenters:
+        - name_and_title: |-
+            株式会社サイバーエージェント<br>
+            長谷川 誠/山本 孔明
+      abstract: |-
+        サイバーエージェントではアドテクサービス向けのクラウド基盤として
+        OpenStackを採用しています。スイッチ、ルータといったネットワーク
+        機能はもちろん、ロードバランサーなどネットワークサービスもAPI経由で
+        ユーザーに提供しています。本講演では変化の激しいサービス基盤を少人数
+        のチームで運用するため、ネットワークも含めたクラウドをどのように構築
+        し効率的に運用しているのか。OpenStack LibertyとMidoNetを使って構
+        築している環境についてご紹介します。
+      slides:
+        - file: 1503_hasegawa.pdf
+
+    - title: ネットワークの仮想化に備えて何をしておくべきか
+      time: "14:00"
+      type: 講演
+      tag: s15_04
+      presenters:
+        - name_and_title: |-
+            ＮＴＴコミュニケーションズ株式会社<br>
+            南 陽
+      abstract: |-
+        データセンタ内から始まった仮想化の波は、Compute、Storageで先行しい
+        よいよNetworkにもやってきた。 既存のＮＷ事業者は生き残れるのかネット
+        ワークの仮想化の現状を市場、DevOps人材などの動向も把握しつつ将来に向
+        けて何をしておくべきかを様々な角度で考えてみる。
+
+    - title: オープンソースと標準技術を使ったSDN/NFVユーザ事例
+      time: "14:30"
+      type: 講演
+      tag: s15_05
+      presenters:
+        - name_and_title: |-
+            シスコシステムズ合同会社<br>
+            佐藤 哲大
+      abstract: |-
+        SDN/NFVも実用フェーズに向かいつつあり、その背景にはそれらを支援する
+        オープンソースや標準技術の躍進があります。 本セッションでは、OpenDayl
+        igtベースのコントローラによる迅速かつ柔軟なトラフィックステアリングを
+        実現した米国大学の事例とモデル駆動開発を可能とするYANGベースNFVオーケス
+        トレータおよびVXLANを用いて、マルチベンダ環境での物理および仮想ネットワ
+        ーク機能のプロビジョニングおよびサービスチェーニングを実現した国内通信事
+        業者の事例をご紹介します。
+
+    - title: 休憩
+      time: "15:00"
+
+    - title: SDN Japan 総括とこれからのSDN
+      time: "15:30"
+      type: パネルディスカッション
+      tag: s15_05
+      presenters:
+        - name_and_title: |-
+            ［司会：］<br>
+            日本電気株式会社<br>加納 敏行<br>
+            ［パネリスト：］<br>
+            株式会社IIJイノベーションインスティテュート 浅羽 登志也<br>
+            インターネットマルチフィード株式会社 外山 勝保<br>
+            NTTコミュニケーションズ株式会社 山下 達也<br>
+            NTTコミュニケーションズ株式会社 南 陽<br>
+      abstract: 
+ 
+    - title: 閉会挨拶
+      time: "16:30"
+      type: 講演
+      tag: s15_06
+      presenters:
+        - name_and_title: |-
+            SDN Japan実行委員長<br>
+            浅羽 登志也
+      abstract: |-
+        SDN/NFVの2つの取り組みをご紹介いたします。<br>
+        （1）SDN：SDNの取り組みの一つとして、基盤網の伝送レイヤをSDN化する取り
+        組みを進めています。商用への導入に向けて実機を用いたPoCを実装し、実現性を
+        評価してきた取り組みをご紹介します。<br>
+        （2）NFV：仮想CPEを中心とした新しいサービスの実現に向けて、NFVの技術検
+        討を積極的に行っています。弊社内でこれまで取り組んできたPoCの活動と、我々
+        が描いている NFV MANOのあるべき姿をご紹介します。
+      slides:
+        - file: 160115_SDNJapan.pdf
+
+    - title: 終了
+      time: "17:00"
+
+- date: January 15, 2016<br>sola city Hall
+  sessions:
+    - title: Transport SDNとNFVの取り組みについて
+      time: "12:40"
+      type: 講演
+      tag: t15_01
+      presenters:
+        - name_and_title: |-
+            NTTコミュニケーションズ株式会社<br>
+            宮田 直輝/桂 成源
+      abstract: |-
+        SDN/NFVの2つの取り組みをご紹介いたします。<br>
+        （1）SDN：SDNの取り組みの一つとして、基盤網の伝送レイヤをSDN化する取
+        り組みを進めています。商用への導入に向けて実機を用いたPoCを実装し、実現
+        性を評価してきた取り組みをご紹介します。<br>
+        （2）NFV：仮想CPEを中心とした新しいサービスの実現に向けて、NFVの技術
+        検討を積極的に行っています。弊社内でこれまで取り組んできたPoCの活動と、
+        我々が描いている NFV MANOのあるべき姿をご紹介します。
+
+    - title: 休憩
+      time: "13:10"
+
+    - title: ネットワークオペレーションに対する富士通の目指す姿<br>～広域ネットワーク向け製品"Virtuoraシリーズ"～
+      time: "13:30"
+      type: 講演
+      tag: t15_02
+      presenters:
+        - name_and_title: |-
+            富士通株式会社<br>
+            藤井 和浩
+      abstract: |-
+        近年のネットワーク要件多様化に伴い、次世代ネットワークオペレーションでは、
+        サービスが次々と提供され、企画から運用までのライフサイクルを迅速かつ効率
+        的に回すことが求められます。<br>
+        富士通ではお客様のご要件に柔軟に対応できる様、ライフサイクルの各フェーズ
+        に対応する製品を順次提供していきます。<br>
+        本セッションは、これら各ソリューション製品及びネットワークオペレーション
+        に対して富士通の目指す姿をご紹介します。
+      slides:
+        - file: 1527_fujii.pdf
+
+    - title: 休憩
+      time: "14:00"
+
+    - title: Brocade vCPEソリューションとOpenStack TackerによるVFNマネージメント
+      time: "14:20"
+      type: 講演
+      tag: t15_03
+      presenters:
+        - name_and_title: |-
+            ブロケード コミュニケーションズ システムズ株式会社<br>
+            高井 浩一
+      abstract: |-
+        ブロケード コミュニケーションズ システムズ株式会社<br>
+        NFVの代表的なユースケースのひとつであるvCPE(仮想CPE)向けに、ブロケード
+        が新たに実装したアーキテクチャとその適用例をご紹介します。また、NFVオーケ
+        ストレーションとETSI MANOフレームワークを用いてVNF管理を実現するOpenSt
+        ack Tackerの概要についてもご紹介します。
+      slides:
+        - file: 1523_Brocade.pdf
+
+    - title: 休憩
+      time: "14:50"
+
+    - title: クラウド時代の新型ネットワークサービス「IIJ Omnibusサービス」
+      time: "15:10"
+      type: 講演
+      tag: t15_04
+      presenters:
+        - name_and_title: |-
+            株式会社インターネットイニシアティブ<br>
+            清水 康博
+      abstract: |-
+        クラウドといわれる時代、IIJはルータ、ファイアウォールなど従来は専用機器
+        で提供していた機能を集約し、必要なときに必要な機能だけをアセットレスで
+        利用できる新型ネットワークサービスを開発しました。<br>
+        インターネット黎明期から積み上げてきたネットワーク技術、クラウド時代の
+        SDN/NFV技術を用いて、企業ネットワークに必要な機能をオンデマンドに提供す
+        る「IIJ Omnibusサービス」を紹介します。
+      slides:
+        - file: 1524_jjj.pdf
+
+    - title: 終了
+      time: "15:40"
+
+

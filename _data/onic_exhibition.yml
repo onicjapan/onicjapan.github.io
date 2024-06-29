@@ -1,36 +1,145 @@
 venue:
   title: 展示概要
-  map: placeholder-500x500.png
+  map: sdn_tenji.jpg
 exhibitors:
-  - name: サイバーファーストコネクト株式会社
-    profile: https://www.example.com/
-    logo: placeholder-200x100.png
+  - name: シスコシステムズ合同会社
+    profile: http://www.cisco.com/web/JP/index.html
+    logo: ciscosystems.jpg
     booth: 1
     abstract: |-
-      最新のネットワーク機器やサーバーテクノロジーを展示。高性能な
-      ルーターやスイッチ、クラウドベースのサービスを含む製品ライン
-      ナップを紹介し、来場者にネットワークインフラの強化や拡張の可
-      能性を提示。
-  - name: 株式会社デジタルウェイワイヤレス
-    profile: https://www.example.com/
-    logo: placeholder-200x100.png
+      シスコは、当社のSDN主力商品になりますCisco APIC-EM、Cisco　ACI等の展示を致
+      します。<br>
+      Cisco APIC-EMは企業/公共ネットワーク向け、Cisco ACIはデータセンターネット
+      ワーク向けに対応したコントローラベースのSDNソリューションであり、其々のデモを
+      交えて、SDNソリューションのご紹介を致します。合わせて、シスコのSDN戦略や取組み
+      、事例等のご紹介を致します。
+  - name: NTTコミュニケーションズ株式会社
+    profile: http://www.ntt.com/
+    logo: NTT_com.jpg
     booth: 2
     abstract: |-
-      最新のセキュリティテクノロジやソフトウェアの実演を行う。脅威
-      のリアルタイムな分析や侵入検知システムのデモを通じて、来場者
-      にセキュリティ対策の必要性を認識させる。
-  - name: ネクストジェネレーションネットワークス合同会社
-    profile: https://www.example.com/
-    logo: placeholder-200x100.png
+      これまでNTTコミュニケーションズでは、SDNを商用サービスに導入するなど、 .
+      積極的にSDNを導入してきました。現在はSDNの取り組みの一つとして、基盤網 
+      における伝送レイヤのSDN化をTransport SDNとして検討しています。展示ブース 
+      では、商用への導入に向けて、開通業務全体の自動化、OSSとの連携、VPN/クラウド 
+      サービスとの連携といったユースケースを対象に、実機を用いて開発したプロトタイプ 
+      をデモでご紹介いたします。
+  - name: Cavium, Inc.
+    profile: http://www.cavium.com
+    logo: Cavium.jpg
     booth: 3
     abstract: |-
-      最新のサイバーセキュリティトピックに焦点を当て、来場者がセキュ
-      リティリスクを理解し、適切な対策を学べるようなプログラムを提供。
-  - name: クラウドソリッドコネクト株式会社
-    profile: https://www.example.com/
-    logo: placeholder-200x100.png
+      Cavium is a leading provider of highly integrated semiconductor 
+      products that enable secure intelligent processing in enterprise, 
+      data center, cloud, wired and wireless service provider applicati
+      ons. Cavium offers a broad portfolio of high-performance processo
+      rs & switching solutions. Cavium's solutions are supported by eco
+      system partners that provide operating systems, tool support, ref
+      erence designs and other services. Cavium's principal offices are 
+      in San Jose, California with design team locations in California, 
+      Massachusetts and Asia. For more information, <br>
+      please visit： http://www.cavium.com
+  - name: アライドテレシス株式会社
+    profile: http://www.allied-telesis.co.jp/
+    logo: allied.jpg
     booth: 4
     abstract: |-
-      トラフィックの可視化やパフォーマンス分析に特化したツールのデモ
-      を行う。来場者はリアルタイムでネットワークの健全性やトラフィッ
-      クの傾向を把握し、問題の早期発見に役立つツールを知ることができる。
+      「IoT時代のネットワーク統合管理　2つのSDN」<br>
+      インターネットの拡大により、さまざまな「もの（デバイス）」をインターネットに
+      接続して効率的に運用するIoT（Internet Of Things）化が加速してきました。
+      これに伴い、IoT時代のネットワークに必要とされる高可用性・高セキュリティー・
+      優れた効率性による統合管理をアライドテレシス「2つのSDN」によって実現します。
+      展示ブースでは、SouthSIDE（エンタープライズ）におけるIoT時代のネットワーク
+      について、アライドテレシスが提案する「2つのSDN」をデモや事例を交えてご紹介
+      します。
+  - name: 一般社団法人　沖縄オープンラボラトリ
+    profile: http://www.okinawaopenlab.org/
+    logo: okinawa.jpg
+    booth: 5
+    abstract: |-
+      仮想アプライアンスのテストを自動化するシステムのデモを展示します。 
+      仮想化されるとVMパラメータなどの組合わせが増えてしまい、すべてを 
+      検証するのは大変な作業になります。これらを自動化するフレームワークを 
+      紹介します。これは、SDN/NFVの実環境の検証に大きな効果を発揮します。
+  - name: メラノックス テクノロジーズ ジャパン株式会社／ 株式会社アルティマ 　
+    profile: http://www.mellanox.co.jp/
+    logo: Mellanox.jpg
+    booth: 6
+    abstract: |-
+      業界初の25/50/100ギガビットOpen EthernetスイッチSpectrumを展示します。<br>
+      Spectrumによって柔軟性、効率性および拡張性に極めて優れたソリューションが
+      提供されることで、顧客の個別ニーズに最適なハードウェアおよびソフトウェアを
+      組み合わせることが可能となります。
+  - name: KDDI株式会社
+    profile: http://www.kddi.com/
+    logo: kddi.jpg
+    booth: 7
+    abstract: |-
+      KDDIブースでは、SDN技術を活用した「KDDI Wide Area Virtual Switch 
+      2」（WVS2）を 展示します。WVS2はクラウドやスマートデバイスの利用に適し
+      たオンデマンドで 帯域変更や設定変更が可能なインターネット、セキュリティ、
+      仮想ネットワーク機能を 備えており、既に多くのお客様にご利用いただいており
+      ます。 今回の展示ではカスタマーコントローラによる各種設定デモを行います。
+  - name: ジュニパーネットワークス株式会社
+    profile: http://www.juniper.net/jp/jp/
+    logo: Juniper.jpg
+    booth: 8
+    abstract: |-
+      SDNコントローラー"OpenContrail"は、拡張性に優れた仮想ネットワークの
+      構築を自動化し統合するエッジオーバレイのネットワークソリューションとして
+      注目を浴びており、最近では実環境への導入も進んできています。<br>
+      ジュニパーネットワークスのブースでは、"OpenContrail"のNFV/物理スイッチ
+      連携ソリューションと最新のユースケースをご紹介いたします。
+  - name: ブロケード コミュニケーションズ システムズ株式会社
+    profile: https://jp.broadcom.com/
+    logo: BROCADE.jpg
+    booth: 9
+    abstract: |-
+      【OpenStack TackerによるVNFマネジメントデモを公開】<br>
+      仮想化したネットワークを多くのユーザーに簡単に使ってもらうには？<br>
+      その答えが「OpenStack Tacker」 vRouter・vEPC等のVNF起動やオペレー
+      ションを、ETSI MANOフレームワークに基づいたNFVオーケストレーターにより
+      行なえ、VNFカタログからのテンプレート展開も可能に。
+  - name: 富士通株式会社
+    profile: http://www.fmworld.net/
+    logo: fujitsu.jpg
+    booth: 10
+    abstract: |-
+      ・Virtuoraシリーズ<br>
+      広域ネットワークを活用するサービスや業務アプリケーションに対し、最適な通信
+      環境となる仮想ネットワークをオンデマンドで提供するソフトウェア製品です。<br>
+      ・1FINITYシリーズ<br>
+      WDM・トランスポート・スイッチ・アクセスの各機能を、異なるブレード群で提供
+      するディスアグリゲーション構成の製品です。これにより、初期投資を抑えながら
+      早期にネットワーク環境を構築可能です。
+  - name: ヴイエムウェア株式会社
+    profile: http://www.vmware.com/jp/
+    logo: VMW.jpg
+    booth: 11
+    abstract: |-
+      VMware NSX の最新リリースである 6.2 の各種機能のデモを行います。特に、
+      複数の vCenter 環境にまたがった論理スイッチ、論理ルータ、またファイアウ
+      ォールルール を設定できる Cross vCenter NSX 機能を中心に、NSX 6.2 
+      で追加された各種新機能 の紹介とデモを行います。
+  - name: 株式会社インターネットイニシアティブ
+    profile: https://www.iij.ad.jp/
+    logo: IIJ.jpg
+    booth: 12
+    abstract: |-
+      IIJが提供する、クラウド時代に適合した統合ネットワークサービスである「IIJ 
+      Omnibus」の概要をご紹介いたします。その中でも、SDN技術を特に積極的に活用
+      している企業LAN向けのサービスに関しては、デモも交えてのご紹介をさせてい
+      ただく予定です。
+  - name: 03 プロジェクト
+    profile: http://www.o3project.org/
+    logo: O3_r.jpg
+    booth: 13
+    abstract: |-
+      O3プロジェクトは、広域ネットワークインフラの総合的な SDN化を目指す世界初の
+      研究開発プロジェクトとして、NEC、 NTT、NTTコミュニケーションズ、富士通およ
+      び日立製作所にて2013年に発足し、2016年3月に最終成果発表会を予定 しています。<br>
+      本展示では、公開済みオープンソースを活用し たデモを行います。<br>
+      1.サービス事業者向け仮想ネットワーク 構築ポータル<br>
+      2.パケットトランスポート・光コアネット ワークSDN統合管理・制御<br>
+      3.SDN OAMツール
+
