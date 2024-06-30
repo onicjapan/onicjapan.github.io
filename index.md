@@ -7,7 +7,7 @@ show_sidebar: true
 ## 開催概要
 
 | 名称     | SDN JAPAN 2014 |
-| URL      | [https://onic.jp/]( {{ site.baseurl }}/) |
+| URL      | [https://www.onic.jp/]( {{ site.baseurl }}/) |
 | 会期     | 2014年10月30日（木）-31日（金） |
 | 主催     | SDN JAPAN 2014 実行委員会 |
 | 会場     | 恵比寿　ザ・ガーデンホール |
