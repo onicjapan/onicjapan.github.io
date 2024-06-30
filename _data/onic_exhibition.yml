@@ -239,6 +239,20 @@ exhibitors:
       ューションや、Citrix Xenハイパーバイザーを搭載したNetScaler SDXシリー
       ズについて、御紹介をいたします。
 
+  - name: ニュアージュ・ネットワークス
+    profile: http://www.alcatel-lucent.co.jp/
+    logo: al_nuage.jpg
+    booth: 19
+    abstract: |-
+      アルカテル・ルーセントがシリコンバレーに設立した新規ベンチャーであり、 
+      SDNソリューションの開発を専門とするNuage Networksの Virtualized Services 
+      Platform (VSP) をプレゼンテーションセッション及びブースでのデモにてご紹介
+      いたします。<br />
+      VSPは、クラウド・サービスプロバイダ、Webスケール事業者、企業ユーザが堅
+      牢で拡張性の高いネットワーク・インフラを構築することを可能にします。VSP
+      により、安全で柔軟なコンピュート/ストレージ/ネットワーキング・リソースの
+      仮想化スライスを何千ものテナントやユーザグループに瞬時に提供できます。
+
   - name: 日本シエナコミュニケーションズ株式会社
     profile: http://www.cienacorp.jp/
     logo: Ciena.jpg
