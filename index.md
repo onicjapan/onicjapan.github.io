@@ -6,9 +6,9 @@ show_sidebar: true
 ---
 ## 開催概要
 
-| 名称     | Open Networking Conference Japan 2024 |
+| 名称     | Open NetworkIng Conference Japan 2024 |
 | 会期     | 2024年10月10日〜11日 |
-| 主催     | Open Networking Conference Japan2024 実行委員会 |
+| 主催     | Open NetworkIng Conference Japan2024 実行委員会 |
 | 会場     | 軽井沢大賀ホール |
 |          | 〒389-0104　長野県北佐久郡軽井沢町軽井沢東28-4 |
 |          | [http://www.ohgahall.or.jp](http://www.ohgahall.or.jp) |
@@ -21,11 +21,11 @@ show_sidebar: true
 
 TBD
 
-Open Networking Conference Japan 2024 実行委員会
+Open NetworkIng Conference Japan 2024 実行委員会
 
 # COMMITTEE
 
-## Open Networking Conference Japan 実行委員会
+## Open NetworkIng Conference Japan 実行委員会
 
 | 委員長   | 境 智史 | NTTコミュニケーションズ株式会社 |
 | 実行委員 | 浅羽 登志也 | 株式会社インターネットイニシアティブ |
