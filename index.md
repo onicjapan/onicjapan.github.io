@@ -8,7 +8,7 @@ show_sidebar: true
 
 | 名称     | Open NetworkIng Conference Japan 2024 |
 | 会期     | 2024年10月10日〜11日 |
-| 主催     | Open NetworkIng Conference Japan2024 実行委員会 |
+| 主催     | Open NetworkIng Conference Japan 実行委員会 |
 | 会場     | 軽井沢大賀ホール |
 |          | 〒389-0104　長野県北佐久郡軽井沢町軽井沢東28-4 |
 |          | [http://www.ohgahall.or.jp](http://www.ohgahall.or.jp) |
@@ -21,7 +21,7 @@ show_sidebar: true
 
 TBD
 
-Open NetworkIng Conference Japan 2024 実行委員会
+Open NetworkIng Conference Japan 実行委員会
 
 # COMMITTEE
 
