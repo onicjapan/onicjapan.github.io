@@ -8,10 +8,11 @@ image: /img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
 ---
-Open NetworkIng Conference Japan 2024 開催趣旨文を掲載しました。  
+[Open NetworkIng Conference Japan 2024 開催趣旨文]({{ site.baseurl }}/index.html)を掲載しました。 
+
 また、以下の日程でカンファレンスを開催いたします。
 
 * 日程：2024年10月10日〜11日
 * 場所：軽井沢大賀ホール
 
-詳細が決まりましたらこちらとFacebookで告知いたしますので、よろしくお願いします。
+詳細が決まりましたら本サイトとFacebookで告知いたしますので、よろしくお願いします。
