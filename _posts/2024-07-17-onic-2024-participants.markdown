@@ -15,7 +15,6 @@ hero_darken: true
 ### 登録フォームはこちら<br>「[Open NetworkIng Conference Japan 2024 BoF・本会議 参加登録](https://forms.gle/mwgaMTQXWGGn1dG99)」
 
 | 名 称 | Open NetworkIng Conference Japan 2024            |
-| URL   | https://www.onic.jp/                             |
 | 会 期 | BoF ：2024年10月10日（木）17:00〜20:30（予定）   |
 |       | 本講演：2024年10月11日（金）10:20〜19:30（予定） |
 | 主 催 | Open NetworkIng Conference Japan 実行委員会      |
