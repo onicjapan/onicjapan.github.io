@@ -47,4 +47,4 @@ Open NetworkIng Conference Japan 実行委員会
 |          | 谷口 朋之 | 株式会社日立製作所 |
 |          | 進藤 資訓 | ヴイエムウェア株式会社/Broadcom |
 |          | 中島 佳宏 | 株式会社 NTTドコモ |
-|          | 橋本 賢一郎 | Ultra Red, Inc. |
+|          | 橋本 賢一郎 | Nozomi Networks, Inc. |
