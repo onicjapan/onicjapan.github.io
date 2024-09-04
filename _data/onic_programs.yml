@@ -12,6 +12,7 @@
         - name_and_title: |-
             Red Hat<br />
             織 学
+          photo: b_01.jpg  
       abstract: |-
         KubeVirtは、Kubernetesクラスタで仮想マシンを作成・管理する仕組みです。本セッションでは、KubeVirtにおいてネットワークがどのように構成されるか、従来の仮想化との違い等についての解説をします。
     - title: 休憩
@@ -34,17 +35,18 @@
       tag: b_03
       presenters:
         - name_and_title: |-
-            TBD
+            ONIC実行委員 - Nozomi Networks, Inc.
+            橋本 賢一郎
       abstract: |-
-        TBD
+        明日の予習
     - title: 閉会
       time: "20:30"
 - date: October 11, 2024 (本会議@メインホール)
   sessions:
     - title: 受付開始
-      time: "TBD"
+      time: "10:00"
     - title: 開会の挨拶
-      time: "TBD"
+      time: "10:25"
       presenters:
         - name_and_title: |-
             ONIC Japan 実行委員会委員長<br />
@@ -80,41 +82,44 @@
       abstract: |-
         TBD
     - title: 休憩
-      time: "TBD"           
+      time: "12:00"           
     - title: TBD
-      time: "TBD"
+      time: "13:30"
       type: 講演
       tag: s_04
       presenters:
         - name_and_title: |-
-            TBD
-          photo: placeholder-120x140.png            
+            日本電気株式会社
+            淵上 真一
+          photo: s_04.png            
       abstract: |-
-        TBD
-    - title: TBD
-      time: "TBD"
-      type: 講演
+        TBD - OT Security(tentative)
+    - title: Outshift by Ciscoのご紹介
+      time: "14:00"
+      type: スポンサーセッション
       tag: s_05
       presenters:
         - name_and_title: |-
-            TBD
-          photo: placeholder-120x140.png            
+            シスコシステムズ合同会社
+            小倉 隆啓
+          photo: s_05.png            
       abstract: |-
-        TBD
-    - title: TBD
-      time: "TBD"
+        Outshift by Ciscoは未来を切り開く新しい技術を市場に送り出すために設立された部門です。 本セッションではCloud native、GenAIやQuantumなど、Outshiftの革新的な取り組みについてご紹介いたします。 セッションを通じて皆様にCiscoのイノベーションをともに感じていただき、お楽しみいただくことを目標としてます。
+    - title: スマートビルに見るオープン化の取り組み　～BIM・ビルOS・デジタルツイン～
+      time: "14:30"
       type: 講演
       tag: s_06
       presenters:
         - name_and_title: |-
-            TBD
-          photo: placeholder-120x140.png            
+            株式会社竹中工務店
+            政井 竜太
+          photo: s_06.jpg            
       abstract: |-
-        TBD
+        様々な社会課題の中、建設業でもオープン化の取り組みが加速しています。本講演では、スマートビルの事例を交えながら、生産性向上を目指す「オープンBIM」、建物の魅力を維持するための「ビルOS」、データドリブンな建物を実現する「デジタルツイン」に関する最新の取り組みをご紹介します。
     - title: 休憩
-      time: "TBD"           
+      time: "15:00"           
     - title: TBD
-      time: "TBD"
+      time: "15:30"
       type: 講演
       tag: s_07
       presenters:
