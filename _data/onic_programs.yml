@@ -1,12 +1,12 @@
 - date: October 10, 2024 (BoF＠ホワイエ)
   sessions:
     - title: 受付開始
-      time: "17:55"
+      time: "17:45"
     - title: 開会
       time: ""      
     - title: "KubeVirt Networking"
       time: "18:00"
-      type: BoF1
+      type: BoF
       tag: b_01
       presenters:
         - name_and_title: |-
@@ -18,7 +18,7 @@
       time: "18:30"        
     - title: クラウドネイティブな新しいOSSのネットワークコントローラ『K-SOT』の３年間の進化と実用化に向けた取り組み
       time: "19:00"
-      type: BoF2
+      type: BoF
       tag: b_02
       presenters:
         - name_and_title: |-
@@ -30,7 +30,7 @@
       time: "19:30"        
     - title: ONIC実行委員より
       time: "20:00"
-      type: BoF3
+      type: BoF
       tag: b_03
       presenters:
         - name_and_title: |-
