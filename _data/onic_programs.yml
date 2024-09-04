@@ -1,31 +1,44 @@
 - date: October 10, 2024 (BoF＠ホワイエ)
   sessions:
     - title: 受付開始
-      time: "TBD"
+      time: "17:55"
     - title: 開会
-      time: "TBD"      
-    - title: TBD
-      time: "TBD"
-      type: BoF
+      time: ""      
+    - title: "KubeVirt Networking"
+      time: "18:00"
+      type: BoF1
       tag: b_01
       presenters:
         - name_and_title: |-
-            TBD
+            Red Hat<br />
+            織 学
       abstract: |-
-        TBD
+        KubeVirtは、Kubernetesクラスタで仮想マシンを作成・管理する仕組みです。本セッションでは、KubeVirtにおいてネットワークがどのように構成されるか、従来の仮想化との違い等についての解説をします。
     - title: 休憩
-      time: "TBD"        
-    - title: TBD
-      time: "TBD"
-      type: BoF
+      time: "18:30"        
+    - title: クラウドネイティブな新しいOSSのネットワークコントローラ『K-SOT』の３年間の進化と実用化に向けた取り組み
+      time: "19:30"
+      type: BoF2
       tag: b_02
+      presenters:
+        - name_and_title: |-
+            NTTコミュニケーションズ<br />
+            坂井 立晟/為末 航平
+      abstract: |-
+        ONIC2023で発表したクラウドネイティブ技術を活用したOSSのＮＷコントローラ『Kuesta』は2022、2023、2024年と進化を続けており、今年度にはK-SOT（ケー・ソット）とリネームを行い、次年度の社内導入を狙って着々と開発を続けている。本発表ではONIC2023からの進化内容、現状の開発状況、次年度以降の導入ターゲットについて紹介する。
+    - title: 歓談
+      time: "19:30"        
+    - title: ONIC実行委員より
+      time: "20:00"
+      type: BoF3
+      tag: b_03
       presenters:
         - name_and_title: |-
             TBD
       abstract: |-
         TBD
     - title: 閉会
-      time: "TBD"
+      time: "20:30"
 - date: October 11, 2024 (本会議@メインホール)
   sessions:
     - title: 受付開始
