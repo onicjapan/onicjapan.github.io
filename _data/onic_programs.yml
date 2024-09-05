@@ -52,36 +52,43 @@
         - name_and_title: |-
             ONIC Japan 実行委員会委員長<br />
             境 智史
-    - title: TBD
-      time: "TBD"
+    - title: Starlinkがやってきたのでネットワークを色々調べました
+      time: "10:30"
       type: 講演
       tag: s_01
       presenters:
         - name_and_title: |-
-            TBD
-          photo: placeholder-120x140.png
+            株式会社インターネットイニシアティブ<br />
+            谷口 崇
+          photo: s_01.jpg
       abstract: |-
-        TBD
-    - title: TBD
-      time: "TBD"
-      type: 講演
+        Starlinkの登場でネットワークは大きく拡大しました。本講演では利用者視点で調査しましたので活用方法を探りたいと思います。
+    - title: 新たなICT基盤「DCI」におけるデータ処理・通信の制御のためのK8sコントローラ開発の取り組み
+      time: "11:00"
+      type: スポンサーセッション
       tag: s_02
       presenters:
         - name_and_title: |-
-            TBD
-          photo: placeholder-120x140.png            
+            富士通株式会社<br />
+            阿部 仁彦
+          photo:  s_02.png           
       abstract: |-
-        TBD
-    - title: TBD
-      time: "TBD"
+        富士通は、これからの時代に求められる高効率・低消費電力の特徴を有する新たなICT基盤である、DCI（Data Centric Infrastructure）の研究開発を行っています 。このDCIの活用に向けては、DCIの豊富なリソースを組み合わせたデータ処理・通信を最適にオーケストレーションするための仕組みが必要となります。そこで我々が開発しているのが、GPU/FPGA等のアクセラレータを活用したAIワークロードにおける、データ処理・通信の制御を容易化するK8sコントローラです。このセッションでは、我々のこれまでのK8sコントローラ開発の取り組みと、実用化に向けた今後の展望についてお話しします。
+    - title: L5G/P5G on Hybrid Cloudの取り組み
+      time: "11:30"
       type: 講演
       tag: s_03
       presenters:
         - name_and_title: |-
-            TBD
-          photo: placeholder-120x140.png            
+            NTTコミュニケーションズ株式会社<br />
+            藤田 康寛
+          photo: s_03_1.jpg           
+        - name_and_title: |-
+            NTTコミュニケーションズ株式会社<br />
+            内藤 憲吾
+          photo:  s_03_2.jpg     
       abstract: |-
-        TBD
+        Local/Public 5G市場の活性化により、ネットワークファンクションの設置場所に関する要望が多様化しています。 自動化や運用効率化の観点からクラウド上に設置するケース、セキュリティや通信速度の観点からオンプレミスに設置するケースなどが考えられます。 本発表では、オンプレミス環境でクラウド機能を提供するHybrid Cloudソリューションを利用した5Gの実現性について、技術的・ビジネス的な観点から紹介します。
     - title: 休憩
       time: "12:00"           
     - title: TBD
