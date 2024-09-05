@@ -37,7 +37,7 @@
         - name_and_title: |-
             ONIC実行委員 - Nozomi Networks, Inc.
             橋本 賢一郎
-          photo: b_03.jpg
+          photo: b_03.png
       abstract: |-
         明日の予習
     - title: 閉会
@@ -99,7 +99,7 @@
         - name_and_title: |-
             日本電気株式会社
             淵上 真一
-          photo: s_04.png            
+          #photo: s_04.png            
       abstract: |-
         TBD - OT Security(tentative)
     - title: Outshift by Ciscoのご紹介
