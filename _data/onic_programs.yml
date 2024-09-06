@@ -148,39 +148,41 @@
       abstract: |-
         IIJ 技術研究所では、新しい TCP/IP スタックの実装に取り組んでいます (https://dl.acm.org/doi/10.1145/3687230.3687233)。TCP/IP スタックはコンピュータが TCP/IP を介して通信を行うことを可能にする、多くの場合ソフトウェアとして実装されている機能で、OS の特にカーネルの一部として長きに渡って開発が進められており、今現在、それらカーネルに含まれる実装の多くは成熟し広く利用されるに至っています。本発表では、そんな枯れた実装が存在する今何故また新しく TCP/IP スタックを実装しようとしているのかについてご説明します。
     - title: 休憩
-      time: "TBD"           
-    - title: TBD
-      time: "TBD"
+      time: "16:30"           
+    - title: Secret Talk PartⅡ
+      time: "17:00"
       type: 講演
       tag: s_09
       presenters:
         - name_and_title: |-
-            TBD
-          photo: placeholder-120x140.png            
+            東京大学
+            関谷 勇司
+          photo: s_09.jpg            
       abstract: |-
         TBD
     - title: TBD
-      time: "TBD"
-      type: 講演
+      time: "17:30"
+      type: スポンサーセッション
       tag: s_10
       presenters:
         - name_and_title: |-
-            TBD
-          photo: placeholder-120x140.png            
+            NTTコミュニケーションズ株式会社
+          #photo: placeholder-120x140.png            
       abstract: |-
         TBD
-    - title: TBD
-      time: "TBD"
+    - title: Interop Tokyo 2024 ShowNetにおけるルーティング技術による多様なネットワーク環境の統合
+      time: "18:00"
       type: 講演
       tag: s_11
       presenters:
         - name_and_title: |-
-            TBD
-          photo: placeholder-120x140.png            
+            スカパーJSAT株式会社 / Interop Tokyo 2024 ShowNet NOCチームメンバー
+            廣瀬 真人
+          photo: s_10.jpeg            
       abstract: |-
-        TBD
+        ShowNetは、インターネットテクノロジーイベント”Interop Tokyo”において構築される、世界最大のデモンストレーションネットワークです。2024年のShowNetバックボーンは、マルチベンダーによるuSIDを用いたSRv6およびEVPN/VXLANによって構築され、多数のユーザや大量のトラフィックに耐えるネットワークとして会場のトラフィックを収容しました。本講演では、このShowNetバックボーンや、衛星回線をSRv6によってシームレスに統合するといった取り組みについて、知見や課題を交えて紹介します。
     - title: 閉会の挨拶
-      time: "TBD"
+      time: "18:30"
       presenters:
         - name_and_title: |-
             ONIC実行委員会<br />
