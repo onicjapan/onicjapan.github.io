@@ -14,6 +14,8 @@ show_sidebar: true
 |          | [http://www.ohgahall.or.jp](http://www.ohgahall.or.jp) |
 | 構成     | 基調講演、講演、スポンサー講演 |
 |          | ハイブリット開催 |
+| プログラム    | [プログラム一覧はこちらから](https://www.onic.jp/program/)  |
+| 参加登録  | [本会議・BoF参加登録はこちらから](https://forms.gle/mwgaMTQXWGGn1dG99)   |
 | アクセス | [詳細はこちらをご確認ください]({{ site.baseurl }}/access/) | 
 |          | ![]({{ site.baseurl }}/img/outline_access_3.png) |
 
