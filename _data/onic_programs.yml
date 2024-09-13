@@ -24,7 +24,12 @@
       presenters:
         - name_and_title: |-
             NTTコミュニケーションズ<br />
-            坂井 立晟/為末 航平
+            坂井 立晟
+          photo: b_02_1.JPG
+        - name_and_title: |-
+            NTTコミュニケーションズ<br />
+            為末 航平
+          photo: b_02_2.JPG
       abstract: |-
         ONIC2023で発表したクラウドネイティブ技術を活用したOSSのＮＷコントローラ『Kuesta』は2022、2023、2024年と進化を続けており、今年度にはK-SOT（ケー・ソット）とリネームを行い、次年度の社内導入を狙って着々と開発を続けている。本発表ではONIC2023からの進化内容、現状の開発状況、次年度以降の導入ターゲットについて紹介する。
     - title: 歓談
@@ -160,16 +165,17 @@
           photo: s_09.jpg            
       abstract: |-
         TBD
-    - title: TBD
+    - title: NTTコミュニケーションズにおける制御システムセキュリティの取組み
       time: "17:30"
       type: スポンサーセッション
       tag: s_10
       presenters:
         - name_and_title: |-
-            NTTコミュニケーションズ株式会社
-          #photo: placeholder-120x140.png            
+            NTTコミュニケーションズ株式会社<br />
+            加島 伸悟
+          photo: s_10.png
       abstract: |-
-        TBD
+        国産OT-IDS「OsecT」を軸とした、NTTコミュニケーションズにおける制御システムセキュリティの取り組みを紹介します。
     - title: Interop Tokyo 2024 ShowNetにおけるルーティング技術による多様なネットワーク環境の統合
       time: "18:00"
       type: 講演
