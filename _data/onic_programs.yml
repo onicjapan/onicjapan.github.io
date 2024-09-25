@@ -34,17 +34,17 @@
         ONIC2023で発表したクラウドネイティブ技術を活用したOSSのＮＷコントローラ『Kuesta』は2022、2023、2024年と進化を続けており、今年度にはK-SOT（ケー・ソット）とリネームを行い、次年度の社内導入を狙って着々と開発を続けている。本発表ではONIC2023からの進化内容、現状の開発状況、次年度以降の導入ターゲットについて紹介する。
     - title: 歓談
       time: "19:30"        
-    - title: ONIC実行委員より
+    - title: ONIC実行委員より, 明日の予習としての座学
       time: "20:00"
       type: BoF
       tag: b_03
       presenters:
         - name_and_title: |-
-            ONIC実行委員 - Nozomi Networks, Inc.
+            ONIC実行委員/Nozomi Networks, Inc.
             橋本 賢一郎
           photo: b_03.png
       abstract: |-
-        明日の予習
+        ONIC 2024では多くのOT, IoT, IIoTに関するセッションを準備しています. OTのネットワークってなんとなくわかっているけど, 具体的には触れたことがない方も多いと思います. 本セッションでは, 明日の予習としてOTの基礎知識に触れたいと思います.
     - title: 閉会
       time: "20:30"
 - date: October 11, 2024 (本会議@メインホール)
