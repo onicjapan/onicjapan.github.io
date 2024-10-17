@@ -45,6 +45,8 @@
           photo: b_03.JPG
       abstract: |-
         ONIC 2024では多くのOT, IoT, IIoTに関するセッションを準備しています. OTのネットワークってなんとなくわかっているけど, 具体的には触れたことがない方も多いと思います. 本セッションでは, 明日の予習としてOTの基礎知識に触れたいと思います.
+    slides:
+        - file: 2024-B-03_bof-hashiken.pdf
     - title: 閉会
       time: "20:30"
 - date: October 11, 2024 (本会議@メインホール)
