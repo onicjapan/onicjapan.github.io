@@ -70,6 +70,8 @@
           photo: s_01.jpg
       abstract: |-
         Starlinkの登場でネットワークは大きく拡大しました。本講演では利用者視点で調査しましたので活用方法を探りたいと思います。
+      slides:
+        - file: 2024_S_01_IIJ-Taniguchi.pdf
     - title: Outshift by Ciscoのご紹介
       time: "11:00"
       type: スポンサーセッション
@@ -131,6 +133,8 @@
           photo: s_06.jpg            
       abstract: |-
         様々な社会課題の中、建設業でもオープン化の取り組みが加速しています。本講演では、スマートビルの事例を交えながら、生産性向上を目指す「オープンBIM」、建物の魅力を維持するための「ビルOS」、データドリブンな建物を実現する「デジタルツイン」に関する最新の取り組みをご紹介します。
+      slides:
+        - file: 2024_S_06_Takenaka_Masai.pdf
     - title: 休憩
       time: "15:00"           
     - title: グリーンな計算資源を積極的に利用する取り組み
