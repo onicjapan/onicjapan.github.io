@@ -100,6 +100,8 @@
           photo:  s_03_2.jpg     
       abstract: |-
         Local/Public 5G市場の活性化により、ネットワークファンクションの設置場所に関する要望が多様化しています。 自動化や運用効率化の観点からクラウド上に設置するケース、セキュリティや通信速度の観点からオンプレミスに設置するケースなどが考えられます。 本発表では、オンプレミス環境でクラウド機能を提供するHybrid Cloudソリューションを利用した5Gの実現性について、技術的・ビジネス的な観点から紹介します。
+      slides:
+        - file: 2024_S_3_NTT_Communications_Corporation_Yasuhiro_Fujita_Kengo_Naito.pdf
     - title: 休憩
       time: "12:00"           
     - title: 工場に求められるセキュリティ「セキュア生産」の取組み
