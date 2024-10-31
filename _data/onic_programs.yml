@@ -15,6 +15,8 @@
           photo: b_01.jpg  
       abstract: |-
         KubeVirtは、Kubernetesクラスタで仮想マシンを作成・管理する仕組みです。本セッションでは、KubeVirtにおいてネットワークがどのように構成されるか、従来の仮想化との違い等についての解説をします。
+      slides:
+        - file: 2024_B_01_RedHut_Ori.pdf
     - title: 休憩
       time: "18:30"        
     - title: クラウドネイティブな新しいOSSのネットワークコントローラ『K-SOT』の３年間の進化と実用化に向けた取り組み
