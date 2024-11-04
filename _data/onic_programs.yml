@@ -34,6 +34,8 @@
           photo: b_02_2.JPG
       abstract: |-
         ONIC2023で発表したクラウドネイティブ技術を活用したOSSのＮＷコントローラ『Kuesta』は2022、2023、2024年と進化を続けており、今年度にはK-SOT（ケー・ソット）とリネームを行い、次年度の社内導入を狙って着々と開発を続けている。本発表ではONIC2023からの進化内容、現状の開発状況、次年度以降の導入ターゲットについて紹介する。
+      slides:
+        - file: 2024_B_01_NTT_Communications_Corporation_Tatsuki_Sakai_Kohei_Tamesue.pdf
     - title: 歓談
       time: "19:30"        
     - title: ONIC実行委員より, 明日の予習としての座学
