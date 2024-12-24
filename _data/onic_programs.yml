@@ -87,6 +87,8 @@
           photo: s_05.png            
       abstract: |-
         Outshift by Ciscoは未来を切り開く新しい技術を市場に送り出すために設立された部門です。 本セッションではCloud native、GenAIやQuantumなど、Outshiftの革新的な取り組みについてご紹介いたします。 セッションを通じて皆様にCiscoのイノベーションをともに感じていただき、お楽しみいただくことを目標としてます。
+
+        キーワード:**Outshift**, **Panoptica**, **量子ネットワーク**
       slides:
         - file: 2024_S_2_Cisco_Systems_GK_Takahro_Ogura.pdf
     - title: L5G/P5G on Hybrid Cloudの取り組み
@@ -130,6 +132,8 @@
           photo:  s_02.png           
       abstract: |-
         富士通は、これからの時代に求められる高効率・低消費電力の特徴を有する新たなICT基盤である、DCI（Data Centric Infrastructure）の研究開発を行っています 。このDCIの活用に向けては、DCIの豊富なリソースを組み合わせたデータ処理・通信を最適にオーケストレーションするための仕組みが必要となります。そこで我々が開発しているのが、GPU/FPGA等のアクセラレータを活用したAIワークロードにおける、データ処理・通信の制御を容易化するK8sコントローラです。このセッションでは、我々のこれまでのK8sコントローラ開発の取り組みと、実用化に向けた今後の展望についてお話しします。
+
+        キーワード: **DCI**, **Kubernetes**, **コントローラ**
       slides:
         - file: 2024_S_5_Fujitsu_Limited_Kimihiko_Abe.pdf
     - title: スマートビルに見るオープン化の取り組み　～BIM・ビルOS・デジタルツイン～
