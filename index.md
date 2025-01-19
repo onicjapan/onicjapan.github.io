@@ -1,39 +1,27 @@
 ---
 title: Open NetworkIng Conference Japan
-subtitle: OCTOBER 10-11, 2024
+subtitle: MONTH DAY1-DAY2, YEAR
 layout: page
 show_sidebar: true
 ---
 ## 開催概要
 
-| 名称     | Open NetworkIng Conference Japan 2024 |
-| 会期     | 2024年10月10日〜11日 |
-| 主催     | Open NetworkIng Conference Japan 実行委員会 |
-| 会場     | 軽井沢大賀ホール |
-|          | 〒389-0104　長野県北佐久郡軽井沢町軽井沢東28-4 |
-|          | [http://www.ohgahall.or.jp](http://www.ohgahall.or.jp) |
-| 構成     | 基調講演、講演、スポンサー講演 |
-|          | ハイブリット開催 |
-| プログラム    | [プログラム一覧はこちらから]({{ site.baseurl }}/program/)  |
-| 参加登録  | [本会議・BoF参加登録はこちらから](https://forms.gle/mwgaMTQXWGGn1dG99)   |
-| アクセス | [詳細はこちらをご確認ください]({{ site.baseurl }}/access/) | 
-|          | ![]({{ site.baseurl }}/img/outline_access_3.png) |
+| 名称       | Open NetworkIng Conference Japan YYYY |
+| 会期       | YYYY 年 MM 月 DD 日〜 DD 日 |
+| 主催       | Open NetworkIng Conference Japan 実行委員会 |
+| 会場       | 軽井沢大賀ホール |
+|            | 〒389-0104　長野県北佐久郡軽井沢町軽井沢東28-4 |
+|            | [http://www.ohgahall.or.jp](http://www.ohgahall.or.jp) |
+| 構成       | 基調講演、講演、スポンサー講演 |
+|            | ハイブリット開催 |
+| プログラム | [プログラム一覧はこちらから]({{ site.baseurl }}/program/)  |
+| 参加登録   | [本会議・BoF参加登録はこちらから](https://forms.gle/TBDTBDTBDTBDTBDTBDTBD)   |
+| アクセス   | [詳細はこちらをご確認ください]({{ site.baseurl }}/access/) | 
+|            | ![]({{ site.baseurl }}/img/outline_access_3.png) |
 
 ## 開催趣旨文
 
-Open NetworkIng Conference Japanは今年で13回目を迎えます。  
-これまでの開催を支えていただきました協賛企業様、講演者様、並びにご参加いただきました皆様に深くお礼を申し上げます。
-
-昨今、自動車（connected car）や工場設備をはじめ、道路等のインフラ設備などさまざまなものがネットワークに接続されるようになり、膨大なデータの収集や各種制御の自動化が急速に進んでいます。また、エンタープライズネットワークにおいても、SaaSの活用やゼロトラストな環境構築に向け、システムの形態が大きく変わってきています。
-
-これらの変革の中でデータ利活用のリアルタイム性や収集効率向上、セキュリティの確保など、実際の現場では現時点で利用可能な技術・サービスをうまく使いながらさまざまな工夫・チューニングが実施されています。  
-このような取り組みやそこで得られた知見などはそれぞれ個別の企業もしくはドメインに閉じていることが多く、それぞれのドメインで抱えている課題は類似していることが多々あると考えられます。
-
-そこで、本カンファレンスではネットワークというキーワードを軸に、オープンなコミュニティとしてさまざまな組織のみなさまと技術分野の違いを超えた活発な議論をすることで、各ドメインでの課題解決の糸口やそもそもの新たな課題の抽出を可能にしていきたいと考えております。
-
-今年もFace to Faceでの議論を願い、軽井沢およびオンラインでのハイブリッド開催を検討しております。また、現地のみとなりますが本会議前日にはBoFの開催を予定しておりますので、より多くの方にご参加いただいて議論ができる場を用意させていただく予定です。
-
-ぜひご参加いただきますようよろしくお願いいたします。
+TBD
 
 Open NetworkIng Conference Japan 実行委員会
 
@@ -41,12 +29,12 @@ Open NetworkIng Conference Japan 実行委員会
 
 ## Open NetworkIng Conference Japan 実行委員会
 
-| 委員長   | 境 智史 | NTTコミュニケーションズ株式会社 |
+| 委員長   | 境 智史     | NTTコミュニケーションズ株式会社 |
 | 実行委員 | 浅羽 登志也 | 株式会社インターネットイニシアティブ |
-|          | 小野寺 好広  | アレドノ合同会社 |
-|          | 金海 好彦 | 日本電気株式会社 |
-|          | 鎌田 徹平 | シスコシステムズ合同会社 |
-|          | 谷口 朋之 | 株式会社日立製作所 |
-|          | 進藤 資訓 | ヴイエムウェア株式会社/Broadcom |
-|          | 中島 佳宏 | 株式会社 NTTドコモ |
+|          | 小野寺 好広 | アレドノ合同会社 |
+|          | 金海 好彦   | 日本電気株式会社 |
+|          | 鎌田 徹平   | シスコシステムズ合同会社 |
+|          | 谷口 朋之   | 株式会社日立製作所 |
+|          | 進藤 資訓   | ヴイエムウェア株式会社/Broadcom |
+|          | 中島 佳宏   | 株式会社 NTTドコモ |
 |          | 橋本 賢一郎 | Nozomi Networks, Inc. |

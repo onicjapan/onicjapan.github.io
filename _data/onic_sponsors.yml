@@ -1,15 +1,6 @@
 - tier_name: 協賛企業
   size: large
   sponsors:
-    - name: 株式会社インターネットイニシアティブ
-      profile: https://www.iij.ad.jp/
-      logo: IIJ-ONIC.png
-    - name: シスコシステムズ合同会社
-      profile: https://www.cisco.com/c/ja_jp/index.html
-      logo: ONIC_Cisco.png
-    - name: NTTコミュニケーションズ株式会社
-      profile: https://www.ntt.com/index.html
-      logo: NTTcom.png
-    - name: 富士通株式会社
-      profile: https://global.fujitsu/ja-jp
-      logo: Fujitsu.png       
+    - name: COMPANY NAME
+      profile: https://example.com/
+      logo:  placeholder-500x130.png
