@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.onic.jp/archives/2014/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.onic.jp/archives/2014/" rel="alternate" type="text/html" hreflang="ja" /><updated>2024-06-30T21:25:45+09:00</updated><id>https://www.onic.jp/archives/2014/feed.xml</id><title type="html">ONIC Japan</title><subtitle>本サイトはOpen NetworkIng Conference Japanのホームページです。
+</subtitle><entry><title type="html">SDN Japan2014 archiveを公開しました。</title><link href="https://www.onic.jp/archives/2014/2014/11/01/onic-2014-archive/" rel="alternate" type="text/html" title="SDN Japan2014 archiveを公開しました。" /><published>2014-11-01T21:00:00+09:00</published><updated>2014-11-01T21:00:00+09:00</updated><id>https://www.onic.jp/archives/2014/2014/11/01/onic-2014-archive</id><content type="html" xml:base="https://www.onic.jp/archives/2014/2014/11/01/onic-2014-archive/"><![CDATA[<p>SDN Japan2014 archiveを公開しました。</p>
+
+<p><a href="https://www.youtube.com/user/sdnjapan"><img src="/archives/2014/img/youtube.jpg" alt="SDN JAPAN" /></a></p>]]></content><author><name>ONIC Japan</name></author><summary type="html"><![CDATA[SDN Japan2014 archiveを公開しました。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.onic.jp/archives/2014/img/andrei-stratu-kcJsQ3PJrYU-unsplash.jpg" /><media:content medium="image" url="https://www.onic.jp/archives/2014/img/andrei-stratu-kcJsQ3PJrYU-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">無事閉幕いたしました</title><link href="https://www.onic.jp/archives/2014/2014/10/31/onic-2014-announce/" rel="alternate" type="text/html" title="無事閉幕いたしました" /><published>2014-10-31T21:00:00+09:00</published><updated>2014-10-31T21:00:00+09:00</updated><id>https://www.onic.jp/archives/2014/2014/10/31/onic-2014-announce</id><content type="html" xml:base="https://www.onic.jp/archives/2014/2014/10/31/onic-2014-announce/"><![CDATA[<p>SDN Japan 2014 は無事閉幕いたしました。</p>
+
+<p>参加してくださった皆様ありがとうございました。</p>
+
+<p>講演資料はプログラムページに随時アップしていきます。</p>]]></content><author><name>ONIC Japan</name></author><summary type="html"><![CDATA[無事閉幕いたしました]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.onic.jp/archives/2014//img/joshua-hoehne-Nsaqv7v2V7Q-unsplash.jpg" /><media:content medium="image" url="https://www.onic.jp/archives/2014//img/joshua-hoehne-Nsaqv7v2V7Q-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">発表プログラム募集のお知らせ</title><link href="https://www.onic.jp/archives/2014/2014/09/01/onic-2014-cfp/" rel="alternate" type="text/html" title="発表プログラム募集のお知らせ" /><published>2014-09-01T21:00:00+09:00</published><updated>2014-09-01T21:00:00+09:00</updated><id>https://www.onic.jp/archives/2014/2014/09/01/onic-2014-cfp</id><content type="html" xml:base="https://www.onic.jp/archives/2014/2014/09/01/onic-2014-cfp/"><![CDATA[<h1 id="発表プログラム募集のお知らせ">【発表プログラム募集のお知らせ】</h1>
+
+<p>SDN JAPAN 2014プログラムにて、発表していただける方、または企画を持ち込んでいただける方を募集いたします。
+学生，社会人問わず奮ってご応募をお願いします。</p>
+<h3 id="募集概要">募集概要</h3>
+<ul>
+  <li>応募テーマ：
+    <ul>
+      <li>ネットワーク/サーバ仮想化技術</li>
+      <li>OpenFlow</li>
+      <li>ネットワークマネージメント</li>
+      <li>ネットワークデプロイ/運用</li>
+      <li>NFV</li>
+      <li>Open Compute Project<br />
+などをはじめとするSDNに関連するものであれば、特に発表テーマは問いません。<br />
+皆様の幅広いご発表をお待ちしております。</li>
+    </ul>
+  </li>
+  <li>
+    <p>応募方法：<br />
+  sdnjapan_cfp@e-side.co.jp 宛にご応募ください。<br />
+  応募時に、下記の項目についてご連絡ください。</p>
+
+    <p>氏名:<br />
+  所属:<br />
+  連絡先メールアドレス:<br />
+  発表タイトル:<br />
+  発表内容の概要:<br />
+  希望する発表時間（20分程度）:<br />
+  発表形式: 単独/パネルセッション</p>
+  </li>
+  <li>
+    <p>募集締切：<br />
+  応募締切は 2014年6月24日(火) 23:59 JST です。<br />
+  締切後、SDN Japan実行委員会にて採否を決定の上、ご連絡いたします。<br />
+  皆様奮ってご応募ください。</p>
+  </li>
+  <li>発表に関する注意事項：<br />
+  応募プログラムの内容および発表資料に関して、第三者から著作権等に
+  関して異議申し立てがあった場合、すべて応募者の負担と責任で対処し、
+  事務局、主催者等は一切の責任を負わないものとします。</li>
+</ul>
+
+<p>ご質問は sdnjapan-sec@e-side.co.jp までお願いいたします。<br />
+スタッフ一同、皆様のご応募をお待ちしております。</p>]]></content><author><name>ONIC Japan</name></author><summary type="html"><![CDATA[発表プログラム募集のお知らせ]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.onic.jp/archives/2014/img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg" /><media:content medium="image" url="https://www.onic.jp/archives/2014/img/mitsuo-komoriya-a8n0ZmlNlQ8-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
