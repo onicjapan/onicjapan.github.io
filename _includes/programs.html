@@ -26,9 +26,15 @@
                         </td>
                         <td>
                         {% for slide in session.slides %}
+                            {% if slide.file %}
                             <a href="{{ site.baseurl }}/slide/{{ slide.file }}">
                                 <img src="{{ site.baseurl }}/img/pdf-logo.png" />
                             </a>
+                            {% else %}
+                            <a href="{{ slide.link }}">
+                                <img src="{{ site.baseurl }}/img/web-link.png" />
+                            </a>
+                            {% endif %}                        
                         {% endfor %}
                         </td>
                     </tr>
