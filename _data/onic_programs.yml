@@ -11,7 +11,8 @@
       presenters:
         - name_and_title: |-
             ORGANIZATION<br />
-            NAME
+            NAME<br /><br />
+            PROFILE (UP TO 100 WORDS)
           photo: placeholder-120x140.png
       abstract: |-
         WHATEVER SUBMITTED BY THE PRESENTER(s).
@@ -36,7 +37,8 @@
       presenters:
         - name_and_title: |-
             ORGANIZATION<br />
-            NAME
+            NAME<br /><br />
+            PROFILE (UP TO 100 WORDS)
           photo: placeholder-120x140.png
       abstract: |-
         WHATEVER SUBMITTED BY THE PRESENTER(s).
@@ -49,4 +51,5 @@
       presenters:
         - name_and_title: |-
             ORGANIZATION<br />
-            NAME
+            NAME<br /><br />
+
