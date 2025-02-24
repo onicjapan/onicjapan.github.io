@@ -1,21 +1,19 @@
 ---
 title: Open NetworkIng Conference Japan
-subtitle: MONTH DAY1-DAY2, YEAR
+subtitle: NOVEMBER 20-21, 2025
 layout: page
 show_sidebar: true
 ---
 ## 開催概要
 
-| 名称       | Open NetworkIng Conference Japan YYYY |
-| 会期       | YYYY 年 MM 月 DD 日〜 DD 日 |
+| 名称       | Open NetworkIng Conference Japan 2025 |
+| 会期       | 2025 年 11 月 20 日 〜 21 日 |
 | 主催       | Open NetworkIng Conference Japan 実行委員会 |
 | 会場       | 軽井沢大賀ホール |
 |            | 〒389-0104　長野県北佐久郡軽井沢町軽井沢東28-4 |
 |            | [http://www.ohgahall.or.jp](http://www.ohgahall.or.jp) |
 | 構成       | 基調講演、講演、スポンサー講演 |
 |            | ハイブリット開催 |
-| プログラム | [プログラム一覧はこちらから]({{ site.baseurl }}/program/)  |
-| 参加登録   | [本会議・BoF参加登録はこちらから](https://forms.gle/TBDTBDTBDTBDTBDTBDTBD)   |
 | アクセス   | [詳細はこちらをご確認ください]({{ site.baseurl }}/access/) | 
 |            | ![]({{ site.baseurl }}/img/outline_access_3.png) |
 
