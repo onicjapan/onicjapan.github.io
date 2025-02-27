@@ -2,7 +2,7 @@
 layout: post
 title: 実行委員会の様子
 description: 月に一度程度、定期的に集まって議論をしています
-date: 2025-02-28 13:00:00 +0900
+date: 2025-02-28 06:51:00 +0900
 hero_image: /img/headway-5QgIuuBxKwM-unsplash.jpg
 image: /img/headway-5QgIuuBxKwM-unsplash.jpg
 hero_height: is-middle
