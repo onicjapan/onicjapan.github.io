@@ -2,7 +2,7 @@
 layout: post
 title: 組織の壁を超えて
 description: 
-date: 2025-04-28 13:20:00 +0900
+date: 2025-04-27 13:20:00 +0900
 hero_image: /img/wesley-tingey-snNHKZ-mGfE-unsplash.jpg
 image: /img/wesley-tingey-snNHKZ-mGfE-unsplash.jpg
 hero_height: is-middle
