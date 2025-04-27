@@ -3,8 +3,8 @@ layout: post
 title: 組織の壁を超えて
 description: 
 date: 2025-04-27 13:20:00 +0900
-hero_image: /img/access_img.jpg
-image: /img/access_img.jpg
+hero_image: /img/ohga-hall1.jpg
+image: /img/ohga-hall1.jpg
 hero_height: is-middle
 hero_darken: true
 ---
