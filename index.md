@@ -1,13 +1,13 @@
 ---
 title: Open NetworkIng Conference Japan
-subtitle: NOVEMBER 20-21, 2025
+subtitle: NOVEMBER 6-7, 2025
 layout: page
 show_sidebar: true
 ---
 ## 開催概要
 
 | 名称       | Open NetworkIng Conference Japan 2025 |
-| 会期       | 2025 年 11 月 20 日 〜 21 日 |
+| 会期       | 2025 年 11 月 6 日 〜 7 日 |
 | 主催       | Open NetworkIng Conference Japan 実行委員会 |
 | 会場       | 軽井沢大賀ホール |
 |            | 〒389-0104　長野県北佐久郡軽井沢町軽井沢東28-4 |
