@@ -2,7 +2,7 @@
 layout: post
 title: ONICとShowNetの関わり
 description: ONICにおけるこれまでのShowNetセッションについて
-date: 2025-07-01 22:40:00 +0900
+date: 2025-06-30 22:40:00 +0900
 hero_image: /img/202506-blog.jpg
 image: /img/202506-blog.jpg
 hero_height: is-middle
