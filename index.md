@@ -15,7 +15,6 @@ show_sidebar: true
 | 構成       | 基調講演、講演、スポンサー講演 |
 |            | ハイブリット開催 |
 | アクセス   | [詳細はこちらをご確認ください]({{ site.baseurl }}/access/) | 
-|            | ![]({{ site.baseurl }}/img/outline_access_3.png) |
 
 ## 開催趣旨文
 
