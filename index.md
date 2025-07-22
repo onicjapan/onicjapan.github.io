@@ -17,7 +17,6 @@ show_sidebar: true
 | プログラム | [プログラム一覧はこちらから]({{ site.baseurl }}/program/)  |
 | 参加登録   | [本会議・BoF参加登録はこちらから](https://forms.gle/TBDTBDTBDTBDTBDTBDTBD)   |
 | アクセス   | [詳細はこちらをご確認ください]({{ site.baseurl }}/access/) | 
-|            | ![]({{ site.baseurl }}/img/outline_access_3.png) |
 
 ## 開催趣旨文
 
