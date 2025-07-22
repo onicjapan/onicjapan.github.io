@@ -45,6 +45,6 @@ BoFにおいては軽食（事前お申し込み必須）を有料にてご用�
 ご希望の方は、最後の項目でお申し込みください。
 
 # 主催： Open NetworkIng Conference Japan 実行委員会
-その他、カンファレンスの詳細はWebサイト(https://www.onic.jp/)をご確認ください。
+その他、カンファレンスの詳細はWebサイト(https://www.onic.jp/) をご確認ください。
 問い合わせ先：onicjapan-office@e-side.co.jp
 
