@@ -12,7 +12,7 @@ show_sidebar: true
 | 会場       | 軽井沢大賀ホール |
 |            | 〒389-0104　長野県北佐久郡軽井沢町軽井沢東28-4 |
 |            | [http://www.ohgahall.or.jp](http://www.ohgahall.or.jp) |
-| 構成       | 講演、スポンサー講演 |
+| 構成       | 講演、スポンサー講演、BoF |
 |            | ハイブリット開催 |
 | アクセス   | [詳細はこちらをご確認ください]({{ site.baseurl }}/access/) | 
 
