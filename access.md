@@ -9,7 +9,8 @@ permalink: /access/
 | 住所     | 〒389-0104 長野県北佐久郡軽井沢町軽井沢東28-4 |
 | アクセス | ■JR軽井沢駅 徒歩 約8分 |
 
-![]({{ site.baseurl }}/img/access_img.jpg)
+![]({{ site.baseurl }}/img/ohga_hall.jpg)
+![]({{ site.baseurl }}/img/outline_access_3.png)
 
 ## MAP
 
