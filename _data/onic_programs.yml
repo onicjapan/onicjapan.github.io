@@ -1,0 +1,60 @@
+- date: November 6, 2025 (BoF＠ホワイエ)
+  sessions:
+    - title: 受付開始
+      time: "17:45"
+    - title: 開会
+      time: ""      
+    - title: TBD
+      time: "18:00"
+      type: BoF
+      tag: b_01
+      presenters:
+        - name_and_title: |-
+            Org-A<br />
+            Presenter-1
+          photo: placeholder-120x140.png
+      abstract: |-
+        TBD
+
+        キーワード: **keyword-1**, **keyword-2**, **keyword-3** 
+      slides:
+        - link: https://www.onic.jp
+    - title: 休憩
+      time: "18:30"        
+    - title: 歓談
+      time: "19:30"        
+    - title: 閉会
+      time: "20:30"
+- date: November 7, 2025 (本会議@メインホール)
+  sessions:
+    - title: 受付開始
+      time: "10:00"
+    - title: 開会の挨拶
+      time: "10:25"
+      presenters:
+        - name_and_title: |-
+            ONIC Japan 実行委員会委員長<br />
+            境 智史
+    - title: TBD
+      time: "10:30"
+      type: 講演
+      tag: s_01
+      presenters:
+        - name_and_title: |-
+            ORG-A<br />
+            Presenter-1
+          photo: placeholder-120x140.png
+      abstract: |-
+        TBD
+
+        キーワード: **keyword-1**, **keyword-2**, **keyword-3**       
+      slides:
+        - link: https://www.onic.jp
+    - title: 休憩
+      time: "12:00"           
+    - title: 閉会の挨拶
+      time: "18:30"
+      presenters:
+        - name_and_title: |-
+            ONIC実行委員会<br />
+            浅羽 登志也
