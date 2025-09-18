@@ -37,7 +37,7 @@ Open NetworkIng Conference Japan 実行委員会
 
 ## Open NetworkIng Conference Japan 実行委員会
 
-| 委員長   | 境 智史     | NTTコミュニケーションズ株式会社 |
+| 委員長   | 境 智史     | NTTドコモビジネス株式会社 |
 | 実行委員 | 浅羽 登志也 | 株式会社インターネットイニシアティブ |
 |          | 小野寺 好広 | アレドノ合同会社 |
 |          | 金海 好彦   | 日本電気株式会社 |
