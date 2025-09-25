@@ -3,26 +3,22 @@
     - title: 受付開始
       time: "17:45"
     - title: 開会
-      time: ""      
-    - title: TBD
-      time: "18:00"
+      time: "17:55"      
+    - title: ネットワーク仮想化の歴史
+      time: "20:00"
       type: BoF
-      tag: b_01
+      tag: b_04
       presenters:
         - name_and_title: |-
-            Org-A<br />
-            Presenter-1
-          photo: placeholder-120x140.png
+            ヴイエムウェア（株）/ Broadcom<br />
+            進藤資訓
+          photo: Motonori_Shindo.jpg
       abstract: |-
-        TBD
+        SDNのパイオニアだったNiciraは何をやりたかったのか、
+        それがどのようにしてNSXになったのか、結局何ができて何ができなかったのかを、
+        SDNのHype Cycleを一通り経験した者の視点から振り返ってみたいと思います。
 
-        キーワード: **keyword-1**, **keyword-2**, **keyword-3** 
-      slides:
-        - link: https://www.onic.jp
-    - title: 休憩
-      time: "18:30"        
-    - title: 歓談
-      time: "19:30"        
+        キーワード: **SDN**, **Nicira**, **NSX**
     - title: 閉会
       time: "20:30"
 - date: November 7, 2025 (本会議@メインホール)
