@@ -44,4 +44,4 @@ Open NetworkIng Conference Japan 実行委員会
 |          | 鎌田 徹平   | シスコシステムズ合同会社 |
 |          | 谷口 朋之   | 株式会社日立製作所 |
 |          | 進藤 資訓   | ヴイエムウェア株式会社/Broadcom |
-|          | 橋本 賢一郎 |  |
+|          | 橋本 賢一郎 | ULTRA RED, Ltd. |
