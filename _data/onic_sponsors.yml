@@ -7,3 +7,6 @@
     - name: NTTドコモビジネス株式会社
       profile: https://www.ntt.com/index.html
       logo: docombus_ONIC.png
+    - name: シスコシステムズ合同会社
+      profile: https://www.cisco.com/c/ja_jp/index.html
+      logo: ONIC_Cisco.png
