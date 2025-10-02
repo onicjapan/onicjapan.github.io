@@ -88,8 +88,8 @@
       tag: s_01
       presenters:
         - name_and_title: |-
-            title: Hardning Security（調整中）<br />
-            name: Hardning Project （調整中）
+            title: 調整中<br />
+            name: 調整中
 #          photo: s_01.png
       abstract: |-
         abstract: 調整中
@@ -120,7 +120,7 @@
         - name_and_title: |-
             NTTセキュリティ・ジャパン株式会社<br />
             桑原 悠太
-#          photo: s_03.png
+#          photo: s_03.JPG
       abstract: |-
         ICTトラブルシューティングコンテスト(ICTSC)は、ICT分野における障害を模した課題を通じて、学生がトラブルシューティング力を競う実践型コンテストです。 
         学生主体の運営を社会人が支え、協賛企業にも協力いただくことで、次世代エンジニアの育成と技術コミュニティの形成を進めてきました。 
@@ -207,7 +207,7 @@
         - name_and_title: |-
             Arrcus, Inc.<br />
             海老澤 健太郎
-#          photo: s_07.png
+#          photo: s_07.JPG
       abstract: |-
         生成AIを中心としたAIサービスは、今やハイパースケーラーのみならず幅広い企業にとって不可欠な技術となっています。
         その基盤を支えるAIインフラは、学習（Training）においては数万から数十万規模のGPUを連携させる必要があり、常に進化を続けています。
@@ -243,7 +243,7 @@
         - name_and_title: |-
             NTTドコモビジネス株式会社<br />
             岩瀬 義昌
-#          photo: s_09.png
+#          photo: s_09.avif
       abstract: |-
         2025年11月現在も生成AIの進化は続いています。生成AIの影響はあらゆるレイヤに及んでおり、その技術動向や仕組みの理解が重要です。
         そこで本講演では2025年11月時点の最新動向と、特に意識すべき要点を紹介します。
@@ -285,7 +285,7 @@
         - name_and_title: |-
             NTTドコモビジネス株式会社<br />
             山田 悠也
-#          photo: s_11.png
+#          photo: s_11.JPG
       abstract: |-
         SIMアプレットは、SIMカードの中で動作する小さなプログラムです。
         SIMカードのもつセキュリティ性の高さやUEへの依存性の少なさといった特長を活かすことができるため、
