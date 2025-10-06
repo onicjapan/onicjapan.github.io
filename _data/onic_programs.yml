@@ -4,23 +4,8 @@
       time: "17:45"
     - title: 開会
       time: "17:55"
-    - title: スマートビルについて（その技術的側面と発展、普及活動について）
-      time: "18:00"
-      type: BoF
-      tag: b_01
-      presenters:
-        - name_and_title: |-
-            株式会社竹中工務店
-            粕谷 貴司
-          photo: Takashi_Kasuya.jpg
-      abstract: |-
-        2025年4月にスマートビルディング共創機構が設立されました。
-        スマートビルについては、技術的にもビジネス的にも様々な課題が顕在化していますが、100社を超える会員企業が、普及とエコシステムの構築に向けて活動を進めています。
-        これらの状況を俯瞰するとともに、竹中工務店が目指すスマートビルについて、事例含めて紹介させていただきます。
-
-        キーワード: **SmartBuilding**, **Technical**, **Activity**
     - title: オープンソース半導体を研究ツールとして利用しよう！
-      time: "18:30"
+      time: "18:00"
       type: BoF
       tag: b_02
       presenters:
@@ -34,10 +19,8 @@
         今まで、お値段的に諦めていたチップ化（ASIC化）をお手頃なお値段で実現する方法や実例をお話しします。
 
         キーワード: **OpenSource**, **Semiconductor**, **ASIC**
-    - title: 休憩
-      time: "19:00"
     - title: 究極のゼロトラストを目指して
-      time: "19:30"
+      time: "18:30"
       type: BoF
       tag: b_03
       presenters:
@@ -56,8 +39,10 @@
         本セッションではこのような考え方に基づいて空港や建設現場などにおいて実際にスマホやタブレットの利用を制限している実例を紹介します。
 
         キーワード: **ZeroTrust**, **Security**, **IoT**
+    - title: 休憩
+      time: "19:00"
     - title: ネットワーク仮想化の歴史
-      time: "20:00"
+      time: "19:30"
       type: BoF
       tag: b_04
       presenters:
@@ -72,8 +57,7 @@
 
         キーワード: **SDN**, **Nicira**, **NSX**
     - title: 閉会
-      time: "20:30"
-
+      time: "20:00"
 - date: November 7, 2025 (本会議@メインホール)
   sessions:
     - title: 受付開始
@@ -99,19 +83,21 @@
         キーワード: **Hardning**, **Security**, **Project**       
 #      slides:
 #        - link: https://www.onic.jp
-    - title: 調整中
+    - title: スマートビルについて（その技術的側面と発展、普及活動について）
       time: "11:00"
-      type: スポンサーセッション
+      type: 講演
       tag: s_02
       presenters:
         - name_and_title: |-
-            title: 調整中<br />
-            name: 調整中
-#          photo: s_02.png
+            株式会社竹中工務店
+            粕谷 貴司
+          photo: Takashi_Kasuya.jpg
       abstract: |-
-        abstract: 調整中
+        2025年4月にスマートビルディング共創機構が設立されました。
+        スマートビルについては、技術的にもビジネス的にも様々な課題が顕在化していますが、100社を超える会員企業が、普及とエコシステムの構築に向けて活動を進めています。
+        これらの状況を俯瞰するとともに、竹中工務店が目指すスマートビルについて、事例含めて紹介させていただきます。
 
-        キーワード: **ONIC**, **ONIC**, **ONIC**       
+        キーワード: **SmartBuilding**, **Technical**, **Activity**
 #      slides:
 #        - link: https://www.onic.jp
     - title: ICTトラブルシューティングコンテストの舞台裏 - 持続可能な技術コミュニティづくりを目指して
