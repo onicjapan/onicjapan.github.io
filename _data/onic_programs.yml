@@ -211,19 +211,19 @@
         キーワード: **AI**, **RoCE**, **GPU**, **UEC**       
 #      slides:
 #        - link: https://www.onic.jp
-    - title: 調整中
+    - title: オープンで相互接続可能なAgent to Agent コミュニケーション ~ Internet of Agents
       time: "16:00"
       type: スポンサーセッション
       tag: s_08
       presenters:
         - name_and_title: |-
             シスコシステムズ合同会社 <br />
-            name: 調整中
-#          photo: s_08.png
+            小倉 隆啓
+          photo: Takahiro_Ogura.png
       abstract: |-
-        abstract: 調整中
+        現在、生成AIはあらゆる産業における仕事の生産性を大きく向上させています。 AIは単なるチャットシステムにとどまらず、システムをまたいで推論・計画・実行できる自律型エージェントへと進化しつつあります。 また複数エージェントが連携し合う、マルチエージェントシステムでは、より高度な意思決定プロセスを可能にすることが期待されます。 本セッションではAgentic AIにおける基本的なコンセプトをご紹介しながら、複数エージェントがオープンに相互運用できる世界(Internet of Agent) について展望します。
 
-        キーワード: **ONIC**, **ONIC**, **ONIC**       
+        キーワード: **AI**, **IoA**
 #      slides:
 #        - link: https://www.onic.jp
     - title: 30分で理解する生成AI 最新技術動向と今後の要点
