@@ -68,19 +68,19 @@
         - name_and_title: |-
             ONIC Japan 実行委員会委員長<br />
             境 智史
-    - title: 調整中
+    - title: CyberSecurity Re:frame
       time: "10:30"
       type: 講演
       tag: s_01
       presenters:
         - name_and_title: |-
-            title: 調整中<br />
-            name: 調整中
-#          photo: s_01.png
+            日本電気株式会社<br />
+            淵上 真一
+          photo: Shinichi_Fuchigami.jpg
       abstract: |-
-        abstract: 調整中
+        いわゆる、サイバーセキュリティに関する環境は激しく変転し、重要なシステムが瓦解するかのような被害も報道される中、サイバーセキュリティをどう捉え、理解すれば良いのか、変化する時代と共にかわるその本質についてお話しします。
 
-        キーワード: **Hardning**, **Security**, **Project**       
+        キーワード: **Security**
 #      slides:
 #        - link: https://www.onic.jp
     - title: スマートビルについて（その技術的側面と発展、普及活動について）
