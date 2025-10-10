@@ -13,7 +13,7 @@ hero_darken: true
 
 どちらの方法で参加するにかかわらず、下記フォームより参加登録をお願い致します。
 
-## [参加登録](https://forms.gle/Q2XnCL5wXnJMc54Y8) <- ここ
+## [参加登録](https://forms.gle/Q2XnCL5wXnJMc54Y8) <- ここをクリック
 
 | 名称       | Open NetworkIng Conference Japan 2025 |
 | 会期       | 2025 年 11 月 6 日 〜 7 日 |
