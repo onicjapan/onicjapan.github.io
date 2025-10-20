@@ -19,6 +19,8 @@
         今まで、お値段的に諦めていたチップ化（ASIC化）をお手頃なお値段で実現する方法や実例をお話しします。
 
         キーワード: **OpenSource**, **Semiconductor**, **ASIC**
+      slides:
+        - link: https://ishi-kai.org/assets/presentation/event/202511/ISHI-KAI_ONIC_202511.pdf
     - title: 究極のゼロトラストを目指して
       time: "18:30"
       type: BoF
