@@ -41,6 +41,8 @@
         本セッションではこのような考え方に基づいて空港や建設現場などにおいて実際にスマホやタブレットの利用を制限している実例を紹介します。
 
         キーワード: **ZeroTrust**, **Security**, **IoT**
+      slides:
+        - link: https://drive.google.com/file/d/1tDBTg6qMMVx7XCcjur3-C6xAJX8eSmle/view
     - title: 休憩
       time: "19:00"
     - title: ネットワーク仮想化の歴史
@@ -102,8 +104,8 @@
         これらの状況を俯瞰するとともに、竹中工務店が目指すスマートビルについて、事例含めて紹介させていただきます。
 
         キーワード: **SmartBuilding**, **Technical**, **Activity**
-#      slides:
-#        - link: https://www.onic.jp
+      slides:
+        - link: https://drive.google.com/file/d/1ls0quzUHRG4CEs3FEtCXPBemgxUI5WZm/view
     - title: ICTトラブルシューティングコンテストの舞台裏 - 持続可能な技術コミュニティづくりを目指して
       time: "11:30"
       type: 講演
@@ -120,8 +122,8 @@
         そのうえで、持続可能な技術コミュニティづくりに向けた展望を提示し、参加者とともに議論を深めます。
 
         キーワード: **ICTトラブルシューティングコンテスト**, **技術イベント運営**, **技術者育成**, **技術コミュニティ形成**       
-#      slides:
-#        - link: https://www.onic.jp
+      slides:
+        - link: https://drive.google.com/file/d/1cAb4xRqlF2N1MubE0ba22yyzcGtdeAqQ/view
     - title: 休憩
       time: "12:00"           
     - title: 分散したコンピューティングリソースの活用について
@@ -173,8 +175,8 @@
           photo: Osamu_Matsubayashi.png
       abstract: |-
         近年、企業の競争力向上の観点から生成AI等のAI導入が急速に普及し、機密性の高いデータを用いたAI環境構築等が進展するとともに全国の事業拠点において推論用AIの本格的導入が見込まれます。一方、AI向けインフラにおいて、都市部データセンター用電力の枯渇、建設コスト増大、電力（受電）導入の長期化などを背景に、ICT環境の分散化やネットワークの在り方などにも変化が生じています。電力枯渇やデジタル赤字、ワット・ビット構想実現や課題解決に向けて、実態や、解決すべき道筋は何か。NTTドコモビジネスの取組みやこれからのインフラのあり方について講演します。
-#      slides:
-#        - link: https://www.onic.jp
+      slides:
+        - link: https://drive.google.com/file/d/1OSV86rhXZ45f1sENZpYyn-G56Zb2lPww/view
     - title: ピアノ演奏
       time: "15:00"           
       type: 演奏
@@ -211,8 +213,8 @@
         本講演では、現在のAIインフラを構成する技術と課題、そして将来に向け提案されている技術などを紹介し、我々が今後どのような視点でAIインフラ技術に向き合うべきかを議論します。
 
         キーワード: **AI**, **RoCE**, **GPU**, **UEC**       
-#      slides:
-#        - link: https://www.onic.jp
+      slides:
+        - link: https://drive.google.com/file/d/1hpcGPtn680uPBNU71kssLWiibvORV4dK/view
     - title: オープンで相互接続可能なAgent to Agent コミュニケーション ~ Internet of Agents
       time: "16:00"
       type: スポンサーセッション
@@ -292,8 +294,8 @@
         さらに、この技術を利用することでローカル5Gの運用上の課題を解消し、今までにないローカル5Gの付加価値創造を目指す取り組みを紹介します。
 
         キーワード: **SIMアプレット**, **ローカル5G**      
-#      slides:
-#        - link: https://www.onic.jp
+      slides:
+        - link: https://drive.google.com/file/d/1fcRlsrT8FhXrvb8x7SpOC41mSelkWrb5/view
     - title: ShowNet 2025から見る相互接続性と生成AI活用の今とこれから
       time: "18:30"
       type: 講演
@@ -311,8 +313,8 @@
         今後のネットワークにおける生成AIの活用の道筋について議論します。
 
         キーワード: **ルーティング**, **相互接続性**, **生成AI** 
-#      slides:
-#        - link: https://www.onic.jp        
+      slides:
+        - link: https://drive.google.com/file/d/1jdiEhmmdWif7k5JY2apePPXkjTVGkIo7/view       
     - title: 閉会の挨拶
       time: "19:00"
       presenters:
