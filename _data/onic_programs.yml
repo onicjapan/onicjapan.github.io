@@ -142,8 +142,8 @@
         なぜ分散しないといけないのか、そのためにはどのような効率的な分散基盤が必要なのかについてのトヨタのR&D活動について解説する。
 
         キーワード: **AI**, **GPU基盤**, **Kubernetes**, **グリーン電力**       
-#      slides:
-#        - link: https://www.onic.jp
+      slides:
+        - link: https://drive.google.com/file/d/1haOxFFAY-0-YyEEDQETfDTBDjqqvfRLC/view
     - title: 脱・テキストベースの管理 ― 内製で挑むIPアドレス管理システムの取り組み
       time: "14:00"
       type: スポンサーセッション
