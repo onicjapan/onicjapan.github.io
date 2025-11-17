@@ -159,8 +159,8 @@
         本講演では、内製に至った背景からシステム化によって解決したことと将来の展望、管理台帳移行時に直面した苦労話などを紹介します。
 
         キーワード: **内製**, **IPアドレス**, **管理**       
-#      slides:
-#        - link: https://www.onic.jp
+      slides:
+        - link: https://drive.google.com/file/d/1rBBvXN0k0y8Of9n4e4gCfcC0jsEWo4oP/view
     - title: AI時代ならではのデータセンターや電力需給等における課題と解決に向けたこれからのインフラのあり方（ワット・ビット構想に関する考察を含む）について
       time: "14:30"
       type: 講演
