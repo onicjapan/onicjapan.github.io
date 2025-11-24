@@ -50,7 +50,7 @@ sass:
   style: compressed
   source_dir: _sass
 
-google_analytics: G-GTHPEEV9S4
+#google_analytics: 
 
 defaults:
   -
