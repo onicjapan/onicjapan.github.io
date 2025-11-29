@@ -20,7 +20,7 @@
 
         キーワード: **OpenSource**, **Semiconductor**, **ASIC**
       slides:
-        - link: https://drive.google.com/file/d/1bwmnMtB1UDHnwoJv41gevQxloki5w_Ig/view
+        - link: https://drive.google.com/file/d/1thX6ytV33wZ8f9jJpjk_G9JkeNw8xwQb/view
     - title: 究極のゼロトラストを目指して
       time: "18:30"
       type: BoF
@@ -42,7 +42,7 @@
 
         キーワード: **ZeroTrust**, **Security**, **IoT**
       slides:
-        - link: https://drive.google.com/file/d/1tDBTg6qMMVx7XCcjur3-C6xAJX8eSmle/view
+        - link: https://drive.google.com/file/d/1o3x40YW-PYWpwDvBN6594jJh86E19zXR/view
     - title: 休憩
       time: "19:00"
     - title: ネットワーク仮想化の歴史
@@ -61,7 +61,7 @@
 
         キーワード: **SDN**, **Nicira**, **NSX**
       slides:
-        - link: https://drive.google.com/file/d/1VRceXNz5bs9SSZHJzmMu11Antlfc7C06/view
+        - link: https://drive.google.com/file/d/1Eg6wKHNCGvVLV7MjOMYEeh9p1o6tZSzi/view
     - title: 閉会
       time: "20:00"
 - date: November 7, 2025 (本会議@メインホール)
@@ -88,7 +88,7 @@
 
         キーワード: **Security**
       slides:
-        - link: https://drive.google.com/file/d/1Car1QrwT_AhRf-4K8PoI0kxO-XscR20S/view
+        - link: https://drive.google.com/file/d/1XAxK8znGsawNfRz17xVM69Ol_DuvY4FA/view
     - title: スマートビルについて（その技術的側面と発展、普及活動について）
       time: "11:00"
       type: 講演
@@ -105,7 +105,7 @@
 
         キーワード: **SmartBuilding**, **Technical**, **Activity**
       slides:
-        - link: https://drive.google.com/file/d/1ls0quzUHRG4CEs3FEtCXPBemgxUI5WZm/view
+        - link: https://drive.google.com/file/d/1v6fvl0GS-tpOdspbSS0fPgQDDqrn6y2o/view
     - title: ICTトラブルシューティングコンテストの舞台裏 - 持続可能な技術コミュニティづくりを目指して
       time: "11:30"
       type: 講演
@@ -123,7 +123,7 @@
 
         キーワード: **ICTトラブルシューティングコンテスト**, **技術イベント運営**, **技術者育成**, **技術コミュニティ形成**       
       slides:
-        - link: https://drive.google.com/file/d/1cAb4xRqlF2N1MubE0ba22yyzcGtdeAqQ/view
+        - link: https://drive.google.com/file/d/1OiaDG70YnmhK8aUQ-greyVATEu6Z30zh/view
     - title: 休憩
       time: "12:00"           
     - title: 分散したコンピューティングリソースの活用について
@@ -143,7 +143,7 @@
 
         キーワード: **AI**, **GPU基盤**, **Kubernetes**, **グリーン電力**       
       slides:
-        - link: https://drive.google.com/file/d/1haOxFFAY-0-YyEEDQETfDTBDjqqvfRLC/view
+        - link: https://drive.google.com/file/d/1n1whEfmEGz0PSHrF9rIEOIjEWhNOxa_o/view
     - title: 脱・テキストベースの管理 ― 内製で挑むIPアドレス管理システムの取り組み
       time: "14:00"
       type: スポンサーセッション
@@ -160,7 +160,7 @@
 
         キーワード: **内製**, **IPアドレス**, **管理**       
       slides:
-        - link: https://drive.google.com/file/d/1rBBvXN0k0y8Of9n4e4gCfcC0jsEWo4oP/view
+        - link: https://drive.google.com/file/d/1zqLeEL37uoumWsjlxFWjKpJjIm-N_35b/view
     - title: AI時代ならではのデータセンターや電力需給等における課題と解決に向けたこれからのインフラのあり方（ワット・ビット構想に関する考察を含む）について
       time: "14:30"
       type: 講演
@@ -176,7 +176,7 @@
       abstract: |-
         近年、企業の競争力向上の観点から生成AI等のAI導入が急速に普及し、機密性の高いデータを用いたAI環境構築等が進展するとともに全国の事業拠点において推論用AIの本格的導入が見込まれます。一方、AI向けインフラにおいて、都市部データセンター用電力の枯渇、建設コスト増大、電力（受電）導入の長期化などを背景に、ICT環境の分散化やネットワークの在り方などにも変化が生じています。電力枯渇やデジタル赤字、ワット・ビット構想実現や課題解決に向けて、実態や、解決すべき道筋は何か。NTTドコモビジネスの取組みやこれからのインフラのあり方について講演します。
       slides:
-        - link: https://drive.google.com/file/d/1OSV86rhXZ45f1sENZpYyn-G56Zb2lPww/view
+        - link: https://drive.google.com/file/d/1otV5pRkiDs34PMstEIKq9xoG_9a92Trv/view
     - title: ピアノ演奏
       time: "15:00"           
       type: 演奏
@@ -214,7 +214,7 @@
 
         キーワード: **AI**, **RoCE**, **GPU**, **UEC**       
       slides:
-        - link: https://drive.google.com/file/d/1hpcGPtn680uPBNU71kssLWiibvORV4dK/view
+        - link: https://drive.google.com/file/d/1WOKaHgqucP1I_EjhGB7IMEgYGujKIO1L/view
     - title: オープンで相互接続可能なAgent to Agent コミュニケーション ~ Internet of Agents
       time: "16:00"
       type: スポンサーセッション
@@ -229,7 +229,7 @@
 
         キーワード: **AI**, **IoA**
       slides:
-        - link: https://drive.google.com/file/d/1sV3drdeRBYI2glSkzvoz0mVv28QPo8cI/view
+        - link: https://drive.google.com/file/d/1-UchnvMIb81-EfpcDune9SzPkMk9n8Ng/view
     - title: 30分で理解する生成AI 最新技術動向と今後の要点
       time: "16:30"
       type: 講演
@@ -273,7 +273,7 @@
 
         キーワード: **生成AI**, **AIOps**, **SSL/TCPプロキシ**, **ガードレール**       
       slides:
-        - link: https://drive.google.com/file/d/1ikz02Ybsh9T9hz1NdmsV095zyFdw4GB-/view
+        - link: https://drive.google.com/file/d/1WYu2LYwsUeEEANreUS6y7W-bpNui2Yj2/view
     - title: SIMアプレットによる"使いやすい"ローカル5G実現への取り組み
       time: "18:00"
       type: スポンサーセッション
@@ -295,7 +295,7 @@
 
         キーワード: **SIMアプレット**, **ローカル5G**      
       slides:
-        - link: https://drive.google.com/file/d/1fcRlsrT8FhXrvb8x7SpOC41mSelkWrb5/view
+        - link: https://drive.google.com/file/d/1Fo_8XM0XGlDlV2fGzv_WEOh4R9cZ5ISF/view
     - title: ShowNet 2025から見る相互接続性と生成AI活用の今とこれから
       time: "18:30"
       type: 講演
@@ -314,7 +314,7 @@
 
         キーワード: **ルーティング**, **相互接続性**, **生成AI** 
       slides:
-        - link: https://drive.google.com/file/d/1jdiEhmmdWif7k5JY2apePPXkjTVGkIo7/view       
+        - link: https://drive.google.com/file/d/1zCtwK4GYNbSFyTURgFm8I_VD9OcP2UcY/view
     - title: 閉会の挨拶
       time: "19:00"
       presenters:
