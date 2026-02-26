@@ -19,7 +19,7 @@
 
         キーワード: **FOO**, **BAR**, **BAZ**
       slides:
-        - file: SLIDE.pdf
+        - link: https://example.com
 - date: MONTH DAY, YEAR (TYPE@VENUE)
   sessions:
     - title: 受付開始
@@ -45,7 +45,7 @@
 
         キーワード: **FOO**, **BAR**, **BAZ**
       slides:
-        - file: SLIDE.pdf            
+        - link: https://example.com
     - title: 閉会の挨拶
       time: "HH:MM"
       presenters:

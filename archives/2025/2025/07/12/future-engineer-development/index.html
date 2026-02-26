@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+
+
+
+
+<html
+ dir="ltr"
+ lang="ja"
+ >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ffffff>
+    <link rel="stylesheet" href="/archives/2025/assets/css/app.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/archives/2025/img/favicon.ico" 
+    />
+    <script defer src="https://unpkg.com/alpinejs@3.9.0/dist/cdn.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/css/all.min.css">
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>SDNをきっかけに見えたエンジニア育成の未来 | ONIC Japan</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="SDNをきっかけに見えたエンジニア育成の未来" />
+<meta name="author" content="ONIC Japan" />
+<meta property="og:locale" content="ja" />
+<meta name="description" content="SDNショックから生成AI時代へ" />
+<meta property="og:description" content="SDNショックから生成AI時代へ" />
+<link rel="canonical" href="https://www.onic.jp/archives/2025/2025/07/12/future-engineer-development/" />
+<meta property="og:url" content="https://www.onic.jp/archives/2025/2025/07/12/future-engineer-development/" />
+<meta property="og:site_name" content="ONIC Japan" />
+<meta property="og:image" content="https://www.onic.jp/archives/2025/img/emile-perron-xrVDYZRGdw4-unsplash.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-07-12T06:51:00+09:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://www.onic.jp/archives/2025/img/emile-perron-xrVDYZRGdw4-unsplash.jpg" />
+<meta property="twitter:title" content="SDNをきっかけに見えたエンジニア育成の未来" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"ONIC Japan"},"dateModified":"2025-07-12T06:51:00+09:00","datePublished":"2025-07-12T06:51:00+09:00","description":"SDNショックから生成AI時代へ","headline":"SDNをきっかけに見えたエンジニア育成の未来","image":"https://www.onic.jp/archives/2025/img/emile-perron-xrVDYZRGdw4-unsplash.jpg","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.onic.jp/archives/2025/2025/07/12/future-engineer-development/"},"url":"https://www.onic.jp/archives/2025/2025/07/12/future-engineer-development/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0H03F65D0W"></script>
+<script>
+  window['ga-disable-G-0H03F65D0W'] = window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1";
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-0H03F65D0W');
+</script><!-- head scripts --></head>
+
+  <body>
+    <nav class="navbar is-primary " x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="https://www.onic.jp/" class="navbar-item">
+                ONIC Japan
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div class="navbar-start">
+                <a href="/archives/2025/" class="navbar-item ">Home</a>
+                
+                
+                    
+                    <a href="/archives/2025/news/" class="navbar-item ">News</a>
+                    
+                
+                    
+                    <div class="navbar-item has-dropdown is-hoverable ">
+                        <a href="/archives/2025/program/" class="navbar-link ">Program</a>
+                        <div class="navbar-dropdown">
+                            
+                            <a href="/archives/2025/program-detail/" class="navbar-item ">Program Details</a>
+                            
+                        </div>
+                    </div>
+                    
+                
+                    
+                    <a href="/archives/2025/sponsors/" class="navbar-item ">Sponsors</a>
+                    
+                
+                    
+                    <a href="/archives/2025/access/" class="navbar-item ">Access</a>
+                    
+                
+                    
+                    <a href="https://www.facebook.com/ONICJapan/" class="navbar-item ">Facebook</a>
+                    
+                
+                    
+                    <a href="https://x.com/Onic_japan" class="navbar-item ">X (Twitter)</a>
+                    
+                
+                    
+                    <div class="navbar-item has-dropdown is-hoverable ">
+                        <a href="" class="navbar-link ">Archives</a>
+                        <div class="navbar-dropdown">
+                            
+                            <a href="/archives/2024/" class="navbar-item ">ONIC 2024</a>
+                            
+                            <a href="/archives/2023/" class="navbar-item ">ONIC 2023</a>
+                            
+                            <a href="/archives/2022/" class="navbar-item ">ONIC 2022</a>
+                            
+                            <a href="/archives/2021/" class="navbar-item ">ONIC 2021</a>
+                            
+                            <a href="/archives/2020/" class="navbar-item ">ONIC 2020</a>
+                            
+                            <a href="/archives/2019/" class="navbar-item ">ONIC 2019</a>
+                            
+                            <a href="/archives/2018/" class="navbar-item ">ONIC 2018</a>
+                            
+                            <a href="/archives/2017/" class="navbar-item ">ONIC 2017</a>
+                            
+                            <a href="/archives/2016/" class="navbar-item ">ONIC 2016</a>
+                            
+                            <a href="/archives/2015/" class="navbar-item ">ONIC 2015</a>
+                            
+                            <a href="/archives/2014/" class="navbar-item ">ONIC 2014</a>
+                            
+                            <a href="/archives/2013/" class="navbar-item ">ONIC 2013</a>
+                            
+                            <a href="/archives/2012/" class="navbar-item ">ONIC 2012</a>
+                            
+                        </div>
+                    </div>
+                    
+                
+                
+            </div>
+
+            <div class="navbar-end">
+                
+            </div>
+
+        </div>
+    </div>
+</nav>
+
+    
+        <section class="hero  is-middle  is-bold is-primary"  style="background: url('/archives/2025/img/emile-perron-xrVDYZRGdw4-unsplash.jpg') no-repeat center center; background-size: cover;" >
+    <div class="hero-body  hero-darken ">
+        <div class="container">
+            <h1 class="title is-2">SDNをきっかけに見えたエンジニア育成の未来</h1>
+            <p class="subtitle is-3"></p>
+            
+        </div>
+    </div>
+</section>
+    
+    
+
+
+    <section class="section">
+        <div class="container">
+            <div class="columns is-multiline">
+                
+                <div class="column is-8">
+                    
+                    
+
+                    
+                    
+                    
+                    
+                    <div class="content">
+
+    <p>Published: Jul 12, 2025 by ONIC Japan</p>
+
+    
+
+    <p>SDN 登場から スキルギャップの危機感 が顕在化してエンジニアの学び場は、危機感を出発点に、クラウドネイティブ、DevOps、そして生成 AI・AIOps へと舞台を移してきました。ここでは、Interop Tokyo で蓄積された育成ノウハウと市場動向をまとめて、ONICが提供する次のフィールドへと展望します。</p>
+
+<p>SDN 技術が商用化して2017〜2019 年は「人が足りない」という切迫感から、OJT やCTF など学びそのものを試行錯誤するフェーズでした。現場はネットワークとアプリの境界を越えるクロススキルを求め、エンジニアは自らの専門領域を横に拡張することで生存戦略を立てて来ました。</p>
+
+<p>2020 年に入ると、IaC (Infra as Code) やDevOps が一気に浸透し、「コードでインフラを操る」ことが当たり前に。ここで学び方は大きく転換します。ツールやフレームワークを追うだけではなく、 自動化を前提に設計する思考  が育成カリキュラムの中心に据えられました。クラウドネイティブが本格化した 2021 年には、可観測性と API 連携が運用負荷を大幅に下げ、学習テーマは「観測・分析・改善」の高速ループをどう回すかにシフトします。</p>
+
+<p>さらに 2023 年以降は、AI/ML とインテントベースネットワークが注目を集め、「どの技術を、どこで、いつ使うべきか」という設計判断力が問われるようになりました。単純なツール習得では差別化できず、エンジニアにはT字型（専門＋隣接領域）を超えて、π字型（コード実装 × AI活用 × ビジネス指標）を横断するスキルが求められています。こうした背景には、企業の投資先が SDN 実証からクラウド拡張、そして可観測性・AIOps へと移った資金の流れがあり、「どこにおカネが集まるか」を読むことが育成戦略でも不可欠になっています。</p>
+
+<p>そして 2025 年、生成AI とAIOps が現場で稼働し始め、常時可視化と予兆検知が当たり前の世界が見えてきました。エンジニアは「障害を 起こさない ための運用」を担い、LLM を使ったリアルタイムな根本原因分析（RCA）を武器に、ビジネス価値を直接押し上げるポジションへ進化します。</p>
+
+<p>こうしたテクノロジーの連続的進化の先にONICが掲げるのは、「発見と挑戦が止まらない学習ループ」。SDN ショックをチャンスに変えたように、生成AI 時代を楽しんだ人が先に行ける。そんなメッセージを胸に、次の一手を描くカンファレンスを目指しています。</p>
+
+<p>ONIC 2025 の参加登録や最新ニュースは公式サイトで随時更新中。新しい発見を！ 会場でお会いしましょう。</p>
+
+<h4 id="参考interop-tokyo-カンファレンスエンジニア育成セッションのテーマ変化">参考：Interop Tokyo カンファレンス　エンジニア育成セッションのテーマ変化</h4>
+
+<table>
+  <tbody>
+    <tr>
+      <td>年</td>
+      <td>トピック</td>
+      <td>育成フォーカス</td>
+    </tr>
+    <tr>
+      <td>2017</td>
+      <td>SDN 時代の人材不足</td>
+      <td>ネットワーク×アプリの クロススキルが急務</td>
+    </tr>
+    <tr>
+      <td>2018</td>
+      <td>スキル標準とアップスキリング</td>
+      <td>OJT＆フルスタック化で現場力を底上げ</td>
+    </tr>
+    <tr>
+      <td>2019</td>
+      <td>ハードニング &amp; CTF</td>
+      <td>競技で鍛える “勝手に育つ” エコシステム</td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td>DX × IaC × DevOps</td>
+      <td>“NetDevOps”がメインストリームへ</td>
+    </tr>
+    <tr>
+      <td>2021</td>
+      <td>クラウドネイティブ &amp; 可観測性</td>
+      <td>API 連携で運用負荷を劇的削減</td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td>インテントベース &amp; AI/ML</td>
+      <td>どこに・いつ技術を当てはめるかが論点に</td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td>GitHub Copilot &amp; 自律チーム</td>
+      <td>社内 DevSecOps 文化が市民権を獲得</td>
+    </tr>
+    <tr>
+      <td>2025</td>
+      <td>生成AI × AIOps</td>
+      <td>常時可視化と予兆検知が当たり前に</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Photo by <a href="https://unsplash.com/@emilep?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Emile Perron</a> on <a href="https://unsplash.com/photos/macbook-pro-showing-programming-language-xrVDYZRGdw4?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+
+</div>
+
+<div class="tags">
+    
+</div>
+
+
+<p><strong>Share</strong></p>
+<div class="buttons ">
+    <a class="button is-medium is-facebook"
+       onclick="window.open('https://www.facebook.com/share.php?u=https://www.onic.jp/archives/2025/2025/07/12/future-engineer-development/');">
+        <span class="icon"><i class="fab fa-facebook fa-lg"></i></span>
+    </a>
+    <a class="button is-medium is-twitter"
+       onclick="window.open('https://x.com/intent/tweet?text=https://www.onic.jp/archives/2025/2025/07/12/future-engineer-development/');">
+        <span class="icon"><i class="fab fa-x-twitter fa-lg"></i></span>
+    </a>
+    <a class="button is-medium is-linkedin"
+       onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&url=https://www.onic.jp/archives/2025/2025/07/12/future-engineer-development/&title=SDN%E3%82%92%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91%E3%81%AB%E8%A6%8B%E3%81%88%E3%81%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E8%82%B2%E6%88%90%E3%81%AE%E6%9C%AA%E6%9D%A5&summary=&source=');">
+        <span class="icon"><i class="fab fa-linkedin fa-lg"></i></span>
+    </a>
+</div>
+
+
+
+
+                </div>
+                
+                <div class="column is-4-desktop is-4-tablet">
+                    <p class="title is-4">Latest Posts</p>
+
+<div class="columns is-multiline">
+    
+    <div class="column is-12">
+        <div class="card">
+    
+    <div class="card-image">
+        <img src="/archives/2025/img/viktor-talashuk-05HLFQu8bFw-unsplash.jpg" alt="ONIC 2025の資料公開">
+    </div>
+    
+    <div class="card-content">
+        <div class="content">
+            
+            <a class="title is-4" href="/archives/2025/2025/11/18/all-slides-now-available/">ONIC 2025の資料公開</a>
+            
+            
+                <p><p>ONIC 2025の公開可能資料が全て揃いました。ご講演いただいた皆様、ご参加いただいた皆様、ありがとうございました！　見逃してしまったセッションの内容確認や聞いたセッションの復習などにご活用ください。</p>
+</p>
+            
+        </div>
+        <div class="has-text-centered">
+            <a href="/archives/2025/2025/11/18/all-slides-now-available/" class="button is-primary">Read more</a>
+        </div>
+    </div>
+    <footer class="card-footer">
+        <p class="card-footer-item">Published: Nov 18, 2025</p>
+    </footer>
+</div>
+    </div>
+    
+    <div class="column is-12">
+        <div class="card">
+    
+    <div class="card-image">
+        <img src="/archives/2025/img/jon-tyson-vVSleEYPSGY-unsplash.jpg" alt="アンケートのお願い">
+    </div>
+    
+    <div class="card-content">
+        <div class="content">
+            
+            <a class="title is-4" href="/archives/2025/2025/11/11/feedback-request/">アンケートのお願い</a>
+            
+            
+                <p><p>無事に Open NetworkIng Conference Japan 2025 が閉会いたしました。現地、オンラインにてご参加いただいた皆様、ありがとうございました！　お楽しみいただけたでしょうか？</p>
+</p>
+            
+        </div>
+        <div class="has-text-centered">
+            <a href="/archives/2025/2025/11/11/feedback-request/" class="button is-primary">Read more</a>
+        </div>
+    </div>
+    <footer class="card-footer">
+        <p class="card-footer-item">Published: Nov 11, 2025</p>
+    </footer>
+</div>
+    </div>
+    
+    <div class="column is-12">
+        <div class="card">
+    
+    <div class="card-image">
+        <img src="/archives/2025/img/dmitrii-e-VNlAuQ3eulg-unsplash.jpg" alt="BoF・本会議 参加登録のご案内">
+    </div>
+    
+    <div class="card-content">
+        <div class="content">
+            
+            <a class="title is-4" href="/archives/2025/2025/10/08/enrollment-open/">BoF・本会議 参加登録のご案内</a>
+            
+            
+                <p><p>今年も Open NetworkIng Conference Japan 2025 はハイブリッド（会場とオンライン配信）での開催となります。</p>
+</p>
+            
+        </div>
+        <div class="has-text-centered">
+            <a href="/archives/2025/2025/10/08/enrollment-open/" class="button is-primary">Read more</a>
+        </div>
+    </div>
+    <footer class="card-footer">
+        <p class="card-footer-item">Published: Oct 8, 2025</p>
+    </footer>
+</div>
+    </div>
+    
+</div>
+
+
+
+
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    
+        <footer class="footer">
+    <div class="container">
+        
+        
+        <div class="columns is-multiline">
+            
+            <div class="column has-text-centered">
+                <div>
+                    <a href="/archives/2025/" class="link">Home</a>
+                </div>
+            </div>
+            
+            <div class="column has-text-centered">
+                <div>
+                    <a href="/archives/2025/news/" class="link">News</a>
+                </div>
+            </div>
+            
+            <div class="column has-text-centered">
+                <div>
+                    <a href="/archives/2025/program/" class="link">Program</a>
+                </div>
+            </div>
+            
+            <div class="column has-text-centered">
+                <div>
+                    <a href="/archives/2025/sponsors/" class="link">Sponsors</a>
+                </div>
+            </div>
+            
+            <div class="column has-text-centered">
+                <div>
+                    <a href="/archives/2025/access/" class="link">Access</a>
+                </div>
+            </div>
+            
+            <div class="column has-text-centered">
+                <div>
+                    <a href="/archives/2025/privacy-policy/" class="link">Privacy Policy</a>
+                </div>
+            </div>
+            
+            <div class="column has-text-centered">
+                <div>
+                    <a href="/archives/2025/code-of-conduct/" class="link">Code of Conduct</a>
+                </div>
+            </div>
+            
+        </div>
+        
+
+        <div class="content is-small has-text-centered">
+            Copyright ©️ Open NetworkIng Conference Japan 実行委員会 All rights reserved.
+            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+        </div>
+    </div>
+</footer>
+
+    
+    <script src="/archives/2025/assets/js/app.js" type="text/javascript"></script><!-- footer scripts --></body>
+</html>
