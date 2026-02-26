@@ -1,26 +1,34 @@
 ---
 title: Open NetworkIng Conference Japan
-subtitle: MONTH DAY1-DAY2, YEAR
+subtitle: NOVEMBER 12-13, 2026
 layout: page
 show_sidebar: true
 ---
 ## 開催概要
 
-| 名称       | Open NetworkIng Conference Japan YYYY |
-| 会期       | YYYY 年 MM 月 DD 日〜 DD 日 |
+| 名称       | Open NetworkIng Conference Japan 2026 |
+| 会期       | 2026 年 11 月 12 日〜 13 日 |
 | 主催       | Open NetworkIng Conference Japan 実行委員会 |
 | 会場       | 軽井沢大賀ホール |
 |            | 〒389-0104　長野県北佐久郡軽井沢町軽井沢東28-4 |
 |            | [http://www.ohgahall.or.jp](http://www.ohgahall.or.jp) |
 | 構成       | 基調講演、講演、スポンサー講演 |
 |            | ハイブリット開催 |
-| プログラム | [プログラム一覧はこちらから]({{ site.baseurl }}/program/)  |
-| 参加登録   | [本会議・BoF参加登録はこちらから](https://forms.gle/TBDTBDTBDTBDTBDTBDTBD)   |
 | アクセス   | [詳細はこちらをご確認ください]({{ site.baseurl }}/access/) | 
 
 ## 開催趣旨文
 
-TBD
+Open NetworkIng Conference Japan (ONIC) も今年で15回目の開催となります。 これまでの開催を支えていただきました協賛企業様、講演者様、並びにご参加いただきました皆様に深くお礼を申し上げます。
+
+近年、ネットワークは単なる通信基盤から、AI と融合した自律的インフラストラクチャへと進化しつつあります。AI と実世界をつなぐためのネットワークシステムのあり方、AIを活用するための設計、AI 利用を前提とした運用など、ネットワークエンジニアに求められる技術領域は急速に拡張しています。
+
+さらに、Ultra Ethernet や光電融合、6G や NTN (Non-Terrestrial Network) など、次世代のネットワーク技術を駆使したアーキテクチャを生み出していくにあたっては、理論や標準化だけではなく実装や運用を通して得られる現場視点での知見が不可欠となります。
+
+今回の Open NetworkIng Conference Japan では、「AI 時代のネットワークを、どのように設計し、作り上げていくのか」という問いに対し、エンジニア同士が技術を軸に議論する場を提供します。実験的な取り組みや実装の工夫、失敗から得た知見に至るまでネットワークの「今」と「未来」を、共に掘り下げていきましょう。
+
+今年も Face to Face での議論を願い、軽井沢およびオンラインでのハイブリッド開催を検討しております。また、現地のみとなりますが本会議前日には BoF の開催を予定しておりますので、より多くの方にご参加いただいて議論ができる場を用意させていただければと思います。
+
+ぜひご参加いただきますよう、よろしくお願いいたします。
 
 Open NetworkIng Conference Japan 実行委員会
 
