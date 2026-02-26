@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+gem "bigdecimal", ">= 3.1"
 
 source "https://rubygems.org"
 gemspec
