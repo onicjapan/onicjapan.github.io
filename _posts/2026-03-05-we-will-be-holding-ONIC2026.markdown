@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ONIC 2026のご案内
+title: ONIC Japan 2026 のご案内
 description: 今年も開催します！
 date: 2026-03-05 06:51:00 +0900
 hero_image: /img/onic2026-back.png
