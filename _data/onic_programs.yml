@@ -19,7 +19,7 @@
         どんなにアクセス回線が速くなってもアプリケーションの品質は上がりません。
         逼迫した問題として、議論を行いたいと思います。
       slides:
-        - file: onic2020-kouno.pdf
+        - link: https://drive.google.com/file/d/1CfQQIFegL7mLNjbW6vOEB2l3axJev275/view
     - title: 潜水艦に乗ってトンネルをくぐろう！〜SubmarinerによるマルチKubernetesクラスターネットワーキング〜
       time: "13:40"
       type: 講演 D1_2
@@ -33,7 +33,7 @@
         複数のKubernetesクラスター間のネットワーキングを制御する仕組みを提供する、
         Submarinerというプロジェクトについてご紹介します。
       slides:
-        - file: Submariner-ONIC2020-public-ja_ori.pdf
+        - link: https://drive.google.com/file/d/1oYj4AGQG-3PyAJBJCkXZH85VITNn9CP6/view
     - title: クラウドから｢エッジ｣へ
       time: "14:20"
       type: スポンサーセッション D1_3
@@ -65,7 +65,7 @@
         Intel® Scalable I/O Virtualizationなどこれからやってくるハードウェア
         実装の高速化技術に関する最新情報をお届けします。
       slides:
-        - file: ONIC.2020.DPDK_.dist_.pdf
+        - link: https://drive.google.com/file/d/1jvNSw4wlAwcLP30uqR8G0eS4QN0E1WLA/view
     - title: NFVの商用化の開発と運用の経験から将来のネットワークアーキテクチャを考える
       time: "15:40"
       type: 講演 D1_5
@@ -85,7 +85,7 @@
         通信事業者観点での将来のテレコムアプリケーションへの要件やこれらを具現化するための
         ネットワークアーキテクチャについて検討を進めてきました．本発表でこれらの概要や取り組みを紹介します．
       slides:
-        - file: ONIC-nakajima-docomo-ngna-r4.pdf
+        - link: https://drive.google.com/file/d/1dl0G8KMWd6sIEKfeapMi8APcdSaJgxm8/view
     - title: Horizontal NFV の実践と課題
       time: "16:20"
       type: スポンサーセッション D1_6
@@ -104,7 +104,7 @@
         Horizontal NFVの実現例をもとに、あらためてその課題を考察し、
         今後拡大が見込まれるコンテナ環境に向けても役立てるべく考察を広げてまいります。
       slides:
-        - file: onic2020-cisco-nfv.pdf
+        - link: https://drive.google.com/file/d/1xOEcDNMeYLyYWXsMKVLmqUf8TWqos_LE/view
     - title: A SDN FullStack for IXP with P4/OpenFlow
       time: "17:00"
       type: 講演 D1_7
@@ -146,7 +146,7 @@
         WiFi6とは何か？これまでの無線LAN規格と何が変わったのか？
         5Gやローカル5Gとの違いや想定されるユースケースを中心に、企業が無線LANインフラをWiFi6化するベネフィットをご紹介します。
       slides:
-        - file: HLP_ikeda.pdf
+        - link: https://drive.google.com/file/d/1V9xPzgVPF_IaH8RdQtq3NvjwYYNTvwvu/view
     - title: ローカル5Gの取組について
       time: "18:20"
       type: 講演 D1_9
@@ -195,9 +195,9 @@
         2020年は残念ながら Interop Tokyo は開催されませんでしたが、今回は今までの取り組みを振り返ることで、
         ShowNet でその年ごとに考えるネットワークのかたちと SDN の利用について、苦労話を交えながらご紹介します。
       slides:
-        - file: onic-japan-2020-ShowNet_part1.pdf
-        - file: onic-japan-2020-ShowNet_part2.pdf
-        - file: onic-japan-2020-ShowNet_part3.pdf
+        - link: https://drive.google.com/file/d/1Rz7EUtfpJZ-r2LxcIpv0NeKzB_uvNCsw/view
+        - link: https://drive.google.com/file/d/1ECFYFetPCxh51CjK94wXaL9j0O_q7dOc/view
+        - link: https://drive.google.com/file/d/1MJV7Hv6E-gJDDRyiVPQyb7uPa_phOJ8W/view
     - title: 5G コンテナ基盤の事例紹介
       time: "13:00"
       type: 講演 D2_2
@@ -209,7 +209,7 @@
       abstract: |-
         
       slides:
-        - file: ONIC-mibu-20201016.rev3_.pdf
+        - link: https://drive.google.com/file/d/1BnYSK7ccSPPwv_TBbo_KeMjSjU9UeulB/view
     - title: プロトコルの標準化について
       time: "13:40"
       type: 講演 D2_3
@@ -237,7 +237,7 @@
         幅広い環境（オンプレ、クラウド、ベアメタル、など）をサポートしています。
         本セッションでは、Antreaのアーキテクチャ、特徴、動作についてデモを交えながら解説をするとともに、今後のロードマップについて紹介をします。
       slides:
-        - file: ONIC-2020-Antrea-DL.pdf
+        - link: https://drive.google.com/file/d/1Psm4pBOOZWgjRYkDV-vkzLPWpJlh10Wq/view
     - title: ５Gへの期待とインターネットエンジニアの戸惑い
       time: "15:00"
       type: 講演 D2_5
@@ -249,7 +249,7 @@
       abstract: |-
         
       slides:
-        - file: ONIC2020Fall-osamu.pdf
+        - link: https://drive.google.com/file/d/1yFidZ8jGCsrJmjP8CfzypGD6k8nQHAjk/view
     - title: モバイルネットワーク機能のソフトウェア化、オープン化の取り組み
       time: "15:40"
       type: 講演 D2_6
@@ -264,6 +264,6 @@
         モバイルネットワーク機能のソフトウェア化の意義や、富士通のOAI(OpenAirInterface)の取り組みを 
         ご紹介するとともに、OAIコミュニティの5Gの取り組みやロードマップの共有をいたします。
       slides:
-        - file: ONIC2020_Akiyama.pdf
+        - link: https://drive.google.com/file/d/1Gi2Xh3M9fXGbeKve0kad6y42kR6Z8ZnL/view
     - title: 	終了
       time: "16:20"
