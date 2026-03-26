@@ -14,7 +14,7 @@
             国立研究開発法人情報通信研究機構　
             原 拓也
       slides:
-        - file: onic2019_hara.pdf
+        - link: https://drive.google.com/file/d/1X3IvK5_vX92Z94gV4NP8fW3ecZzP2tvb/view
     - title: Lagopus Router
       time: 18:30-19:00
       type: BoF
@@ -24,7 +24,7 @@
             NTT未来ねっと研究所　
             日比 智也
       slides:
-        - file: onic2019_hibi.pdf
+        - link: https://drive.google.com/file/d/1RNoLMIhMNJi-s0mtPIO0cybR9bod5Y23/view
     - title: オープンソース(SDN/NFV/P4)を活用したマルチアクセス・エッジ・プラットフォーム実現への取り組み
       time: 19:00-19:30
       type: BoF
@@ -34,7 +34,7 @@
             富士通株式会社
             藤井 宏行
       slides: 
-        - file: onic2019_fuji.pdf
+        - link: https://drive.google.com/file/d/10ecfkydH1wtalRLbaw2w7FkaeVAW7LN6/view
     - title: 休憩
       time: 19:30-19:40
     - title: P4 で設計できる インテルR FPGA カードと、vBNG にマッピングした最新応用事例とSRv6 実装に向けた取り組み紹介
@@ -46,7 +46,7 @@
             株式会社マクニカ
             清水 裕晶
       slides:
-        - file: onic2019_Shimizu.pdf
+        - link: https://drive.google.com/file/d/1Y1mrH4Wa5GbdvPxj14skEC3vt5wyIzWv/view
     - title: あなた好みの中継ルータ
       time: 20:10-20:40
       type: BoF
@@ -56,7 +56,7 @@
             古河ネットワークソリューション株式会社
             羽田野 文也
       slides: 
-        - file: onic2019_hatano.pdf
+        - link: https://drive.google.com/file/d/1a-Srz913ma6ZyNCkdJIAwvDGsmAFyq_v/view
     - title: 閉会
       time: "20:40"
 - date: November 1, 2019（本会議）
@@ -80,7 +80,7 @@
         （と思われる）ときに、1ネットワークエンジニアが考える方向性とネットワークの将来像を（なるべく）
         具体的にお話しします。
       slides: 
-        - file: onic2019_matsushima.pdf
+        - link: https://drive.google.com/file/d/1SntsNvFzpiPdUXbI2DvXBCiYMV75VUxs/view
     - title: 大規模NFV基盤の事例紹介
       time: 11:00-11:30
       type: 講演
@@ -90,7 +90,7 @@
             楽天モバイル株式会社
             壬生 亮太
       slides:
-        - file: onic2019_mibu.pdf
+        - link: https://drive.google.com/file/d/12GBrukbo3mA68OXF5Jhnd0auOjN2N4hz/view
     - title: ユーザによるセルフマネージ可能なネットワークサービス運用システムの事例
       time: 11:30-12:00
       type: 公演
@@ -106,7 +106,7 @@
         他システムからの連携を考慮に入れる必要があるためです。 
         本セッションでは我々が開発したWeb UIを例にシステム開発の事例を紹介します。
       slides: 
-        - file: onic2019_tajima.pdf
+        - link: https://drive.google.com/file/d/1AFsbdMCpa-OOeYvSzjhlUYQZ3-CVLI17/view
     - title: 休憩
       time: 12:00-13:30
     - title: NFV meets Container
@@ -126,7 +126,7 @@
         サポートが求められております。 
         本発表にてETSI NFVの標準化状況と近年の通信アプリケーションのトレンドとそれへの対応を紹介します。
       slides: 
-        - file: onic2019_-nakajima.pdf
+        - link: https://drive.google.com/file/d/13K61wiSAgHWbjYQ8B3T0nVd1-_t8egKV/view
     - title: 「データ中心アプローチ」 がシステムを救う
       time: 14:00-14:30
       type: 講演
@@ -142,7 +142,7 @@
         従来の方式から一足飛びにデータ中心アーキテクチャに移行するのは現実的で無いため，
         本セッションでは，データ中心アーキテクチャにシフトするアプローチ，技術条件や方式を検討する。
       slides: 
-        - file: ONIC2019_kono.pdf
+        - link: https://drive.google.com/file/d/1QHr7Rg4V34PWyZbJ_WXOTsf4YEMqKbpu/view
     - title: ソフトバンクの5Gへの取り組み
       time: 14:30-15:00
       type: 講演
@@ -172,7 +172,7 @@
         コントロールプレーンの実装例をご紹介します。 
         また、皆様の活動の参考になるよう、国内外におけるP4コミュニティの状況をご紹介します。
       slides: 
-        - file: onic2019_-ebisawa.pdf
+        - link: https://drive.google.com/file/d/15EI3mRcjWqKXx2eBuvkOZw4JeZodH5hp/view
     - title: サービスメッシュが注目される背景、課題と展望
       time: 15:45-16:15
       type: 講演
@@ -189,7 +189,7 @@
         本セッションでは、このようなサービスメッシュが必要とされる背景と今後の展望を概観し、
         VMwareが取り組むサービスメッシュソリューションの仕組みについてもご紹介します。
       slides: 
-        - file: ONIC2019-vm.pdf
+        - link: https://drive.google.com/file/d/1IkWSSq1C5mRcXbhoUVzQF80fu_SwX4sB/view
     - title: XDPの最新動向とLINEにおける取り組み事例
       time: 16:15-16:45
       type: 講演
@@ -223,7 +223,7 @@
         商用製品でもサポートされるようになってきました。
         本セッションでは、OVNの基本的な動きと、OpenStackやKubernetesとどのように連携するかについてご紹介します。
       slides: 
-        - file: ONIC2019_Manabu-Ori.pdf
+        - link: https://drive.google.com/file/d/1I-Dc24oue-BpIlaVn-cElV9k17DkAJGy/view
     - title: Community Engagement and Contribution
               ~ Leadership for ONAP Frankfurt Release ~
       time: 17:30-18:00
@@ -251,7 +251,7 @@
         富士通もLF Networkingに参加しており、本セッションではLF NetworkingのプロジェクトであるONAPに
         関するコミュニティ活動についてご紹介します。
       slides: 
-        - file: ONIC2019-Community-engagement-and-contribution.pdf
+        - link: https://drive.google.com/file/d/1Cya_dsWWyMdfdhm-57A8FXFmKhNrIQ2h/view
     - title:  Interop Tokyo 2019 ShowNetにおけるサービスチェイニング構築を通して見る、SRv6の実践的知見
       time: 18:00-18:30
       type: 講演
@@ -271,7 +271,7 @@
         本セッションでは、このサービスチェイニングの実現に至る過程で得た知見、新たに考案された技術、
         そしてSRv6に関する最新動向を解説します。
       slides: 
-        - file: ShowNet2019_ONIC.pdf
+        - link: https://drive.google.com/file/d/1Yu1yXAc6AQBiYCMAzNDQTnlZwij8bIOT/view
     - title: 閉会の挨拶
       time: 18:30-18:35
     - title: 懇親会 「関所茶屋」
