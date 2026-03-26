@@ -24,7 +24,7 @@
         本セッションでは、エッジコンピューティングとマルチアクセスに関する
         現時点における諸問題を捉え、アーキテクチャ可能性を議論します。
       slides:
-        - file: 049e18c790cbf6ae3707c1627d3b20d6.pdf
+        - link: https://drive.google.com/file/d/1a_ZqSjPt9dlTyy03HXZFF5TN4SYEHbpa/view
     - title: コンテナ基盤を利用したIoTサービス開発について
       time: 10:10-10:50
       type: スポンサーセッション1
@@ -39,7 +39,7 @@
         コンテナを利用したサービス開発やCI/CDの開発プロセスなどの取り組み、
         実際にIoTサービスを展開する上での課題や今後の展開についてご紹介します。
       slides:
-        - file: ONIC2021_nttc_s.pdf
+        - link: https://drive.google.com/file/d/1pDNGZwryVpQRODEkPl77DnmxJtji_5B8/view
     - title: 国際通信網の99％を担う海底ケーブル市場動向と当社事業のご紹介
       time: 10:50-11:30
       type: スポンサーセッション2
@@ -93,7 +93,7 @@
         急速な拡大への期待があります。本セッションでは、これら IP・光融合テクノロジ
         および自動化の最新トレンドを、メーカーの視点を超えて広く業界・市場の視点からご紹介します。
       slides:
-        - file: Cisco_ONIC2021.pdf
+        - link: https://drive.google.com/file/d/1_FJPixrc9uD7l4EVAUJcxkOImBkqtwYd/view
     - title: 休憩
       time: "14:20"
     - title: 新サービスインフラ構想におけるSONiCの活用
@@ -112,7 +112,7 @@
         使用するSONiCの機能および、これまで検証を進めてきたなかで見つかった問題について
         どのように調査・対応したかを紹介します。
       slides:
-        - file: ONIC-Japan-2021-IIJ-SONiC.pdf
+        - link: https://drive.google.com/file/d/1XLRux2ZdtyPzw3ksdVvxdaM0nsLiNRem/view
     - title: 遠隔合奏を実現するSYNCROOMとその技術
       time: 15:20-16:00
       type: 講演3
@@ -128,7 +128,7 @@
         SYNCROOMに至るまでの背景や活用事例、遠隔合奏を実現させるための要件や
         技術についてお話をしたいと思います。
       slides:
-        - file: ONIC2021_yamaha.pdf
+        - link: https://drive.google.com/file/d/1C0AifEwJjqvfqClCpVV7ke1V_fZ4q1T5/view
     - title: WebRTCによる低遅延ライブ配信について
       time: 16:00-16:40
       type: 講演4
@@ -145,7 +145,7 @@
         本発表では、WebRTCを用いたライブ配信の特徴や、大規模な低遅延ライブ配信を
         可能にするためのアーキテクチャについてご紹介します。
       slides:
-        - file: ONIC2021_WebRTC.pdf
+        - link: https://drive.google.com/file/d/12KRQ159wEsQceokaZnud_iLIamX4S3Jg/view
     - title: 休憩
       time: "16:40"
     - title: 5Gの今とこれから
