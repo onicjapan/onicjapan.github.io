@@ -18,7 +18,7 @@
 
         キーワード: **KubeVirt**, **Kubernetes**, **k8s**, **network**, **tunnel**
       slides:
-        - file: 2024_B_01_RedHat_Ori.pdf
+        - link: https://drive.google.com/file/d/1Aa1x3_qY9E4_rSZVP6yXkxU3HNM9P83R/view
     - title: 休憩
       time: "18:30"        
     - title: クラウドネイティブな新しいOSSのネットワークコントローラ『K-SOT』の３年間の進化と実用化に向けた取り組み
@@ -39,7 +39,7 @@
 
         キーワード: **K-SOT**, **Kubernetes**, **github**, **宣言的**, **NWコントローラー**
       slides:
-        - file: 2024_B_01_NTT_Communications_Corporation_Tatsuki_Sakai_Kohei_Tamesue.pdf
+        - link: https://drive.google.com/file/d/13fk7q8IxAnKmE8UEb_FZhPRVMJe-TyrR/view
     - title: 歓談
       time: "19:30"        
     - title: ONIC実行委員より, 明日の予習としての座学
@@ -56,7 +56,7 @@
 
         キーワード: **OT**, **セキュリティ**, **産業制御**, **ICS**
       slides:
-        - file: 2024_B_03_bof_hashiken.pdf
+        - link: https://drive.google.com/file/d/1EAeQszO3AtXQCBUrD8T0hIp-AvJZ5zFl/view
     - title: 閉会
       time: "20:30"
 - date: October 11, 2024 (本会議@メインホール)
@@ -83,7 +83,7 @@
 
         キーワード: **Starlink**, **低軌道衛星通信**, **フェーズドアレイアンテナ**, **Starlink購入ガイド**
       slides:
-        - file: 2024_S_01_IIJ-Taniguchi.pdf
+        - link: https://drive.google.com/file/d/12m7FiUTfonXDTTrHXSUVU_szOg_jbaj_/view
     - title: Outshift by Ciscoのご紹介
       time: "11:00"
       type: スポンサーセッション
@@ -98,7 +98,7 @@
 
         キーワード: **Outshift**, **Panoptica**, **量子ネットワーク**
       slides:
-        - file: 2024_S_2_Cisco_Systems_GK_Takahro_Ogura.pdf
+        - link: https://drive.google.com/file/d/1rlejiENAXRLPzzomTNUQvCNM6PQStZ1g/view
     - title: L5G/P5G on Hybrid Cloudの取り組み
       time: "11:30"
       type: 講演
@@ -117,7 +117,7 @@
 
         キーワード: **L5G**, **P5G**, **Hybrid Cloud**, **自動化**, **CI/CD**
       slides:
-        - file: 2024_S_3_NTT_Communications_Corporation_Yasuhiro_Fujita_Kengo_Naito.pdf
+        - link: https://drive.google.com/file/d/19yonWlnv0fwWHJ0OizOYX58ujk-oUqf9/view
     - title: 休憩
       time: "12:00"           
     - title: 工場に求められるセキュリティ「セキュア生産」の取組み
@@ -147,7 +147,7 @@
 
         キーワード: **DCI**, **Kubernetes**, **コントローラ**
       slides:
-        - file: 2024_S_5_Fujitsu_Limited_Kimihiko_Abe.pdf
+        - link: https://drive.google.com/file/d/10N_D9HhBkUe5j0b0yPcJZ8cB6tnskC7T/view
     - title: スマートビルに見るオープン化の取り組み　～BIM・ビルOS・デジタルツイン～
       time: "14:30"
       type: 講演
@@ -162,7 +162,7 @@
 
         キーワード: **OT**, **ビルコミ**, **BIM(Building Information Modeling)**, **配達ロボット**
       slides:
-        - file: 2024_S_06_Takenaka_Masai.pdf
+        - link: https://drive.google.com/file/d/1ShzJj54-wvuM9taJxkqGuSwWHO0dSy_s/view
     - title: 休憩
       time: "15:00"           
     - title: グリーンな計算資源を積極的に利用する取り組み
@@ -179,7 +179,7 @@
 
         キーワード: **トヨタ**, **省エネ**, **再エネ**, **グリーンエネルギー**, **電力**, **データセンタ**
       slides:
-        - file: 2024_S_07_toyota_abe.pdf
+        - link: https://drive.google.com/file/d/1SqSg9jRBeOFiyVmJuF37y9o-7JWtvrYM/view
     - title: 何故今時 TCP/IP スタックを新しく実装しようとするのか
       time: "16:00"
       type: スポンサーセッション
@@ -194,7 +194,7 @@
 
         キーワード: **tcp**, **ip**, **integratable**, **stack**, **実装**, **カーネル**, **性能**, **10Gbps**, **アプリ開発**, **便利**
       slides:
-        - file: 2024_S_08_IIJ_KeniciYasugata.pdf
+        - link: https://drive.google.com/file/d/1_fKUOfq4ibEUBC1vLCaZhBag8lud5Y5o/view
     - title: 休憩
       time: "16:30"           
     - title: （続）おとぎの国の DX
@@ -222,7 +222,7 @@
 
         キーワード: **OT**, **セキュリティ**, **ICS**, **産業制御**, **PLC**, **SCADA**, **DCS**
       slides:
-        - file: 2024_S_10_NTT_Communications_Corporation_Shingo_Kashima.pdf
+        - link: https://drive.google.com/file/d/1OY-ngUigTcZ8dMWP8EUHxhVXVQdWuRIj/view
     - title: Interop Tokyo 2024 ShowNetにおけるルーティング技術による多様なネットワーク環境の統合
       time: "18:00"
       type: 講演
@@ -237,7 +237,7 @@
 
         キーワード: **EVPN**, **VXLAN**, **衛星インターネット**, **SRv6**, **ShowNet**
       slides:
-        - file: 2024_S_11_s_shownet2024_malo.pdf
+        - link: https://drive.google.com/file/d/178G0kYxOx5IXdGMqxeBTRSM6i9Ja2dlq/view
     - title: 閉会の挨拶
       time: "18:30"
       presenters:

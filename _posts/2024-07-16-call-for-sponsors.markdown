@@ -3,8 +3,8 @@ layout: post
 title: Open NetworkIng Conference Japan 2024スポンサー募集
 description: ONIC 2024スポンサー募集
 date: 2024-07-16 16:00:00 +0900
-hero_image: /img/cytonn-photography-n95VMLxqM2I-unsplash.jpg
-image: /img/cytonn-photography-n95VMLxqM2I-unsplash.jpg
+hero_image: /archives/2024/img/cytonn-photography-n95VMLxqM2I-unsplash.jpg
+image: /archives/2024/img/cytonn-photography-n95VMLxqM2I-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
 ---

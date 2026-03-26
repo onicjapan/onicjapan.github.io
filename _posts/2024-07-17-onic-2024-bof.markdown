@@ -3,8 +3,8 @@ layout: post
 title: Open NetworkIng Conference Japan 2024 <br> 前夜のBoF募集
 description: BoF募集
 date: 2024-07-17 19:00:00 +0900
-hero_image: /img/joao-cruz-IkEpl3JkVqU-unsplash.jpg
-image: /img/joao-cruz-IkEpl3JkVqU-unsplash.jpg
+hero_image: /archives/2024/img/joao-cruz-IkEpl3JkVqU-unsplash.jpg
+image: /archives/2024/img/joao-cruz-IkEpl3JkVqU-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
 ---

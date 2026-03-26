@@ -3,8 +3,8 @@ layout: post
 title: Open NetworkIng Conference Japan 2024 閉会のお知らせ
 description: 公開可能な資料が全て揃い、無事 ONIC 2024 が終了しました
 date: 2024-11-12 13:00:00 +0900
-hero_image: /img/artem-beliaikin-EoY2OIeiU1c-unsplash.jpg
-image: /img/artem-beliaikin-EoY2OIeiU1c-unsplash.jpg
+hero_image: /archives/2024/img/artem-beliaikin-EoY2OIeiU1c-unsplash.jpg
+image: /archives/2024/img/artem-beliaikin-EoY2OIeiU1c-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
 ---

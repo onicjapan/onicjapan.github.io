@@ -3,8 +3,8 @@ layout: post
 title: Open NetworkIng Conference Japan 2024 <br> BoF・本会議 参加登録のご案内
 description: BoF・本会議 参加登録のご案内
 date: 2024-07-17 19:10:00 +0900
-hero_image: /img/andrei-stratu-kcJsQ3PJrYU-unsplash.jpg
-image: /img/andrei-stratu-kcJsQ3PJrYU-unsplash.jpg
+hero_image: /archives/2024/img/andrei-stratu-kcJsQ3PJrYU-unsplash.jpg
+image: /archives/2024/img/andrei-stratu-kcJsQ3PJrYU-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
 ---
