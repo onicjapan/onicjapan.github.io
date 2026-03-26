@@ -23,7 +23,7 @@
         セキュリティにとってのOpen Networking、 またOpen 
         Networkingにとってのセキュリティについてお話しします。
       slides:
-        - file: 2022_OpenNetworking.pdf
+        - link: https://drive.google.com/file/d/1NGiOKl91f4n8te4sH6Bhda3YVMKUYPSq/view
     - title: Routing Platformのオープン化への取り組み
       time: 11:00-11:30
       type: スポンサーセッション
@@ -39,7 +39,7 @@
         Platformの動向やAPIを用いたRouting制御に関するCiscoの
         取り組みについて紹介したいと思います。
       slides:
-        - file: 2022_Routing-Platform.pdf
+        - link: https://drive.google.com/file/d/19uQ-IVRudKfWd4J8WjDfyE0pdltTxl8z/view
     - title: 政府の DX を支える IT 基盤のあり方(みたいな)
       time: 11:30-12:00
       type: 講演
@@ -81,7 +81,7 @@
         様と富士通の取り組み～技術紹介、ソフトウエア開発や実
         証～そしてLF EdgeでのOSS化についてお話しします。 
       slides:
-        - file: 2022_fujitsu.pdf
+        - link: https://drive.google.com/file/d/1OfiPZ9Q2WPRlVx0pR21PLVz8FnMjNP2z/view
     - title: お昼休憩
     - title: Trusted Webとデータセキュリティ関連動向
       time: 13:30-14:00
@@ -147,8 +147,8 @@
         本講演では、サービスメッシュの実装における課題、CNIとの関係を
         概観し、クラウドネイティヴアーキテクチャのあり方に迫ります。
       slides:
-        - file: 2022_Service-Mesh.pdf
-        - file: 2022_Service-Mesh2.pdf
+        - link: https://drive.google.com/file/d/1Nr6Zfcqh1NNNsixDizNtin_WIL_P1gv5/view
+        - link: https://drive.google.com/file/d/1lGUChXgvsKfCEawlCZiVglxnUL2alJmR/view
     - title: 休憩
       time: 15:00-15:10
     - title: 〜IOWNの最新？技術トレンド〜
@@ -185,7 +185,7 @@
         ド、CNCF技術を用いて開発した新しいネットワークコントロー
         ラについて紹介します。
       slides:
-        - file: 2022_Cloud_Native.pdf
+        - link: https://drive.google.com/file/d/1Csg555FAEaK8DbwFNjj-Co52XtPoi56b/view
     - title: The Network as a Programmable Platform
       time: 16:10-16:40
       type: 講演
@@ -213,7 +213,7 @@
 
         英語でのご講演となります。通訳は入りません。
       slides:
-        - file: 2022_AETHER-Open-5G-Connected-Edge-Cloud.pdf
+        - link: https://drive.google.com/file/d/1bMUT3SjzIUSBg6Mei5ObjKzkN6tRrZm5/view
     - title: 休憩（コーヒータイム）
       time: 16:40-17:10
     - title: AWS/AzureのHybridCloud製品によるエッジコンピューティング
@@ -243,7 +243,7 @@
         ピューティングのユースケースや各社の機能面を比較した結果
         を紹介します。 
       slides:
-        - file: 2022_-AWS_Azure.pdf
+        - link: https://drive.google.com/file/d/1FmnnSrj5sNrhG0G9N6QmV2GERSoQHMT-/view
     - title: Network as Code 自動化のこれから
       time: 17:40-18:10
       type: 講演
@@ -264,7 +264,7 @@
         Network 分野における IaC の話をさせていただければと思
         います。
       slides:
-        - file: 2022_Network-as-Code.pdf
+        - link: https://drive.google.com/file/d/1tkzCYQFiATPzdp5cta0LXHOpMVAYQqjN/view
     - title: Introduction to Cilium from Telco and On-premise Perspective
       time: 18:10-18:40
       type: 講演
@@ -284,7 +284,7 @@
         プレの切り口でCiliumを解説するとともに、今後のロードマッ
         プ、CiliumとSDNの意外な関わりなどに関してお話しします。
       slides:
-        - file: 2022_Introduction-to-Cilium-from-Telco-and-On-premise-Perspective.pdf
+        - link: https://drive.google.com/file/d/1qbxMy70Kk-1EiZrlVbgzqFyLCtI5z6bM/view
     - title: SRv6@ShowNet 2022とプログラマビリティ
       time: 18:40-19:10
       type: 講演
@@ -312,7 +312,7 @@
         SRv6と、ネットワークにおけるプログラマビリティについて
         ShowNetでの10年間にわたる奮闘を交えて議論します。
       slides:
-        - file: 2022_shownet.pdf
+        - link: https://drive.google.com/file/d/17yJ6rILeiSADmb5oOBHc15YyzX0h2CQ2/view
     - title: 閉会宣言
       time: 19:10-
       presenters:
