@@ -23,7 +23,7 @@
         ム開発に挑戦しています。開発関連技術の紹介と
         今後の展望を議論します。
       slides:
-        - file: 2023_User-Friendly-Service-Design-with-Edge.pdf
+        - link: https://drive.google.com/file/d/13QP7Y9r1V5ligyBNxVHwDq3G6VQGpFIG/view
     - title: 沖縄におけるエッジコンピューティング活用の可能性
       time: "18:30"
       type: BoF
@@ -44,7 +44,7 @@
         に、地域ニーズに応えるICTインフラ構築の道筋を明
         らかにしていくことを目指します。
       slides:
-        - file: 2023_EdgeComputing-in-Okinawa.pdf
+        - link: https://drive.google.com/file/d/1nqIt4BZRjaE6PTw6-ZBIseFayuQnuDyY/view?
     - title: 休憩
       time: "19:00"
     - title: クラウドネイティブな新しいOSSのネットワークコントローラ「Kuesta」の概要と実用化に向けた取り組み
@@ -65,7 +65,7 @@
         が管理するデータとネットワークデバイスとの一貫
         性担保機能等)で得た知見について紹介をする。
       slides:
-        - file: 2023_CloudNative-NW-Controller-Kuesta.pdf
+        - link: https://drive.google.com/file/d/1BfpZe7ldRRazca_Qg2LorDJzcgN517rW/view
     - title: ネットワーク屋がコンテナスキルを身につけたいと考えたとき
       time: "20:00"
       type: BoF
@@ -81,7 +81,7 @@
         バイスをいただければと考えています。なお，コンテナの長所等々
         の説明は割愛します。
       slides:
-        - file: 2023_BoF-kanaumi.pdf
+        - link: https://drive.google.com/file/d/1hbtqEjZxVLrPwkhMBWv6ssu5Vtg70C8T/view
     - title: 閉会
       time: "20:30"
 - date: November 10, 2023 (@メインホール)
@@ -113,7 +113,7 @@
         問題は解決されるのでしょうか。この講演では、Web3 を支
         えるとされる技術の現実を露わにします。
       slides:
-        - file: 2023_Web3.pdf
+        - link: https://drive.google.com/file/d/1wFJaV4cysXR95XNNL8kTDu4u7YFo83EO/view
     - title: SP Network as a Serviceに対するCiscoの取り組み
       time: "10:50-11:20"
       type: スポンサーセッション
@@ -137,7 +137,7 @@
         Platformの考え方や、NaaSにおいてSPが果たすべき役割など、
         NaaSに対するシスコのアプローチについて紹介します。
       slides:
-        - file: 2023_SPNaaS.pdf
+        - link: https://drive.google.com/file/d/1Vl7WPn5KjqGoA_8WVJb5V6C-G41hPDjo/view
     - title: コネクティッドカーとエッジコンピューティングによるグリーンモビリティへの挑戦
       time: "11:20-11:50"
       type: 講演
@@ -166,7 +166,7 @@
         処理と組み合わせたグリーンモビリティを効率的に実現する
         試みについて述べる。
       slides:
-        - file: 2023_Green-Mobility.pdf
+        - link: https://drive.google.com/file/d/1Djb5jFHka1ux3mm3l0AyW5UjdoJLOZDl/view
     - title: 休憩
       time: "11:50-13:00"
     - title: データ駆動社会の実現に向けて
@@ -186,7 +186,7 @@
         多い。講演ではこうした問題点について展望し、今後の在り
         方について考える。
       slides:
-        - file: 2023_Data-Driven-Society.pdf
+        - link: https://drive.google.com/file/d/1ifrOJt22yaZg7ew8aBFHpPBuVfPc3BXy/view
     - title: 6G時代のネットワーク・コンピューティングインフラ実現に向けた取り組み
       time: "13:30-14:00"
       type: スポンサーセッション
@@ -208,7 +208,7 @@
         に向けた取り組み、また、オープンコミュニティでの活動
         について紹介いたします。
       slides:
-        - file: 2023_Network-Infrastructure-in-6G-era.pdf
+        - link: https://drive.google.com/file/d/1oGNHDQw28rX4F7_duoW-sMohU6m9n1Ah/view
     - title: DNSの進化と研究開発での取り組みについて
       time: "14:00-14:30"
       type: スポンサーセッション
@@ -227,7 +227,7 @@
         も実験および検証を行ないやすくするための、DNSライブラリ
         やDNSフルリゾルバの研究開発実装について紹介します。
       slides:
-        - file: 2023_DNS.pdf
+        - link: https://drive.google.com/file/d/1vy_SEzzzgkO3iV6bF4KbecztCMjSMpQe/view
     - title: データドリブン経営を⽬指すNTT Comの社内DXの取り組み
       time: "14:30-15:00"
       type: 講演
@@ -243,7 +243,7 @@
         タ分析チームが協力して行った。データ分析のプロセスに添い、
         データ基盤を駆使して分析を行った当時の模様を振り返る。
       slides:
-        - file: 2023_Data-Driven-Management-by-NTTCom.pdf
+        - link: https://drive.google.com/file/d/181V8-y21tRZ6IkUu9OkK6aoRP-CmngOU/view
     - title: 休憩
       time: "15:00-15:15"        
     - title: A 12-year journey developing breakthrough AI products for Networking
@@ -278,8 +278,8 @@
         キングのためのML/AI詳細に関しては、こちらをご参照ください
         [www.jpvasseur.me](https://www.jpvasseur.me)
       slides:
-        - file: 2023_AI-Networking-Intro.pdf
-        - file: 2023_AI-Networking.pdf
+        - link: https://drive.google.com/file/d/1OhxJBwpTOzN2vskEzJNNOWmWvtCizqkf/view
+        - link: https://drive.google.com/file/d/1TAz_hMNt9nxwBVs0Z9z8LepJNH9p63mO/view
     - title: コンテナ基盤を活用したIoTサービスとeSIMアプレット連携の取り組みについて
       time: "15:45-16:15"
       type: スポンサーセッション
@@ -305,7 +305,7 @@
         トの機能を活用したモバイル関連データの連携の取
         り組みに関してご紹介します。
       slides:
-        - file: 2023_IoT-Service-and-eSIM-Applet.pdf
+        - link: https://drive.google.com/file/d/1F0WqwXUptxUinpe27lMbfvVehpvUSTSV/view
     - title: SONiC + ホワイトボックススイッチで実現するEVPN/VXLANロスレスイーサ
       time: "16:15-16:45"
       type: スポンサーセッション
@@ -322,7 +322,7 @@
         とホワイトボックススイッチにて構築したEVPN/VXLANネットワ
         ークにてRoCEv2を検証した結果をご紹介します。
       slides:
-        - file: 2023_Lossless-Ethternet.pdf
+        - link: https://drive.google.com/file/d/1hg2lLu-WafKWpSbNQDX7DhrZB_IUH5zs/view
     - title: Interop Tokyo 2023 ShowNetのVPNベースバックボーン
       time: "16:45-17:15"
       type: 講演
@@ -343,7 +343,7 @@
         その設計、実運用を通して得た知見、そして課題について紹介
         します。
       slides:
-        - file: 2023_Shownet-2023.pdf
+        - link: https://drive.google.com/file/d/1L0hQBNFHDvBLD7ajeRi02cmFjnBkfLi3/view
     - title: 休憩
       time: "17:15-17:30"
     - title: AIは、ネットワークエンジニアのタスクを代替できるのか？ ネットワークエンジニアリングの未来を探る！
@@ -377,7 +377,7 @@
         する未来で、ネットワークの効率、セキュリティ、および
         信頼性を最大化するためのディスカッションを行います。
       slides:
-        - file: 2023_AI-and-Network-Engineer.pdf
+        - link: https://drive.google.com/file/d/17pGw5rvvwGob0avNbCcTkIMMKVGhlP6-/view
     - title: 閉会の挨拶
       time: "18:30-"
       presenters:
