@@ -38,7 +38,7 @@
         いる、マルチテナントに対応する仮想ネットワークのアーキテクチャや方式
         について解説します。
       slides:
-        - file: 0918_02alc.pdf
+        - link: https://drive.google.com/file/d/1Nw_KgXKhEGoGSjBxp6mgC-r1KAvgwPHK/view
     - title: NFV ネットワーク機能の仮想化の目指す世界
       time: 13:20-13:50
       type: 講演
@@ -54,7 +54,7 @@
         の仮想化における要求条件の議論が始まっており、NFVというキーワードを耳に
         する機会も増えた。本発表ではNFVの目指す世界を、SDNとの関連と共に述べる。
       slides:
-        - file: 0918_03ntt.pdf
+        - link: https://drive.google.com/file/d/1maTUrKmgGssFOHSC_QeEJNZPEbXBvPO0/view
     - title: SDN市場とONFの役割
       time: 13:50-14:20
       type: 講演
@@ -68,7 +68,7 @@
         ような形で講演できればと思っています。SDNの概要、歴史、ONFの役割と各WG/DG
         のタスクとそのアップデートなどを解説します。
       slides:
-        - file: 0918_04onf.pdf
+        - link: https://drive.google.com/file/d/1vvBKDqcurHo_NEtJhtP0VdV-JlNaZ6gJ/view
     - title: 休憩
       time: 14:20-14:30
     - title: SDNで加速する、日本HPのネットワークへの取り組みと将来
@@ -84,7 +84,7 @@
         ついてご案内します。具体的なSDNのユースケースや、発売予定のSDN Controller
         およびSDN ReadyなHardwareについても先行してご紹介する予定です。
       slides:
-        - file: 0918_05hp.pdf
+        - link: https://drive.google.com/file/d/1CaTNig2ywokx6qer_GsLckp4ABoMnfaE/view
     - title: 休憩
       time: 15:00-15:05
     - title: ネットワーク機能の仮想化とサービスチェイニング
@@ -100,7 +100,7 @@
         ネットワークを、SDNコントローラーによって連携させるサービスチェイニングの技術
         についてご紹介します。
       slides:
-        - file: 0918_06juniper.pdf
+        - link: https://drive.google.com/file/d/1WmJVZv1f6tjv4WSAKgQXBiIxKu6pyfpC/view
     - title: 休憩
       time: 15:35-15:45
     - title: OSSだけで実装する仮想ネットワークの全て
@@ -140,7 +140,7 @@
         Segment RoutingというInnovationによる、Path/Flow programmability進化の
         かたちを探ります。
       slides:
-        - file: 0918_08cisco2.pdf
+        - link: https://drive.google.com/file/d/1mt7qeCQg4VoNSEwLmjv-GtpO1afkn5KW/view
     - title: INTEROP Tokyo 2013 ShowNetにおけるSDNの実際
       time: 16:45-17:15
       type: 講演
@@ -158,8 +158,8 @@
         本発表では、それぞれのデザインや設計から構築、運用にいたるまで、ShowNetで構築
         したSDNの詳細について発表いたします。
       slides:
-        - file: 0918_09noc-1.pdf
-        - file: 0918_09noc-2.pdf
+        - link: https://drive.google.com/file/d/1obX5EUJwyyMzFc-JrsFFCsHGKy0eR4pV/view
+        - link: https://drive.google.com/file/d/1o64n_1OCn1Uysmfi-nKaJABQk-SKVXZ7/view
     - title: OpenDaylightはどこへ向かうのか
       time: 17:25-18:40
       type: パネルディスカッション
@@ -202,7 +202,7 @@
             株式会社日立製作所<br />
             青山 健一
       slides:
-        - file: 0919_01hitachi.pdf
+        - link: https://drive.google.com/file/d/1TfeIa22D7Id2H35sk9RPaBfwnVRDE2Qa/view
     - title: 沖縄県の情報通信関連産業振興について<br />
              ～おきなわSmartHub構想実現に向けて～
       time: 9:40-10:10
@@ -246,7 +246,7 @@
         フォームに縛られないオープンな環境に対応し、大規模なDC/Cloudに対応可能な
         ソリューションを実現するかを解説します。
       slides:
-        - file: 0919_04alc.pdf
+        - link: https://drive.google.com/file/d/1ogBLxF3xtwvhUnZAzWKc03_Io8eBPi0B/view
     - title: 休憩
       time: 11:25-11:30
     - title: シトリックスが考えるSDNソリューションとは
@@ -266,7 +266,7 @@
         的なソリューションです。<br />
         そんなシトリックスのSDNソリューションについて解説します。
       slides:
-        - file: 0919_05citrix.pdf
+        - link: https://drive.google.com/file/d/1lQbXdnPwrATWShYNpESKPrQq8MmUmqfV/view
     - title: 午後休憩
       time: 12:00-13:00
     - title: ストラトスフィアのNaaS実現に向けた展望
@@ -287,7 +287,7 @@
         NaaS(Network as a Service)が実現される。本セッションではＳＤＮによ
         るＮａａＳ実現に向けたストラトスフィアの取り組みについて紹介する。
       slides:
-        - file: 0919_06stratosphere.pdf
+        - link: https://drive.google.com/file/d/1tHsKkUJHd29_oEfT0sr2uL0OGtwdBtEl/view
     - title: 休憩
       time: 13:30-13:35
     - title: マルチレ イヤ、マルチネットワークの公衆キャリア網へ向けた SDN技術の研究開発
@@ -311,7 +311,7 @@
         エヌ・ティ・ティ・コミュニケーションズ株式会社、富士通株式会社、株式会社日立製作所の
         ５社共同によるプロジェクトである。
       slides:
-        - file: 0919_08nec.pdf
+        - link: https://drive.google.com/file/d/1L3RMEnA3nY3_hOUXXtesktn0ekYmla8a/view
     - title: 休憩
       time: 14:05-14:15
     - title: 来賓挨拶
@@ -362,15 +362,13 @@
         に求められる機能、これからの IX のあるべき姿に関しての議論を行い、SDN IX の実態と
         存在意義を明確にします。
       slides:
-        - file: 0919_09sekiya.pdf
-        - file: 0919_09sakura.pdf
-        - file: 0919_09bbt.pdf
-        - file: 0919_09data.pdf
-        - file: 0919_09iij.pdf
-        - file: 0919_09loppy.pdf
-        - file: 0919_09mf.pdf
-        - file: 0919_09mixi.pdf
-        - file: 0919_09nishino.pdf
+        - link: https://drive.google.com/file/d/1D8rHcU2Umt1rHMjah9001REObFDzetx4/view
+        - link: https://drive.google.com/file/d/1avmXLPiBbGav40g96vwfjSVdDRYrJt7-/view
+        - link: https://drive.google.com/file/d/1dVcx1GAJoGmWAAI7F_62nlAs9GP4OCXh/view
+        - link: https://drive.google.com/file/d/1fOp0VXE5vCINZ0OqyWrAkzS_PsYyt9tS/view
+        - link: https://drive.google.com/file/d/1tu68TS95tT6velJFRFVnTwTrJQ1COL01/view
+        - link: https://drive.google.com/file/d/1-0lh97cTI5GFQNjwgW8d9qLCXFLg84aq/view
+        - link: https://drive.google.com/file/d/1utwL4HHMx3wH67Q_XV2_VI13SlLzwfin/view
     - title: 休憩
       time: 15:20-15:30
     - title: 「SDNが提供すべきはConnectionか、Functionか」～ PLUMgridに見る新感覚SDNソルーション ～
@@ -388,6 +386,9 @@
         るとされている。 現状、なぜクラウド事業者やホスティング事業者はSDNの導入に興味を
         示さないのか？その一つの解として提案されるネットワーク機能を物理ネットワークから
         デカップリングする事の意味と目的、そして具体的な実装について議論する。
+      slides:
+        - link: https://drive.google.com/file/d/1Mpm8qmzM_YD6EFAGWva7YpPMobH5KY-E/view
+
     - title: OpenStack、CloudStackの歴史・進化とSDN対応
       time: 16:00-16:30
       type: 講演
@@ -420,8 +421,7 @@
         でスケーラブルなネットワークをお客様に提供して いくか、また、いかにお客様にネットワーク
         のレイヤーを意識させずにご利用 いただくかといった観点で、最適なデータセンターネットワーク
         の設計について お話しいたします。
-      slides:
-        - file: 0919_08nec.pdf
+
     - title: 休憩
       time: 17:00-17:25
     - title: キャリアNWの開発や運用の現場から見たSDN/OpenFlowへの期待と課題
@@ -439,7 +439,7 @@
         ただきます。さらに、今後の開発/運用にあたってのSDN/OpenFlowへのさらなる期待について
         お話したいと考えています。
       slides:
-        - file: 0919_12NTTCom.pdf
+        - link: https://drive.google.com/file/d/1Bhewz3c1SZuZLtclfEQQvktSRN_Ejz-s/view
     - title: OpenFlow Switch (OFS)などのSDN装置開発の経験から見たSDN運用の課題と効用
       time: 17:55-18:25
       type: 講演
@@ -454,7 +454,7 @@
          (OFS)の開発が進み、SDN運用の課題が見えて来ました。本発表では、SDN運用の課題に
          ついて紹介し、SDNの効用を考えていきます。
       slides:
-        - file: 0919_13bosco.pdf
+        - link: https://drive.google.com/file/d/1KgJF4fZK5Ppi732uTbbS-19NBHN5_BpB/view
     - title: 懇親会
       time: 18:45-  
 - date: September 20, 2013
@@ -485,7 +485,7 @@
             ON.Lab, ONRC and Stanford University<br />
             Guru Parulkar
       slides:
-        - file: 0920_02Guru.pdf         
+        - link: https://drive.google.com/file/d/1tbimtNeTdaCzAwtzKKAyL1kiIYuHoEpS/view
     - title: 休憩
       time: 10:10-10:20
     - title: 「SDN with Network White Boxes<br />
@@ -515,7 +515,7 @@
         http://www.FlowForwarding.orgからご確認できます。LINCとFlowforwarding.org
         の活動が、SDNの大きなポテンシャルを理解するためのステップとなれればと考えています。
       slides:
-        - file: 0920_03infoblox.pdf
+        - link: https://drive.google.com/file/d/1Od65Fu4ViyfsR4ZRHhCSLixMyTt1g1UG/view
     - title: 休憩
       time: 10:50-10:55   
     - title: "SoftCOM: Ushering SDN and NFV into the Carrier Network"
@@ -545,7 +545,7 @@
         - The key role of automated operations intelligence in multi-layer SDN:resource optimization & service monetization<br />
         - Putting it all together: making it work, what becomes possible
       slides:
-        - file: 0920_05ciane.pdf
+        - link: https://drive.google.com/file/d/13ETdir_t03bJOMS611p2CU7ALlanCGx9/view
     - title: 午後休憩
       time: 12:00-12:50
     - title: SDNを作る側と使う側
@@ -574,12 +574,13 @@
             レッドハット株式会社<br />
             中井 悦司
       slides:
-        - file: 0920_06panel2.pdf
-        - file: 0920_06panel2arista.pdf
-        - file: 0920_06panel2necpdf
-        - file: 0920_06panel2ntt.pdf
-        - file: 0920_06panel2redhat.pdf
-        - file: 0920_06panel2vmw.pdf
+        - link: https://drive.google.com/file/d/1WKH3a1Qren8LUAln_XD6kBjbd4WpMlL2/view
+        - link: https://drive.google.com/file/d/15qC1FGQUkWXb1smmmXg8nXg_1S0cUJSQ/view
+        - link: https://drive.google.com/file/d/1OZlV4mPeC-1WjOVeUQZzjM2f8RrtxVHr/view
+        - link: https://drive.google.com/file/d/1p6kGmGZZZctOiLFY-MuJLoORiTXmzUQF/view
+        - link: https://drive.google.com/file/d/1vhCy_pzxOwkR7YF5cecKDqLTyaHz_Wny/view
+        - link: https://drive.google.com/file/d/1HWwepaRfByIMlkeNBxVqg4NzllcpvuZ-/view
+        - link: https://drive.google.com/file/d/1fFc0_m6N1cOaYL3_2_2CBocS56qu5ZEt/view
     - title: 休憩
       time: 14:10-14:20
     - title: SDNとBare Metal Switchはピーナッツバターとジャムのように相性が良い
@@ -673,7 +674,7 @@
         ビリティワーキンググループの議長を務めるイクシアのSDN/OpenFlowに対する取り組みも併せ
         てご説明させて頂きます。
       slides:
-        - file: 0920_11ixia.pdf
+        - link: https://drive.google.com/file/d/1ANRrp2b5dZ4KpoGWBbyVvrM3kLc6hH0T/view
     - title: 休憩
       time: 17:30-17:40
     - title: SDNが拓く未来のICT環境とは
