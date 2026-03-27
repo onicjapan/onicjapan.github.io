@@ -26,7 +26,7 @@
         積極的に行っております。<br/>本講演では、NTTコミュニケーションズにおけるOpenNetworkingの
         取組みとして、 OSSを活用した技術開発動向や人材育成についてお話しします。
       slides:
-        - file: keynote.pdf
+        - link: https://drive.google.com/file/d/1akYJAD6iW82mdrTg5Ll2llAGVYydQMmm/view
 
     - title: テレコムネットワークの仮想化：ETSI NFVからOPNFVまで
       time: 10:00-10:30
@@ -138,7 +138,7 @@
         BGP実装も利用用途が広がるにつれ、同様のニーズが高まっており、 そのようなニーズ
         を満たすためNTTソフトウェアイノベーションセンタではGoBGPの開 発に取り組んでいます。
       slides:
-        - file: f06.pdf
+        - link: https://drive.google.com/file/d/1rBFaK_cAkHhgmPNEfgr5IYCM9EOR7EH6/view
 
     - title: Zebra 2.0 – SDN, NFV, Container時代のNetworking Softwareの設計と実装
       time: 14:10-14:40
@@ -183,13 +183,13 @@
         この注目されているSDWANについて、有識者を一堂に集め、対象、技術、マイグレー
         ションな側面から深掘りしていきます。
       slides:
-        - file: f08.pdf
-        - file: f08_2.pdf
-        - file: f08_3.pdf
-        - file: f08_4.pdf
-        - file: f08_5.pdf
-        - file: f08_6.pdf
-        - file: f08_7.pdf
+        - link: https://drive.google.com/file/d/154BfLwTCau6S-tYJrIQhT_WCJyBp7_7t/view
+        - link: https://drive.google.com/file/d/1sjoXBDm2lC4IcFKY2ZBzMkRAfsxXuAD5/view
+        - link: https://drive.google.com/file/d/1Reo9N-v4yt22l8Zdee8O7B8h_LDWObs1/view
+        - link: https://drive.google.com/file/d/1J1nWyDMaYyuAWlZKtPGYYSXbN4zilnJP/view
+        - link: https://drive.google.com/file/d/11m_SVK0_bi203sLlWTTHj9q6U_tPwxW2/view
+        - link: https://drive.google.com/file/d/1yZGfGuDVkEvKkImXWUcZM_YYrvmXu0-5/view
+        - link: https://drive.google.com/file/d/13-T0lV8Fyujm3v9UJB4hlxOf1kFx--Vo/view
 
     - title: 技術の適材適所でつくるSDN/NFV@ShowNet 2016
       time: 17:10-17:40
@@ -203,7 +203,7 @@
       abstract: |-
         毎年6月に開催されるInterop Tokyoでは、世界最大のデモンストレーションネッ トワークであるShowNetの構築を行っています。ShowNetでは、2012年から、実 トラフィックの流れるライブネットワークへのSDNの適用に継続してチャレンジ してきました。2016年は、バックボーンネットワークとNFVの融合を目指して、 より柔軟にトラフィックを制御できるネットワークを構築しました。また、 NFVの要であるNetwork Functionの進化、高速なソフトウェアパケット転送技術 を用いたVNFのデモンストレーションを実施しました。本発表では、ShowNetに おいて構築されたNFVについて、バックボーンの設計からソフトウェアパケット 転送技術、さらにはFPGAの利用まで、その詳細にわたってお話しいたします。
       slides:
-        - file: f09.pdf
+        - link: https://drive.google.com/file/d/1bHuuD02KFP7vO-nOYjF-QeHtlOXcXVYW/view
 
     - title: サイバーエージェントにおけるOpen Networkingへの取り組み
       time: 16:45-17:15
@@ -216,7 +216,7 @@
       abstract: |-
         サイバーエージェントのアドテク本部ではオープンソースの活用が進んでおり、サーバーだけではなくネットワークの分野においてもオープンソースを積極的に採用しています。本セッションではネットワークとオープンをキーワードにサイバーエージェントアドテク本部の取り組みを紹介します。
       slides:
-        - file: f10.pdf
+        - link: https://drive.google.com/file/d/1ckWPytMmfpNifov5JOVT6aREeOB1ZiJc/view
 
     - title: CORD(Central Office Re-architected as a Datacenter) とONOSアップデート
       time: 18:10-18:40
@@ -233,7 +233,7 @@
         独立するまでの経緯と、CORDが解決を目指している課題とその効果についてご紹介いたします。<br>
         また、ONOSの最新状況についても併せてお話しいたします。
       slides:
-        - file: f11.pdf
+        - link: https://drive.google.com/file/d/1TjNldSv1ZUNMkwdNe5seduqAIDIRZ02b/view
 
     - title: 閉会の挨拶
       time: 18:40-
