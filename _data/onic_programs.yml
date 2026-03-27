@@ -21,7 +21,7 @@
         ついて、具体的な事例を交えながら詳しくご紹介します。最後に継続的にサービスを
         提供するうえでのOpen Networking技術のメリットと課題についても言及する予定です。
       slides:
-        - file: NTTpc.pdf
+        - link: https://drive.google.com/file/d/1298-2RhnIhtME4hTPzp9F2TKDsKHJFtb/view
     - title: 愉快なソフトウェアネットワーキング
       time: 10:30-11:00
       type: 講演
@@ -38,7 +38,7 @@
         なっています。このようなソフトウェアネットワーキングの時代における サービス
         インフラ構築についてその課題と展望を紹介します。
       slides:
-        - file: ysekiya.pdf
+        - link: https://drive.google.com/file/d/1SODDTagk5iavHPDnEUtPOH13GYSkF3cF/view
     - title: 休憩
       time: 11:00-11:15
     - title: Transport SDN in disaggregated networks
@@ -59,7 +59,7 @@
         とオープンソースのSDNコントローラの導入をターゲットとした技術開発を進めており、
         本セッションではその課題と取り組みについてご紹介します。
       slides:
-        - file: NTTCom.pdf
+        - link: https://drive.google.com/file/d/18pAGWQeaIHmLXt5Vd8SsL1Tcu6JvuEPL/view
     - title: TIP における光伝送装置の標準化動向
       time: 11:45-12:15
       type: 講演
@@ -76,7 +76,7 @@
         本講演では、TIP の中でも、光伝送装置のオープン化を議論しているOpen Optical 
         Packet Transport プロジェクトグループの活動について紹介します。
       slides:
-        - file: NEC.pdf
+        - link: https://drive.google.com/file/d/1vGtsXSQfY28ltUh8xXb8I9UgWqY7Un06/view
     - title: お昼休憩
       time: 12:15-13:30
     - title: プログラマブル・データプレーン時代に向けたネットワーク・オペレーション・スタック
@@ -96,7 +96,7 @@
         データプレーンが利用される時代に求められるネットワーク・オペレーション・スタック
         の実装例として「PontOS/Zebra2」を紹介します。
       slides:
-        - file: ONIC2017-KentaroEbisawa-PontoNetworks.pdf
+        - link: https://drive.google.com/file/d/1bnzyWPuxyUu6ezQvPJW-SPrhKIeaZDTp/view
     - title: SD-WAN/DC統合ソリューション Nuageで何ができるのか？
       time: 14:00-14:30
       type: スポンサーセッション
@@ -114,7 +114,7 @@
         本セッションではSD-WAN向けのサービスポータルやVNF連携、SD-DC向けのコンテナ連携や
         可視化機能の拡張など最新のアップデート情報をご紹介します。
       slides:
-        - file: nokia.pdf
+        - link: https://drive.google.com/file/d/1Rf6mDAQzIMcMp2lrPL1Y0AaRyRjw7W_p/view
 
     - title: ブロックチェーンで実現するデータ流通・利活用基盤
       time: 14:30-15:00
@@ -152,7 +152,7 @@
         ここ1年半ほどSD-WANに関わって得られた経験則をみなさんと共有をするとともに、今後の
         SD-WANを展望したいと思います。
       slides:
-        - file: sdone.pdf
+        - link: https://drive.google.com/file/d/189i4xdb9bcb-k_ivbfaAPlu7hgTrDu2v/view
 
     - title: データモデリング言語 YANG を活用したマルチベンダネットワーク制御
       time: 16:00-16:30
@@ -172,7 +172,7 @@
         の制御を実現するシスコ NSO を例に取り上げ、データモデリングがネットワーク制御に
         もたらす利点と今後の動向を、ユースケースを添えて紹介します。
       slides:
-        - file: cisco.pdf
+        - link: https://drive.google.com/file/d/1JWMyyAJLEs7pLo8PQH-n9KUUdkfCjxsn/view
 
     - title: 休憩
       time: 16:30-16:45
@@ -212,7 +212,7 @@
         の3点をコンセプトとしました。本セッションでは、ShowNet 2017におけるサービスチェイ
         ニングの実現を通して得られた知見について解説します。
       slides:
-        - file: ShowNet.pdf
+        - link: https://drive.google.com/file/d/1hdJFcMZC4pv-JoS1q2qdVvHccMKH-MM6/view
 
     - title: 閉会の挨拶
       time: 18:15-
