@@ -3,7 +3,7 @@
   sponsors:
     - name: ヴイエムウェア株式会社
       profile: http://www.vmware.com/jp/
-      logo: VMW.jpg
+      logo: vmw.jpg
     - name: 華為技術日本株式会社
       profile: http://e.huawei.com/jp/
       logo: HW-2013.jpg
@@ -22,7 +22,7 @@
       logo: NTT_com.jpg
     - name: O3 project
       profile: http://www.o3project.org/
-      logo: O3_r.jpg
+      logo: o3_r.jpg
     - name: KDDI株式会社
       profile: http://www.kddi.com/
       logo: kddi.jpg
@@ -37,7 +37,7 @@
       logo: fujitsu.jpg
     - name: ブロケード コミュニケーションズ システムズ株式会社
       profile: https://jp.broadcom.com/
-      logo: BROCADE.jpg
+      logo: brocade.jpg
 
 - tier_name: シルバースポンサー
   size: small
