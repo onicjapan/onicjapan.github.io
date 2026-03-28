@@ -36,7 +36,7 @@
        Neela Jacques 氏は、そこで行われている議論を紹介し、それがオープンに行われていることが SDN 実現のためにいかに
         重要であるかについてお話しします。
       slides:
-        - file: 30_session1_Neela_Jacques.pdf
+        - link: https://drive.google.com/file/d/1_R_CbosmNlMhSd30TH7cgQ-P7AaqpOdl/view
 
     - title: 通信事業者におけるSDI（Software Defined Infrastructure）の取り組みと実現に対する課題について
       time: "10:45"
@@ -54,7 +54,7 @@
         (A Multiple southbound interface control Platform and Portal system)を開発した。<br>
         この通信事業者向けSDIオーケストレータの開発や運用の経験を元に、SDNを適応したNW構築を実現する為の課題について共有する。
       slides:
-        - file: 30_session2_Kurihara.pdf
+        - link: https://drive.google.com/file/d/1lyIKn7x_efpZTlERoYg7415tvtW7mmQc/view
 
     - title: 休憩
       time: "11:15"
@@ -79,7 +79,7 @@
         なること。<br>
         本発表においては、上記3点に関する現実を解説し、サービスプロバイダの利点と今後のあるべきフレームワークを議論する。
       slides:
-        - file: session3.pdf
+        - link: https://drive.google.com/file/d/1Z6biUDbEOGNd_05JWNZauBFFXEdCYx6R/view
 
     - title: 休憩
       time: "12:15"
@@ -115,7 +115,7 @@
         本発表では、このShowNetにおいて2つのASにまたがって構築されたSDNとNFVの詳細やそれらを実現する各要素技術について
         発表します。
       slides:
-        - file: 30_session5_Nakamura.pdf
+        - link: https://drive.google.com/file/d/1sZrfD9mSko83DGmGHzjAulkgOMuoweqY/view
 
     - title: Interop Tokyo 2014 SDI ShowCase にみるマーケット動向
       time: "14:15"
@@ -132,7 +132,7 @@
         ベンダーが多数集結し、展示およびデモンストレーションを行った。<br />
         この「SDI ShowCase」を通じて、SDNベンダおよびマーケットの動向について概観する。
       slides:
-        - file: 30_session6_Nishino.pdf
+        - link: https://drive.google.com/file/d/1yoNMxEPihIy6HoR8brYKoVrx8aw98gbH/view
 
     - title: 休憩
       time: "14:45"
@@ -171,7 +171,7 @@
         150者以上のメンバーが活動しています。<br>
         本セッションでは、ONFからみるSDNの動向と、SDN市場を支えるONFの取り組みをご紹介します。
       slides:
-        - file: 30_session8_Sasou.pdf
+        - link: https://drive.google.com/file/d/1pHPKUgRz6Wtxy2LvobsvFnSz9jcjZKhZ/view
 
     - title: オーバーレイSDN 最新技術動向
       time: "16:00"
@@ -188,7 +188,7 @@
         本セッションでは現在様々な議論が行われているOverlaySDNの方式やプロトコル、
         及びService Chaining等関連する技術についての最新動向について解説します。
       slides:
-        - file: 30_session9_ykashimura.pdf
+        - link: https://drive.google.com/file/d/1GdS2j6ssUu0gnt31izsBHhugeeyotPGj/view
 
     - title: 休憩
       time: "16:30"
@@ -209,7 +209,7 @@
         観点が重要であることが分かってきた。<br />
         これらのSDN/NFVの実用化を通して得られた経験を元に、今後必要となる技術と実務を考える。
       slides:
-        - file: 30_session10_Hayashi_Nakayama.pdf
+        - link: https://drive.google.com/file/d/16dzOpKxOWuYtf_mULlQUIEYy6u8ZhR2f/view
 
 
     - title: クラウドシステムへの適用を通して考えるSDNの利点と課題
@@ -439,7 +439,7 @@
        クチャが生み出されるのか、SDN と NFVのコラボレーションによる本当に役立つ「サービス」アーキ
        テクチャの構築について述べます。
       slides:
-        - file: 31_session1_Sekiya.pdf
+        - link: https://drive.google.com/file/d/1CaMmUxcWs2MjEgWOp5DXj8bLwz2I68iY/view
 
     - title: Open Compute Projectにおけるネットワークの課題と検証実験
       time: "10:15"
@@ -457,7 +457,7 @@
         せるかが課題であり、これらネットワークを含むシステム全体の運用技術を検証しているOCPJapan 
         PoCワーキンググループの活動を紹介する。
       slides:
-        - file: 31_session2_Ise.pdf
+        - link: https://drive.google.com/file/d/14w27KlKNm7gaSuRc1J_wDmF2YiQzeB5Q/view
 
     - title: Yahoo! JAPANのSDN/OpenStackへの取り組み ～爆速を支えるネットワークインフラのこれまでとこれから～
       time: "10:45"
@@ -473,7 +473,7 @@
         その中で見えた課題から、今後、SDN/Openstackに対して<br>どのような取り組みを行っていくか
         紹介します。
       slides:
-        - file: 31_session3_yahoo.pdf
+        - link: https://drive.google.com/file/d/1GoSJ3W8oVWtmTjb4ocr0g8MLtSBFuQEs/view
 
     - title: 休憩
       time: "11:15"
@@ -492,7 +492,7 @@
         先行してSDNを導入した各事業者のモチベーションや具体的なユースケースを通じて<br>
         得られた効果と設計・運用の課題について解説します。
       slides:
-        - file: 31_session4_Mouri.pdf
+        - link: https://drive.google.com/file/d/1E4N3LBonsFMrSi1xr0e2qUOptNc7MAZJ/view
 
     - title: 休憩
       time: "12:15"
@@ -514,7 +514,7 @@
         開発されています。<br>
         本発表ではRyuの近況報告とともに、我々の考えるSDNの今後について紹介します。
       slides:
-        - file: 31_session5_Ishida.pdf
+        - link: https://drive.google.com/file/d/1jm8EWf-JzXfuVGRRHv1I0AVxwlR9dw4U/view
 
     - title: Current status of Trema
       time: "13:45"
@@ -532,7 +532,7 @@
         今回の講演では主にTrema の近況、OpenFlow 1.3 に対応した Trema-edge 、Trema を用いた
         開発事例などについて紹介いたします。
       slides:
-        - file: 31_session6_ishii.pdf
+        - link: https://drive.google.com/file/d/11NwWkWBdsjndXGP4-FF2aEQd7Fjk1Px9/view
 
     - title: 沖縄オープンラボの取組み
       time: "14:15"
@@ -549,7 +549,7 @@
         本格的な活動を開始して約1年が経ちましたが、本発表ではテストベッドの概要、それに関わる取組みについて
         お話します。
       slides:
-        - file: 31_session7_Sato.pdf
+        - link: https://drive.google.com/file/d/11EvO6pnOLYasmvGimMGcdlmkFMOXHLuA/view
 
     - title: 休憩
       time: "14:45"
@@ -569,7 +569,7 @@
         す。Intercloudを含め、ITのサービス化をさらに発展させる計画です。<br>これまでの取組みと具体的な成
         果だけでなく、アーキテクチャをどう進化させていくのか、その狙いや展望についてもお伝えします。
       slides:
-        - file: 31_session8_Ichikawa.pdf
+        - link: https://drive.google.com/file/d/1PZSTEK6PzLqAuPER2-g05_vFeMiX6S_3/view
 
     - title: 汎用x86サーバを用いた高速なソフトウエアパケット処理技術
       time: "15:30"
@@ -587,7 +587,7 @@
         また我々が取り組んでいるオープンソースの高速なSDN/OpenFlow ソフトスイッチLagopusの中身について解
         説します。
       slides:
-        - file: 31_session9_Nakajima.pdf
+        - link: https://drive.google.com/file/d/12PYvlw9usd-qMxiagsBVALVDSTovNkfa/view
 
     - title: 休憩
       time: "16:00"
@@ -609,7 +609,7 @@
         そのような多種多様な構成の中で、SDNをどのように活用していくべきか、サービスを提供する側の目線で<br>
         実際の課題や取り組みも交えながら発表させていただきます。
       slides:
-        - file: 31_session10_Inoue.pdf
+        - link: https://drive.google.com/file/d/1vMpd4uKSrsUjNR3Xx6FUt1r4SvQMFmcs/view
 
     - title: 休憩
       time: "16:50"
@@ -634,7 +634,7 @@
         将来性について語ります。<br />
         また，今後のSDNの”未来”を予想します。
       slides:
-        - file: 31_session28.pdf
+        - link: https://drive.google.com/file/d/1Zxli3-2Y2RIbPZevz_LXzffNTMH7UeVp/view
 
     - title: 終了
       time: "18:00"
