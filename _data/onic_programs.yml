@@ -30,7 +30,7 @@
         未来に向けてどんな課題を解決していけばよいのか、SDNを含めたア
         ーキテクチャはどうあるべきかについて述べさせていただきます。
       slides:
-        - file: 1401_toyama.pdf
+        - link: https://drive.google.com/file/d/1qK2fltiB2HNjnHTghSMVxgEA2ahc2DM-/view
 
     - title: Carrier SDN Lessons Learned
       time: "10:40"
@@ -45,7 +45,7 @@
         過ぎた今、あらためてSDN導入のモチベーションや技術的課題、そこか
         ら得られた教訓について振り返る。
       slides:
-        - file: 1402_ogaki.pdf
+        - link: https://drive.google.com/file/d/1tij3Ix5xmzZ3a2wujcqaxydP73WF5pN9/view
 
     - title: IIJが目指す Enterprise as a Service
       time: "11:10"
@@ -63,7 +63,7 @@
         しょうか。IIJが目指すサービ ス像を、Omnibusを通してご紹介いたし
         ます。
       slides:
-        - file: 1403_ishida.pdf
+        - link: https://drive.google.com/file/d/10kaRusXFGinixJy0pz2sreVEK7agsr6f/view
 
     - title: ONOS(Open Network Operating System)とは
       time: "11:40"
@@ -82,7 +82,7 @@
         Iとは独立したNBIを提供します。またONOSの ユースケースについても
         ご紹介いたします。
       slides:
-        - file: 1404_kanaumi.pdf
+        - link: https://drive.google.com/file/d/1n4BZDK60R3t4Y710OnOaLB74yx73VUFG/view
 
     - title: 昼食
       time: "12:10"
@@ -116,7 +116,7 @@
         use cases, case studies, and highlight lessons 
         learned along the way.
       slides:
-        - file: 1415_neela.pdf
+        - link: https://drive.google.com/file/d/1FvGmjleo74KjfrLMiUMuu22PQHDTjAj3/view
 
     - title: 休憩
       time: "13:40"
@@ -150,7 +150,7 @@
         SDKやAPIの提供などについて議論します。<br>
         本パネルは英語（日本語同時通訳あり) で行います。
       slides:
-        - file: 1405_nakajima.pdf
+        - link: https://drive.google.com/file/d/1J5eiZCH3MsG30iyL59I_bG0eOoeprQ_b/view
 
     - title: 休憩
       time: "15:20"
@@ -207,7 +207,7 @@
         す必要性も高まっている。そのような環境の中 におけるSDN市場に
         ついて考える。
       slides:
-        - file: 1409_kinoshita.pdf
+        - link: https://drive.google.com/file/d/19SvX6xmibb8SgDE54mgzMg1V8WqPPWu9/view
 
     - title: Interop Tokyo ShowNet 2015におけるSDN/NFV
       time: "17:30"
@@ -232,7 +232,7 @@
         ら実装、性能に関する実験や、運用にいたるまでの全てについて発表
         いたします。
       slides:
-        - file: 1410_nakamura.pdf
+        - link: https://drive.google.com/file/d/1CspzuyXNpERKNRI_EFt_pgF0ghturpEu/view
 
     - title: SDNとOpenStackによるオープンイノベーションの具体例と可能性とは？<br>～沖縄オープンラボの活動紹介～
       time: "18:00"
@@ -251,7 +251,7 @@
         kinawa Open Days 2015での様子、さらに今後の方向性・可能
         性についてお話しします。
       slides:
-        - file: 1411_torii.pdf
+        - link: https://drive.google.com/file/d/1-o2cO7M79v9eF_wWIOMw1_bGNZHbblRF/view
 
     - title: 本会議終了
       time: "18:30"
@@ -381,7 +381,7 @@
         総務省O3プロジェクトとしてこれまで行ってきた光コアネットワークSDN化
         への取り組みと今後の展望について紹介する。
       slides:
-        - file: 1424_yamada.pdf
+        - link: https://drive.google.com/file/d/1lH6WiGGp3zhz5wybKHhnk2sEGDEPp8Cn/view
 
     - title: 休憩
       time: "14:20"
@@ -484,7 +484,7 @@
         し効率的に運用しているのか。OpenStack LibertyとMidoNetを使って構
         築している環境についてご紹介します。
       slides:
-        - file: 1503_hasegawa.pdf
+        - link: https://drive.google.com/file/d/1AI9TPIiLhO1Qb4nnDyPCIAg9op0b9Ndb/view
 
     - title: ネットワークの仮想化に備えて何をしておくべきか
       time: "14:00"
@@ -552,7 +552,7 @@
         討を積極的に行っています。弊社内でこれまで取り組んできたPoCの活動と、我々
         が描いている NFV MANOのあるべき姿をご紹介します。
       slides:
-        - file: 160115_SDNJapan.pdf
+        - link: https://drive.google.com/file/d/1V-esI0D8r2os6pdVtGape69eZTNz1QGK/view
 
     - title: 終了
       time: "17:00"
@@ -596,7 +596,7 @@
         本セッションは、これら各ソリューション製品及びネットワークオペレーション
         に対して富士通の目指す姿をご紹介します。
       slides:
-        - file: 1527_fujii.pdf
+        - link: https://drive.google.com/file/d/14EyxoBND2B_1LOK2PtsXSkA0BPpA-lUm/view
 
     - title: 休憩
       time: "14:00"
@@ -616,7 +616,7 @@
         ストレーションとETSI MANOフレームワークを用いてVNF管理を実現するOpenSt
         ack Tackerの概要についてもご紹介します。
       slides:
-        - file: 1523_Brocade.pdf
+        - link: https://drive.google.com/file/d/1xfKZv_0IF4UxKDI4k9EPBh7LUgkK_f4c/view
 
     - title: 休憩
       time: "14:50"
@@ -637,7 +637,7 @@
         SDN/NFV技術を用いて、企業ネットワークに必要な機能をオンデマンドに提供す
         る「IIJ Omnibusサービス」を紹介します。
       slides:
-        - file: 1524_jjj.pdf
+        - link: https://drive.google.com/file/d/1rN0SXef9xZzMQeaB5byLXeDyirrdelHp/view
 
     - title: 終了
       time: "15:40"
