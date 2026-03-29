@@ -3,8 +3,8 @@ layout: post
 title: BoF・本会議 参加登録のご案内
 description: ONIC 2025 @ 軽井沢、参加登録を開始しました。
 date: 2025-10-08 22:34:23 +0900
-hero_image: /img/dmitrii-e-VNlAuQ3eulg-unsplash.jpg
-image: /img/dmitrii-e-VNlAuQ3eulg-unsplash.jpg
+hero_image: /archives/2025/img/dmitrii-e-VNlAuQ3eulg-unsplash.jpg
+image: /archives/2025/img/dmitrii-e-VNlAuQ3eulg-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
 ---

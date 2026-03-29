@@ -3,8 +3,8 @@ layout: post
 title: SDNをきっかけに見えたエンジニア育成の未来
 description: SDNショックから生成AI時代へ
 date: 2025-07-12 06:51:00 +0900
-hero_image: /img/emile-perron-xrVDYZRGdw4-unsplash.jpg
-image: /img/emile-perron-xrVDYZRGdw4-unsplash.jpg
+hero_image: /archives/2025/img/emile-perron-xrVDYZRGdw4-unsplash.jpg
+image: /archives/2025/img/emile-perron-xrVDYZRGdw4-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
 ---

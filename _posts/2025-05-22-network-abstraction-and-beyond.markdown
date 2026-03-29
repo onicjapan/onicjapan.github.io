@@ -3,8 +3,8 @@ layout: post
 title: ネットワークの抽象化の先に見えたもの
 description: ネットワークの抽象化や仮想化技術は、サーバやコンテナ、データセンター、セキュリティ、消費電力などの環境問題対策などに広がる世界へ誘う
 date: 2025-05-22 15:40:00 +0900
-hero_image: /img/202505-blog.jpg
-image: /img/202505-blog.jpg
+hero_image: /archives/2025/img/202505-blog.jpg
+image: /archives/2025/img/202505-blog.jpg
 hero_height: is-middle
 hero_darken: true
 ---

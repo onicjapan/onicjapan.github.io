@@ -3,8 +3,8 @@ layout: post
 title: ONIC 2025の資料公開
 description: 公開可能な資料が全て揃いました。
 date: 2025-11-18 08:41:23 +0900
-hero_image: /img/viktor-talashuk-05HLFQu8bFw-unsplash.jpg
-image: /img/viktor-talashuk-05HLFQu8bFw-unsplash.jpg
+hero_image: /archives/2025/img/viktor-talashuk-05HLFQu8bFw-unsplash.jpg
+image: /archives/2025/img/viktor-talashuk-05HLFQu8bFw-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
 ---

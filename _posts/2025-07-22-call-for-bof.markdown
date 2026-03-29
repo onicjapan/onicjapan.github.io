@@ -3,8 +3,8 @@ layout: post
 title: Open NetworkIng Conference Japan 2025 前夜のBoF募集 
 description: Open NetworkIng Conference Japan 2025 前夜のBoF募集
 date: 2025-07-22 14:00:00 +0900
-hero_image: /img/foyer.jpg
-image: /img/foyer.jpg
+hero_image: /archives/2025/img/foyer.jpg
+image: /archives/2025/img/foyer.jpg
 hero_height: is-middle
 hero_darken: true
 ---

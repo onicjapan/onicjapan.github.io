@@ -3,8 +3,8 @@ layout: post
 title: 今年の見どころ その① 
 description: オープン技術の開発と利活用に向けた取り組みがポイント
 date: 2025-09-30 10:00:00 +0900
-hero_image: /img/ohga_hall_main.jpg
-image: /img/ohga_hall_main.jpg
+hero_image: /archives/2025/img/ohga_hall_main.jpg
+image: /archives/2025/img/ohga_hall_main.jpg
 hero_height: is-middle
 hero_darken: true
 ---

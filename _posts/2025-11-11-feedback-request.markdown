@@ -3,8 +3,8 @@ layout: post
 title: アンケートのお願い
 description: 本会議、BoFに関するアンケートにご協力ください。
 date: 2025-11-11 21:49:23 +0900
-hero_image: /img/jon-tyson-vVSleEYPSGY-unsplash.jpg
-image: /img/jon-tyson-vVSleEYPSGY-unsplash.jpg
+hero_image: /archives/2025/img/jon-tyson-vVSleEYPSGY-unsplash.jpg
+image: /archives/2025/img/jon-tyson-vVSleEYPSGY-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
 ---

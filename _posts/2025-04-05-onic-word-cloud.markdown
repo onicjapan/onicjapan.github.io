@@ -3,8 +3,8 @@ layout: post
 title: ONICの財産 - アーカイブ資料
 description: 過去のONICを振り返ってみると、様々なテーマでの講演をいただいておりました。今回はその傾向とアーカイブのご紹介をします。
 date: 2025-04-05 13:20:00 +0900
-hero_image: /img/wesley-tingey-snNHKZ-mGfE-unsplash.jpg
-image: /img/wesley-tingey-snNHKZ-mGfE-unsplash.jpg
+hero_image: /archives/2025/img/wesley-tingey-snNHKZ-mGfE-unsplash.jpg
+image: /archives/2025/img/wesley-tingey-snNHKZ-mGfE-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
 ---

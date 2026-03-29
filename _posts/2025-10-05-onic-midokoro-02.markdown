@@ -3,8 +3,8 @@ layout: post
 title: 今年の見どころ その②
 description: コンテスト系、AI、電力、自作チップまで盛りだくさん！
 date: 2025-10-05 16:12:23 +0900
-hero_image: /img/the-climate-reality-project-Hb6uWq0i4MI-unsplash.jpg
-image: /img/the-climate-reality-project-Hb6uWq0i4MI-unsplash.jpg
+hero_image: /archives/2025/img/the-climate-reality-project-Hb6uWq0i4MI-unsplash.jpg
+image: /archives/2025/img/the-climate-reality-project-Hb6uWq0i4MI-unsplash.jpg
 hero_height: is-middle
 hero_darken: true
 ---

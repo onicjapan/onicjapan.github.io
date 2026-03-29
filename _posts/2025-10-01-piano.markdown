@@ -3,8 +3,8 @@ layout: post
 title: 秋の軽井沢でピアノの音色と共に
 description: ブレイクタイム
 date: 2025-10-01 10:00:00 +0900
-hero_image: /img/piano.jpg
-image: /img/piano.jpg
+hero_image: /archives/2025/img/piano.jpg
+image: /archives/2025/img/piano.jpg
 hero_height: is-middle
 hero_darken: true
 ---

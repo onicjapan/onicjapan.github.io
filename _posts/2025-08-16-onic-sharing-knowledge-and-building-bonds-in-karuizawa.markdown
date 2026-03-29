@@ -3,8 +3,8 @@ layout: post
 title: 軽井沢で響き合うオープンネットワークの知と絆 
 description: 軽井沢という場が育む、運用知とコミュニティの力
 date: 2025-08-16 15:00:00 +0900
-hero_image: /img/ohga_hall_entrance.jpg
-image: /img/ohga_hall_entrance.jpg
+hero_image: /archives/2025/img/ohga_hall_entrance.jpg
+image: /archives/2025/img/ohga_hall_entrance.jpg
 hero_height: is-middle
 hero_darken: true
 ---
