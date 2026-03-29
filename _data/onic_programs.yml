@@ -35,12 +35,13 @@
         このセッションでは、 Kubernetes Engine で信頼できるワークロードと信頼できない
         ワークロードを実行する時の様々なプラクティス、長所と短所を説明します。
         さらに gVisor の技術解説に加え、 Kubernetes コミュニティの最新動向を紹介します。
+    - title: 休憩
+      time: 11:05-11:20        
     - title: NTTコミュニケーションズにおけるSDN技術開発の取り組み
       time: 11:20-11:50
       type: スポンサーセッション1
       tag: s01
-    - title: 休憩
-      time: 11:05-11:20
+
       presenters:
         - name_and_title: |-
             NTTコミュニケーションズ株式会社
@@ -52,7 +53,7 @@
         Functions）を用いた付加価値提供の検討などをテーマに技術開発に取り組んでおります。
         今回はその一端をご紹介させていただければと思います。
       slides:
-        - file: NTTCom_sakai.pdf
+        - link: https://drive.google.com/file/d/1xfpCxv7TZF3JQC_IxfEkXlLO9zQDi6YO/view
     - title: P4/Stratum活用に向けたプログラマブルスイッチの実装・検討
       time: 11:50-12:20
       type: OSS活動
@@ -62,7 +63,7 @@
             日本電信電話株式会社 ネットワークサービスシステム研究所
             武井 勇樹
       slides:
-        - file: NTT_takei.pdf
+        - link: https://drive.google.com/file/d/1LLjWMShdwOKAYmbIPv_GEcyXuIsFBbLh/view
     - title: お昼休憩
       time: 12:20-13:30
     - title: ブロックチェーンが加速する「自律分散型」異業種共創
@@ -98,7 +99,7 @@
         アクセスを例に取り上げ、SD-WANの導入事例をご紹介します。また、SD-WANと共に普及が
         進みそうなホワイトボックスやuCPEの話題も取り上げ、今後のSD-WANを展望したいと思います。
       slides:
-        - file: NTTCom_Kanishima_ONIC2018.pdf
+        - link: https://drive.google.com/file/d/1eaffrVPqHFYJsjyE9tdmk-B9axliaYCx/view
     - title: 休憩
       time: 14:30-14:40
     - title: こんなに違うコンテナ・ネットワーキングあれこれ
@@ -118,7 +119,7 @@
         NSX-T Container Pluginなどを取り上げ、それぞれの動作概要や特性を解説し、
         使い所などについて考えてみます。
       slides:
-        - file: VMware-ONC-2018-ContainerNetworking.pdf
+        - link: https://drive.google.com/file/d/1jJFS6KOnGaXTpRyt6K5NlxscduRmQkWf/view
     - title: SRv6 Network Programming – ネットワークシステムの分離と再統合
       time: 15:10-15:40
       type: 次世代NW技術 SRv6
@@ -176,7 +177,7 @@
         本発表では、いくつかの実装例をまじえながら、RFC8345定義されているデータモデルと
         その特徴は何か、応用としてどういったことができそうなのかを紹介します。
       slides:
-        - file: TIS-onic2018.pdf
+        - link: https://drive.google.com/file/d/1jGurohpkoOtSD-wTSGnVa51JXxz5oYjW/view
     - title: 休憩
       time: 16:50-17:00
     - title: 検証テストを自動化せよ！〜NSO と pyATS の組み合わせでここまでできる〜
@@ -197,7 +198,7 @@
         テスト自動化フレームワーク pyATS を組み合わせることで、この検証工程をイマドキで
         モダンなツールで自動化する手法をご紹介します。
       slides:
-        - file: onic2018_cisco_v1.1.pdf
+        - link: https://drive.google.com/file/d/178Yb8xyuC0JKTKx6h8AQf8dlG72Aukre/view
     - title: オープンソースソフトウェアを活用したホワイトボックススイッチの開発について
       time: 17:30-18:00
       type: ユースケース
@@ -215,7 +216,7 @@
         本講演では現在我々が進めているオープンソースソフトウェアを活用したホワイトボックススイッチの
         開発について紹介する。
       slides:
-        - file: KDDI_suzuki2.pdf
+        - link: https://drive.google.com/file/d/1fZyUjunNm1ev_kHcNN-PEhjPY_AukzQs/view
     - title: 休憩
       time: 18:00-18:10
     - title: Edge Heavy Computing におけるネットワークの活用と5Gへの期待
@@ -253,7 +254,7 @@
         本発表では、ShowNetでSDN/NFVを継続して検証した経験から、なぜ今IP経路制御技術を採用し、
         どのような設計で、サービスチェイニングの構築と運用を行ったのか、そしてそこから得られた知見について解説します。
       slides:
-        - file: ShowNet2018.pdf
+        - link: https://drive.google.com/file/d/1rwH-diRlUBOEg0GJiAQJnELIiwTupeAk/view
     - title: 閉会の挨拶
       time: 19:10-
       presenters:
