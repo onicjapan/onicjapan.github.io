@@ -14,6 +14,7 @@ show_sidebar: true
 |            | [http://www.ohgahall.or.jp](http://www.ohgahall.or.jp) |
 | 構成       | 基調講演、講演、スポンサー講演、BoF |
 |            | ハイブリット開催 |
+| 後援       | 一般社団法人スマートビルディング共創機構（SBCO） |
 | アクセス   | [詳細はこちらをご確認ください]({{ site.baseurl }}/access/) | 
 
 ## 開催趣旨文
