@@ -4,7 +4,7 @@ title: ONICとShowNet2026
 description: ONIC2026でのShowNetセッションについて
 date: 2026-07-07 22:10:00 +0900
 hero_image: /img/202606-blog.png
-image: /img/202606-blog.jpg
+image: /img/202606-blog.png
 hero_height: is-middle
 hero_darken: true
 ---
