@@ -7,4 +7,15 @@
     - name: 株式会社竹中工務店
       profile: https://www.takenaka.co.jp/
       logo: takenaka.png
-      
+    - name: 株式会社インターネットイニシアティブ
+      profile: https://www.iij.ad.jp/
+      logo: IIJ-ONIC.png
+    - name: NTTドコモビジネス株式会社
+      profile: https://www.ntt.com/index.html
+      logo: docombus_ONIC.png
+- tier_name: 配信サポーター
+  size: middle
+  sponsors:
+    - name: Webex
+      profile: https://www.webex.com/jp/ja.html
+      logo: webex.png       
