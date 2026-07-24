@@ -14,8 +14,8 @@
       profile: https://www.ntt.com/index.html
       logo: docombus_ONIC.png
 - tier_name: 配信サポーター
-  size: middle
+  size: small
   sponsors:
-    - name: Webex
+    - name: シスコシステムズ合同会社
       profile: https://www.webex.com/jp/ja.html
       logo: webex.png       
