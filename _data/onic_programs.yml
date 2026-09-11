@@ -1,0 +1,216 @@
+- date: November 12, 2026 (BoF@ホワイエ)
+  sessions:
+    - title: 受付開始
+      time: "17:45"
+    - title: 開会
+      time: "17:55"
+    - title: TBD
+      time: "18:00"
+      type: BoF
+      tag: b_01
+      presenters:
+        - name_and_title: |-
+            Red Hat<br />
+            織 学
+          photo: placeholder-120x140.png
+      abstract: |-
+        TBD
+        キーワード: **TBD**, **TBD**, **TBD**
+    - title: AIエージェント時代のトランスポートSLIMのご紹介
+      time: "18:30"
+      type: BoF
+      tag: b_02
+      presenters:
+        - name_and_title: |-
+            シスコシステムズ合同会社<br />
+            小倉 隆啓
+          photo: placeholder-120x140.png
+      abstract: |-
+        今日、多くの組織でAIエージェント（Agentic AI）の構築が加速する中、分散したエージェント同士を安全かつ超低遅延で接続する「ネットワーク」の役割は、ますますその重要性を増しています。
+        本セッションでは、マルチエージェント時代の新しいトランスポートとして開発されている「SLIM（Secure Low-Latency Interactive Messaging）」のアーキテクチャをご紹介します。
+        SLIMが備える以下のような特徴をご紹介しながら、AIエージェント時代のネットワークについて考えてみたいと思います。
+
+        キーワード: **プレーンの完全分離**, **IPに代わるアドレス設計**, **パケット配送の安全性**
+    - title: 休憩
+      time: "19:00"
+    - title: TBD
+      time: "19:30"
+      type: BoF
+      tag: b_03
+      presenters:
+        - name_and_title: |-
+            NTTドコモビジネス株式会社<br />
+            イノベーションセンター 技術顧問<br />
+            山下 克司
+          photo: placeholder-120x140.png
+      abstract: |-
+        キーワード: **TBD**, **TBD**, **TBD**   
+    - title: 閉会
+      time: "20:00"
+- date: November 13, 2026 (本会議@メインホール)
+  sessions:
+    - title: 受付開始
+      time: "9:45"
+    - title: 開会の挨拶
+      time: "10:10"
+      presenters:
+        - name_and_title: |-
+            ONIC Japan 実行委員会委員長<br />
+            境 智史
+    - title: 量子
+      time: "10:15"
+      type: 講演
+      tag: s_01
+      presenters:
+        - name_and_title: |-
+            NTTドコモビジネス株式会社<br />
+            イノベーションセンター 技術顧問<br />
+            山下 克司
+          photo: placeholder-120x140.png
+      abstract: |-
+        TBD
+        キーワード: **TBD**, **TBD**, **TBD**
+    - title: TBD
+      time: "10:45"
+      type: スポンサー
+      tag: s_02
+      presenters:
+        - name_and_title: |-
+            TBD
+          photo: placeholder-120x140.png
+      abstract: |-
+        TBD
+        キーワード: **TBD**, **TBD**, **TBD**
+    - title: デジ庁
+      time: "11:15"
+      type: 講演
+      tag: s_03
+      presenters:
+        - name_and_title: |-
+            関谷先生
+          photo: placeholder-120x140.png
+      abstract: |-
+        TBD
+        キーワード: **TBD**, **TBD**, **TBD**
+    - title: お昼休憩
+      time: "11:45"
+    - title: Shownet
+      time: "13:15"
+      type: 講演
+      tag: s_04
+      presenters:
+        - name_and_title: |-
+            菅野さん
+          photo: placeholder-120x140.png
+      abstract: |-
+        TBD
+        キーワード: **TBD**, **TBD**, **TBD**
+    - title: TBD
+      time: "13:45"
+      type: スポンサー
+      tag: s_05
+      presenters:
+        - name_and_title: |-
+            TBD
+          photo: placeholder-120x140.png
+      abstract: |-
+        TBD
+        キーワード: **TBD**, **TBD**, **TBD**
+    - title: トラブルシューティング
+      time: "14:15"
+      type: 講演
+      tag: s_06
+      presenters:
+        - name_and_title: |-
+            芳野さん
+          photo: placeholder-120x140.png
+      abstract: |-
+        TBD
+        キーワード: **TBD**, **TBD**, **TBD**
+    - title: AI
+      time: "14:45"
+      type: 講演
+      tag: s_07
+      presenters:
+        - name_and_title: |-
+            北野さん
+          photo: placeholder-120x140.png
+      abstract: |-
+        TBD
+        キーワード: **TBD**, **TBD**, **TBD**
+    - title: 休憩
+      time: "15:15"
+    - title: ビルOS
+      time: "15:45"
+      type: 講演
+      tag: s_08
+      presenters:
+        - name_and_title: |-
+            阿多先生
+          photo: placeholder-120x140.png
+      abstract: |-
+        TBD
+        キーワード: **TBD**, **TBD**, **TBD**
+    - title: TBD
+      time: "16:15"
+      type: スポンサー
+      tag: s_09
+      presenters:
+        - name_and_title: |-
+            粕谷さん
+          photo: placeholder-120x140.png
+      abstract: |-
+        TBD
+        キーワード: **TBD**, **TBD**, **TBD**
+    - title: AECC.org
+      time: "16:45"
+      type: 講演
+      tag: s_10
+      presenters:
+        - name_and_title: |-
+            エネオスさん
+          photo: placeholder-120x140.png
+      abstract: |-
+        TBD
+        キーワード: **TBD**, **TBD**, **TBD**
+    - title: 休憩
+      time: "17:15"
+    - title: TBD
+      time: "17:45"
+      type: スポンサー
+      tag: s_11
+      presenters:
+        - name_and_title: |-
+            TBD
+          photo: placeholder-120x140.png
+      abstract: |-
+        TBD
+        キーワード: **TBD**, **TBD**, **TBD**
+    - title: AI for NW
+      time: "18:15"
+      type: パネル
+      tag: p_01
+      presenters:
+        - name_and_title: |-
+            (モデレータ)<br />
+            東京大学
+            中村 遼<br /><br />
+            (スピーカー)<br />
+            NTT<br />
+            KDDI
+            宮坂さん<br />
+            楽天
+            壬生さん<br />
+            Softbank<br />
+            LINE Yahoo
+
+          photo: placeholder-120x140.png
+      abstract: |-
+        TBD
+        キーワード: **TBD**, **TBD**, **TBD**
+    - title: 閉会の挨拶
+      time: "19:30"
+      presenters:
+        - name_and_title: |-
+            ONIC実行委員会<br />
+            浅羽 登志也    
