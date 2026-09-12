@@ -186,28 +186,40 @@
       abstract: |-
         TBD
         キーワード: **TBD**, **TBD**, **TBD**
-    - title: AI for NW
+    - title: AIOps パネルディスカッション
       time: "18:15"
       type: パネル
       tag: p_01
       presenters:
         - name_and_title: |-
             (モデレータ)<br />
-            東京大学
+            東京大学<br />
             中村 遼<br /><br />
-            (スピーカー)<br />
+          photo: Ryo_Nakamura.png
+        - name_and_title: |-
+            株式会社KDDI総合研究所<br />
+            宮坂 拓也
+          photo: Takuya_Miyasaka.jpg
+        - name_and_title: |-
+            ソフトバンク株式会社<br />
+            井手 敦也
+          photo: Atsuya_Ide.jpg
+        - name_and_title: |-
             NTT<br />
-            KDDI
-            宮坂さん<br />
-            楽天
-            壬生さん<br />
-            Softbank<br />
-            LINE Yahoo
-
+            TBD
           photo: placeholder-120x140.png
+        - name_and_title: |-
+            楽天<br />
+            壬生さん
+          photo: placeholder-120x140.png
+        - name_and_title: |-
+            LINE Yahoo<br />
+            TBD
+          photo: placeholder-120x140.png 
       abstract: |-
-        TBD
-        キーワード: **TBD**, **TBD**, **TBD**
+        ネットワーク運用に生成AIを活用するAIOpsは、「試してみる」段階から「どう使うか」を具体的に設計しデプロイする段階へと急速に進展しています。しかし一口にAIOpsといっても、そのあり方は一つではありません。対象となるネットワーク環境は千差万別、扱えるデータやセキュリティ上の制約も組織によって大きく異なります。そして解決したい問題も、設計支援から障害対応、サポートまで、現場ごとに優先順位は変わります。であればそれぞれに応じたAIの活用方法があるはずです。本パネルセッションでは、ネットワーク業界から実際にAIOpsに取り組む5名をお招きし、どうAIを使っているのか、何がうまくいき、課題は何なのか、そしてこの先ネットワーク運用はどう変わるのかを議論します。
+
+        キーワード: **AIOps**, **ネットワーク運用**, **LLM**
     - title: 閉会の挨拶
       time: "19:30"
       presenters:
