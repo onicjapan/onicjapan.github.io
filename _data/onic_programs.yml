@@ -133,11 +133,13 @@
       tag: s_07
       presenters:
         - name_and_title: |-
-            北野さん
-          photo: placeholder-120x140.png
+            NEC<br />
+            北野 貴稔
+          photo: Takatoshi_Kitano.png
       abstract: |-
         TBD
-        キーワード: **TBD**, **TBD**, **TBD**
+
+        キーワード: **AIスーパーコンピュータ**, **Agent**, **GPU**
     - title: 休憩
       time: "15:15"
     - title: ビルOS
