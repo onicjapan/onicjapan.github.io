@@ -98,17 +98,20 @@
         キーワード: **TBD**, **TBD**, **TBD**
     - title: お昼休憩
       time: "11:45"
-    - title: Shownet
+    - title: Interop Tokyo 2026 ShowNetに見るAI/ML時代のバックボーンネットワークの進化
       time: "13:15"
       type: 講演
       tag: s_04
       presenters:
         - name_and_title: |-
-            菅野さん
-          photo: placeholder-120x140.png
+            ソフトバンク株式会社<br />
+            Interop Tokyo 2026 ShowNet NOCチームメンバー<br />
+            菅野 麻子
+          photo: Asako_Kanno.jpg
       abstract: |-
-        TBD
-        キーワード: **TBD**, **TBD**, **TBD**
+        ShowNetは、インターネットテクノロジーイベント”Interop Tokyo”において構築される、世界最大のデモンストレーションネットワークです。昨今のAI/MLワークロードの拡大や映像トラフィックの高品質化に伴い、バックボーンネットワークにはさらなる広帯域化に加え、低遅延・ロスレスな通信や柔軟なサービス収容が求められています。今年のShowNetでは、800Gバックボーンを構築するとともに、ShowNet初となるIPv4レスアンダーレイ、RoCEv2の伝送など、さまざまな要件をマルチベンダ環境で実現しました。本講演では、その設計・構築や相互接続で得られた知見を交えながら、バックボーンネットワークがどのように進化しているのかを紹介します。
+
+        キーワード: **バックボーン**, **相互接続性**, **ShowNet**
     - title: TBD
       time: "13:45"
       type: スポンサー
