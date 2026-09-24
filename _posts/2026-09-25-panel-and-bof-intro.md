@@ -2,7 +2,7 @@
 layout: post
 title: ONIC Japan 2026 パネルディスカッションやBoFのご紹介
 description: 今年はパネルディスカッション開催します！
-date: 2026-09-25 06:51:00 +0900
+date: 2026-09-25 06:52:00 +0900
 hero_image: /img/ohga_hall2.png
 image: /img/ohga_hall2.png
 hero_height: is-middle
