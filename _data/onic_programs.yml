@@ -85,17 +85,17 @@
       abstract: |-
         TBD
         キーワード: **TBD**, **TBD**, **TBD**
-    - title: デジ庁
+    - title: トラブルシューティング
       time: "11:15"
       type: 講演
       tag: s_03
       presenters:
         - name_and_title: |-
-            関谷先生
+            芳野さん
           photo: placeholder-120x140.png
       abstract: |-
         TBD
-        キーワード: **TBD**, **TBD**, **TBD**
+        キーワード: **TBD**, **TBD**, **TBD**        
     - title: お昼休憩
       time: "11:45"
     - title: Interop Tokyo 2026 ShowNetに見るAI/ML時代のバックボーンネットワークの進化
@@ -123,17 +123,17 @@
       abstract: |-
         TBD
         キーワード: **TBD**, **TBD**, **TBD**
-    - title: トラブルシューティング
+    - title: デジ庁
       time: "14:15"
       type: 講演
       tag: s_06
       presenters:
         - name_and_title: |-
-            芳野さん
+            関谷先生
           photo: placeholder-120x140.png
       abstract: |-
         TBD
-        キーワード: **TBD**, **TBD**, **TBD**
+        キーワード: **TBD**, **TBD**, **TBD**        
     - title: 先進Agentic AIの開発を支えるNECのAIスーパーコンピュータ
       time: "14:45"
       type: 講演
