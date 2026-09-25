@@ -4,7 +4,7 @@
       time: "17:45"
     - title: 開会
       time: "17:55"
-    - title: TBD
+    - title: "Linuxネットワークスタック進化の軌跡: 過去5年の歩みと最新トレンド"
       time: "18:00"
       type: BoF
       tag: b_01
@@ -12,10 +12,11 @@
         - name_and_title: |-
             Red Hat<br />
             織 学
-          photo: placeholder-120x140.png
+          photo: Manabu_Ori.jpg
       abstract: |-
-        TBD
-        キーワード: **TBD**, **TBD**, **TBD**
+        Linuxカーネルのネットワーク領域は、クラウドネイティブ化やハードウェアの高速化に伴い、目覚ましい進化を続けています。本講演では、直近5年間におけるネットワーク開発の変遷を振り返りつつ、現在の最新状況と今後の展望について解説します。
+
+        キーワード: **Linux**, **Kernel**, **Networking**
     - title: AIエージェント時代のトランスポートSLIMのご紹介
       time: "18:30"
       type: BoF
@@ -33,17 +34,18 @@
         キーワード: **プレーンの完全分離**, **IPに代わるアドレス設計**, **パケット配送の安全性**
     - title: 休憩
       time: "19:00"
-    - title: TBD
+    - title: 量子コンピューターの利用技術
       time: "19:30"
       type: BoF
       tag: b_03
       presenters:
         - name_and_title: |-
-            NTTドコモビジネス株式会社<br />
-            イノベーションセンター 技術顧問<br />
+            山下技術開発事務所合同会社<br />
             山下 克司
           photo: placeholder-120x140.png
       abstract: |-
+        量子コンピューターはどう利用されようとしているのか、また、光量子コンピューターの特性を光通信技術に取り込む夢を語り合いたい
+
         キーワード: **TBD**, **TBD**, **TBD**   
     - title: 閉会
       time: "20:00"
