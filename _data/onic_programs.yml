@@ -139,13 +139,13 @@
         OpenAIが2022年にChatGPT公開を皮切りにAIの活用が活発化し、2026年にはAnthropicのProject Glasswingによって脆弱性検出と対応にAI活用が広がりました。圧倒的な検出数の多さに各国政府も動き出す事態にまで広がっています。本講演では、表面的に見えている部分とその実態を解説し、個人的な考察も含めて最善策を提案します。
 
         キーワード: **脆弱性**, **フロンティアAI**, **セキュリティ**
-    - title: デジ庁
+    - title: TBD
       time: "14:15"
       type: 講演
       tag: s_06
       presenters:
         - name_and_title: |-
-            関谷先生
+            TBD
           photo: placeholder-120x140.png
       abstract: |-
         TBD
@@ -171,13 +171,13 @@
         キーワード: **AIスーパーコンピュータ**, **Agent**, **GPU**
     - title: 休憩
       time: "15:15"
-    - title: ビルOS
+    - title: TBD
       time: "15:45"
       type: 講演
       tag: s_08
       presenters:
         - name_and_title: |-
-            阿多先生
+            TBD
           photo: placeholder-120x140.png
       abstract: |-
         TBD
