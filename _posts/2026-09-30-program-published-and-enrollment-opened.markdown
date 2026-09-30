@@ -2,7 +2,7 @@
 layout: post
 title: プログラム公開と参加登録の開始
 description: ONIC2026のBoFおよび本会議プログラムの公開し、参加登録の受付を開始しました。
-date: 2026-09-30 12:37:00 +0900
+date: 2026-09-30 14:41:00 +0900
 hero_image: /img/chidera-faustina-okeke-IpqZ5HCX9ps-unsplash.jpg
 image: /img/chidera-faustina-okeke-IpqZ5HCX9ps-unsplash.jpg
 hero_height: is-middle
