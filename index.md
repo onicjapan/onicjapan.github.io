@@ -33,6 +33,12 @@ Open NetworkIng Conference Japan (ONIC) も今年で15回目の開催となり�
 
 Open NetworkIng Conference Japan 実行委員会
 
+### 参加登録
+以下のリンクから参加登録をしてください。オンライン・オフラインを問わず、参加するには登録が必要です。
+
+{: align="center"}
+## [[参加登録]](https://forms.gle/FRsRfHLCx1acLUj19)
+
 # COMMITTEE
 
 ## Open NetworkIng Conference Japan 実行委員会
