@@ -134,7 +134,7 @@
         - name_and_title: |-
             KELA株式会社<br />
             田中 拓己
-          photo: tt.png
+          photo: Takumi_Tanaka.png
       abstract: |-
         OpenAIが2022年にChatGPT公開を皮切りにAIの活用が活発化し、2026年にはAnthropicのProject Glasswingによって脆弱性検出と対応にAI活用が広がりました。圧倒的な検出数の多さに各国政府も動き出す事態にまで広がっています。本講演では、表面的に見えている部分とその実態を解説し、個人的な考察も含めて最善策を提案します。
 
