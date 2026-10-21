@@ -3,8 +3,8 @@ layout: post
 title: サイバー攻撃とフロンティアAI
 description: 9月以降のサイバー攻撃被害と情報漏洩事案について
 date: 2026-10-22 00:45:00 +0900
-hero_image: /img/cyber_japan.png
-image: /img/cyber_japan.png
+hero_image: /img/blog-cyber_japan.png
+image: /img/blog-cyber_japan.png
 hero_height: is-middle
 hero_darken: true
 ---
