@@ -2,7 +2,7 @@
 layout: post
 title: 
 description: 2026年の実行委員活動を通して教えてもらった書籍
-date: 2026-11-03 23:59:00 +0900
+date: 2026-10-30 23:59:00 +0900
 hero_image: /img/recommended_books2.jpg
 image: /img/recommended_books2.jpg
 hero_height: is-middle
