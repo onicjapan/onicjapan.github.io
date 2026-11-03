@@ -83,7 +83,7 @@ ONIC実行委員 金海 好彦
 
 ###### 追伸
 
-2022年のONIC では，[Software-Defined Networks ソフトウェア定義ネットワークの概念・設計・ユースケース](https://amzn.asia/d/021JRr78)の著者の一人であるラリーさんに[講演](https://www.onic.jp/archives/2022/program-detail/#s_10)いただき，直筆のサインもいただきました。
+2022年のONIC では，[Software-Defined Networks ソフトウェア定義ネットワークの概念・設計・ユースケース](https://amzn.asia/d/021JRr78)の著者の一人であるラリーさんに[講演]({{site.baseurl}}/archives/2022/program-detail/#s_10)いただき，直筆のサインもいただきました。
 
 ![](/img/SDN_book-Larry_autograph.jpg)
 
