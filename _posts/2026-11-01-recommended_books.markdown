@@ -3,8 +3,8 @@ layout: post
 title: 今年の実行委員活動で出会った書籍
 description: 今年の実行委員活動で出会った書籍
 date: 2026-11-01 23:59:00 +0900
-hero_image: /img/recommended_books3.jpg
-image: /img/recommended_books3.jpg
+hero_image: /img/recommended_books.jpg
+image: /img/recommended_books.jpg
 hero_height: is-middle
 hero_darken: true
 ---
