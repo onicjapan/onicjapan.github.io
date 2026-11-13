@@ -4,6 +4,14 @@ subtitle: NOVEMBER 12-13, 2026
 layout: page
 show_sidebar: true
 ---
+## 緊急連絡
+
+現在発生中のOffice365の障害で、参加するための情報が書かれたメールやカレンダーにアクセスできない方がおられるのではないかと思います。
+
+緊急の対処として、事前登録なしでどなたでも参加できるリンクを用意しましたので、こちらご利用ください（「ゲストとして参加」、お名前とメールアドレスを入れていただければWebExに入れます）。
+
+参加リンク: [https://x.gd/09dJD](https://x.gd/09dJD)
+
 ## 開催概要
 
 | 名称       | Open NetworkIng Conference Japan 2026 |
