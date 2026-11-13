@@ -4,14 +4,6 @@ subtitle: NOVEMBER 12-13, 2026
 layout: page
 show_sidebar: true
 ---
-## 緊急連絡
-
-現在発生中のMicrosoft 365の障害で、参加するための情報が書かれたメールやカレンダーにアクセスできない方がおられるのではないかと思います。
-
-緊急の対処として、事前登録なしでどなたでも参加できるリンクを用意しましたので、こちらご利用ください（「ゲストとして参加」、お名前とメールアドレスを入れていただければWebExに入れます）。
-
-参加リンク: [https://x.gd/09dJD](https://x.gd/09dJD)
-
 ## 開催概要
 
 | 名称       | Open NetworkIng Conference Japan 2026 |
@@ -40,12 +32,6 @@ Open NetworkIng Conference Japan (ONIC) も今年で15回目の開催となり�
 ぜひご参加いただきますよう、よろしくお願いいたします。
 
 Open NetworkIng Conference Japan 実行委員会
-
-### 参加登録
-以下のリンクから参加登録をしてください。オンライン・オフラインを問わず、参加するには登録が必要です。
-
-{: align="center"}
-## [[参加登録]](https://forms.gle/FRsRfHLCx1acLUj19)
 
 # COMMITTEE
 
