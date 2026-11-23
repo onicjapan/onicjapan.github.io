@@ -34,6 +34,8 @@
         本プレゼンテーションでは、マルチエージェント時代のトランスポートであるSLIM（Secure Low-Latency Interactive Messaging）のアーキテクチャをご紹介しながら、AIエージェント時代のネットワークのあり方について考えてみたいと思います。
 
         キーワード: **エージェント間通信**, **SLIM**
+      slides:
+        - link: https://drive.google.com/file/d/1iIGsjxb3PYk4zIvr3J7r9hZ8DKmXGHNt/view
     - title: 休憩
       time: "19:00"
     - title: 量子コンピューターの利用技術
