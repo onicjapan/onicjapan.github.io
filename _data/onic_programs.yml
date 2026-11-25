@@ -252,6 +252,8 @@
         本講演では、ドコモビジネスがdB RINKやSIGNを通じて実現してきた移動固定融合をさらに進化させるTN-NTN統合ネットワークの実現に向け、最新動向や技術課題、取り組み事例を紹介します。また、宇宙領域を取り巻く技術・市場環境の変化を踏まえながら、ドコモビジネスが描くTN-NTN統合ネットワークの将来像と技術戦略について考察し、次世代社会インフラ実現への挑戦と可能性を共有します。
 
         キーワード: **TN-NTN統合**, **宇宙**
+      slides:
+        - link: https://drive.google.com/file/d/1u6wZ_MLEZNdkUrkjZZS0uC_UQUlZykhy/view
     - title: AIOps パネルディスカッション
       time: "18:15"
       type: パネル
