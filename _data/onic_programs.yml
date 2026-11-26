@@ -97,6 +97,8 @@
         IIJは2019年に国内で初めてとなるコンシューマ向けのeSIM提供を開始しました。本講演では提供に向けた苦労話や提供後の取組について解説します。また、新技術や量子コンピューティングの影響についての話題にも触れます。
 
         キーワード: **eSIM**, **モバイル**, **PQC**
+      slides:
+        - link: https://drive.google.com/file/d/1xxH9DUe_OHoWMPcKMrt4wh6iRVOosolW/view
     - title: ICTトラブルシューティングコンテストの面白さ
       time: "11:15"
       type: 講演
